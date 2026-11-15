@@ -386,5 +386,10 @@
     "rpm": { "low": null, "high": null, "tier": "Low", "sources": [
       { "label": "AIR Media-Tech", "url": "https://air.io/en/audience-growth/whos-growing-fastest-on-youtube-and-which-niches-are-hot-in-2025" } ],
       "note": "AIR Media-Tech reports a median RPM of $0.33 for kids content, against $10.22 for education and science (May 2025 to May 2026)." }
+  },
+  {
+    "id": "fireplace-holiday-ambience", "name": "Fireplace and holiday ambience", "group": "Life and audio",
+    "description": "Looping fireplace, yule log and cozy winter-scene videos and streams, often with holiday music, with no presenter.",
+    "queries": ["fireplace ambience", "cozy christmas ambience", "yule log fireplace"]
   }
 ]
