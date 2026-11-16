@@ -150,13 +150,14 @@
   "updatedOn": "2026-11-09"
  },
  "hands-only-crafts": {
-  "summary": "Titles only; thumbnails could not be viewed today. 29% of 40 channels have a 5x video, the lowest rate of any niche tracked. All 12 top videos are Shorts and the most-viewed has 32,097 views, so read the multiples as provisional.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 43 (48 yesterday); 23% of 40 channels have a 5x video (29%), the lowest rate tracked. All 12 top videos are Shorts; 10s Tingles (89 subscribers) has 5, led by a kinetic-sand video at 5,760.1x (43,201 views).",
   "titlePatterns": [
-   "\"Satisfying 3D Autumn <object> Craft ASMR | No Voiceover\", e.g. \"Satisfying 3D Autumn Terracotta Pumpkin Pot Craft ASMR | No Voiceover\"",
-   "\"Tiny <object> Machine Is So Satisfying\", e.g. \"Tiny Éclair Filling & Mirror-Glazing Machine Is So Satisfying\"",
-   "Hashtag stack after the title, e.g. \"#shorts #asmr #satisfying\""
+   "\"Combing Kinetic Sand & Tiny Shells for Instant Calm 🐚⏳ #ASMR #Shorts\"",
+   "\"Dropping Glass Marbles into a Resonant Brass Singing Bowl 🔮🔔 #shorts #asmr\"",
+   "\"Tiny <object> Machine Is So Satisfying\", e.g. \"Tiny Checkerboard Cookie Layering Machine Is So Satisfying\"",
+   "\"Satisfying 3D Autumn <object> Craft ASMR | No Voiceover\", e.g. \"Satisfying 3D Autumn Cinnamon Sachet Craft ASMR | No Voiceover\""
   ],
-  "updatedOn": "2026-11-10"
+  "updatedOn": "2026-11-16"
  },
  "archival-restoration": {
   "summary": "Titles only; thumbnails could not be viewed today. 68% of 40 channels have a 5x video; typical best outlier is 10.7x. 10 of the top 12 videos come from channels under 100K subscribers and 2 of the 12 are Shorts.",
@@ -298,24 +299,24 @@
   "updatedOn": "2026-11-13"
  },
  "trading-app-tutorials": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 86 (88 yesterday), 31 channels (25), 53% have a 5x video (50%), typical best outlier 5.8x (5.4x). Alex Carter has 3 of the top 12 with Grok Bot titles; CryptoSnake has 5, mostly travel vlogs.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 85 (86 yesterday), 36 channels (31), 57% have a 5x video (53%), typical best outlier 6.1x (5.8x). TC Trading's Kalshi Short leads at 13,907.1x (13,183,917 views); CryptoSnake has 5 of the top 12, 3 of them travel titles.",
   "titlePatterns": [
-   "\"Why Grok Bot Is the Easiest Way to Automate Crypto Trading in 2026 (Full Beginner Tutorial)\"",
-   "\"Zerodha Introduces Trading on Charts - Trading on Chart in Zerodha\"",
-   "\"Stop day trading stocks and start trading their relationship instead\" (a Short)",
-   "\"Fomo Web App Tutorial 2026 – Trade Any AltCoin\""
+   "\"Sportsbooks Profit When You Lose. Kalshi Doesn’t.\" (a Short)",
+   "\"Why Grok Bot Is The Most Powerful AI Trading Agent You Can Have Right Now\"",
+   "\"Fomo Web App Tutorial 2026 – Trade Any AltCoin\"",
+   "\"Ownbit Wallet Tutorial: Air-Gapped Crypto Signer & Multisig [Step-by-Step Guide]\""
   ],
-  "updatedOn": "2026-11-15"
+  "updatedOn": "2026-11-16"
  },
  "vintage-album-music": {
-  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 21 channels, 22% have a 5x video, typical best outlier 0x, score 53. Half the top 12 are Halbae Music V-Pop remix and city-pop mixes, not classic soul or reggae albums; the other half are Zena Haz soul blues.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 65 (53 yesterday), 39 channels (21), 36% have a 5x video (22%), typical best outlier 0x. Eternal Root Radio and Halbae Music have 3 of the top 12 each; the most-viewed is an AINA reggae medley at 1,699,220.",
   "titlePatterns": [
-   "\"<Artist> – 5 Hours of Soul Blues & Southern Soul for Late Nights\"",
-   "\"68-Year-Old Soul Legend | Late Night AOR & City Pop Playlist (45 Min Mix)\"",
-   "\"Deep Husky Female Soul & City Pop | Rainy Night Drive Playlist\"",
-   "\"<Artist> - Best Of | Soul Blues Music | Vol. 7\""
+   "\"<Artists> | Reggae Version Nonstop | Positive Roots\", e.g. \"Roel Cortez, Freddie Aguilar & Asin | Reggae Version Nonstop | Positive Roots\"",
+   "\"<Verse> | Powerful Roots Reggae Full ALBUM on Eternal Root Radio\", e.g. \"MY HELP COMES FROM THE LORD | Powerful Roots Reggae Full ALBUM on Eternal Root Radio\"",
+   "\"<Singer> Medley Nonstop Reggae Cover\", e.g. \"Engelbert Humperdinck Medley Nonstop Reggae Cover | Aina Music Collection\"",
+   "\"<Artist> – <Song> | Deep Roots Reggae\", e.g. \"Nia Selah – Carry the Fire | Deep Roots Reggae\""
   ],
-  "updatedOn": "2026-11-13"
+  "updatedOn": "2026-11-16"
  },
  "prediction-markets-explained": {
   "summary": "Titles only; thumbnails could not be viewed today. First day with data: 36 channels, 37% have a 5x video, typical best outlier 2.4x, score 53. 3 of the top 12 are NFL clips and 3 are Turkish or Portuguese uploads.",
@@ -335,5 +336,25 @@
    "\"<Rhyme> | Hindi Rhymes For Kids\", e.g. \"Aloo Kachaloo Beta Kahan Gaye The | Hindi Rhymes For Kids\""
   ],
   "updatedOn": "2026-11-15"
+ },
+ "fireplace-holiday-ambience": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 40 channels, 26% have a 5x video, typical best outlier 0x, score 49. 7 of the top 12 are jazz mixes from Sunday Jazz and Cozy Corner Jazz; the most-viewed (136,999) is a fireplace video.",
+  "titlePatterns": [
+   "\"☕ Cozy Autumn Jazz 🍂 Smooth Melodies for Relaxation, Peace & a Quiet Afternoon\"",
+   "\"Cozy Autumn Cottage Jazz 🍁 Warm Fireplace Ambience & Relaxing Piano Jazz\"",
+   "\"Romantic Fireplace 4K | 2 Hours of Slow Relaxing Music | Cozy Date Night Ambience\"",
+   "\"Winter Wind & Fireplace Sounds | Cozy Snowy Cabin Ambience for Deep Sleep and Peaceful Nights\""
+  ],
+  "updatedOn": "2026-11-16"
+ },
+ "business-case-studies": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score 77 (73 yesterday), 43% of 40 channels have a 5x video (41%), typical best outlier 3.4x (2.1x). 7 of the top 12 are Shorts. Business Atlas (209 subscribers) has a Hermès Birkin video at 638.6x (107,291 views).",
+  "titlePatterns": [
+   "\"Why Hermès Refused to Sell You a Birkin, and Why It’s Backfiring Now\"",
+   "\"Companies That Made Billions By Being Ugly On Purpose.\" (a Short)",
+   "\"Why Uniform Rentals Are Cash Machines\" (a Short)",
+   "\"Blinkit Exposed: How is Deepinder Goyal Fooling Everyone? | Business Case Study | 2D Animation\""
+  ],
+  "updatedOn": "2026-11-16"
  }
 }

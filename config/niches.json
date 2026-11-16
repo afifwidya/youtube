@@ -391,5 +391,15 @@
     "id": "fireplace-holiday-ambience", "name": "Fireplace and holiday ambience", "group": "Life and audio",
     "description": "Looping fireplace, yule log and cozy winter-scene videos and streams, often with holiday music, with no presenter.",
     "queries": ["fireplace ambience", "cozy christmas ambience", "yule log fireplace"]
+  },
+  {
+    "id": "sleep-history-stories", "name": "Sleep and history stories", "group": "Stories",
+    "description": "Slow, calm narrations of history and other stories made for falling asleep, usually over a dark or looping image.",
+    "queries": ["history for sleep", "boring history to fall asleep to", "bedtime history stories for adults"]
+  },
+  {
+    "id": "b2b-software-reviews", "name": "B2B software reviews", "group": "Tech",
+    "description": "Voiceover reviews and comparisons of business software such as project management, CRM and SaaS tools, built from screen recordings.",
+    "queries": ["best project management software", "crm software review", "saas tools for small business"]
   }
 ]
