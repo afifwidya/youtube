@@ -1,5 +1,64 @@
 [
   {
+    "date": "2026-11-17",
+    "type": "new_niche",
+    "nicheId": "sleep-history-stories",
+    "title": "New niche tracked: Sleep and history stories",
+    "text": "Slow, calm narrations of history and other stories made for falling asleep, usually over a dark or looping image."
+  },
+  {
+    "date": "2026-11-17",
+    "type": "new_niche",
+    "nicheId": "b2b-software-reviews",
+    "title": "New niche tracked: B2B software reviews",
+    "text": "Voiceover reviews and comparisons of business software such as project management, CRM and SaaS tools, built from screen recordings."
+  },
+  {
+    "date": "2026-11-17",
+    "type": "breakout",
+    "videoId": "1skoz3FidOw",
+    "channelId": "UCpVJI6NCLYC3pxaLUeu8Djw",
+    "nicheId": "sleep-history-stories",
+    "title": "Breaking: Trump turns up the volume! ''OVAL OFFICE A NATIONAL MONUMENT''",
+    "text": "1186.1x the channel's typical views"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "breakout",
+    "videoId": "lTrBekVVBWI",
+    "channelId": "UCM5IMJQ6bEgDcnZBMTASXFA",
+    "nicheId": "hyper-casual-mobile-gameplay",
+    "title": "Riding Extreme 3D - Gameplay Walkthrough Part 95 😱🔥🚴‍♂️ Crazy Bike Racing on Mobile (iOS, Android)",
+    "text": "304.4x the channel's typical views"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "breakout",
+    "videoId": "GlvjAHae7dw",
+    "channelId": "UCjI9k0LT79NZ_iPq_ilj1mg",
+    "nicheId": "guided-prayers",
+    "title": "10min रोज़ सुबह सुने🎧मैं भाग्यशाली हूँ 🙏Positive Energy | Morning Affirmations in Hindi | I Am Lucky",
+    "text": "109x the channel's typical views"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "breakout",
+    "videoId": "MA2npiM5htA",
+    "channelId": "UCM5IMJQ6bEgDcnZBMTASXFA",
+    "nicheId": "hyper-casual-mobile-gameplay",
+    "title": "Slow Mo Run Gameplay Walkthrough Part 19 - Stories Mode (iOS/Android)",
+    "text": "78.5x the channel's typical views"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "breakout",
+    "videoId": "LBxEhcEJy1A",
+    "channelId": "UCe0fHWjFLX6DecThdT_CZyw",
+    "nicheId": "sleep-history-stories",
+    "title": "What Sleep Doctors Don't Tell You About CPAP Therapy (But I Will)",
+    "text": "73.3x the channel's typical views"
+  },
+  {
     "date": "2026-11-16",
     "type": "new_niche",
     "nicheId": "fireplace-holiday-ambience",
