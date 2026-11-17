@@ -401,5 +401,15 @@
     "id": "b2b-software-reviews", "name": "B2B software reviews", "group": "Tech",
     "description": "Voiceover reviews and comparisons of business software such as project management, CRM and SaaS tools, built from screen recordings.",
     "queries": ["best project management software", "crm software review", "saas tools for small business"]
+  },
+  {
+    "id": "remote-work-digital-nomad", "name": "Remote work and digital nomad guides", "group": "Money",
+    "description": "Narrated guides to working remotely, home-office setups and nomad visas, built from stock footage, screen recordings and slides.",
+    "queries": ["remote work tips", "digital nomad visa guide", "work from home setup"]
+  },
+  {
+    "id": "digital-minimalism", "name": "Digital minimalism", "group": "Tech",
+    "description": "Voiceover essays and how-tos on phone detox, notification control and decluttering digital life, shown over screen recordings and stock footage.",
+    "queries": ["digital minimalism", "digital declutter", "phone detox"]
   }
 ]

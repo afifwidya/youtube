@@ -210,24 +210,24 @@
   "updatedOn": "2026-11-11"
  },
  "hyper-casual-mobile-gameplay": {
-  "summary": "Titles only; thumbnails could not be viewed today. 60% of 40 channels have a 5x video; typical best outlier is 8.1x. 33 of 40 channels have under 100K subscribers. 5 of the top 12 videos are numbered episodes of one Android cooking-game series.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 88 (85 yesterday); 70% of 40 channels have a 5x video (60%); typical best outlier 9.6x (8.1x). 32 of 40 channels have under 100K subscribers. 5 of the top 12 are kitchen cooking-game titles.",
   "titlePatterns": [
    "Numbered series with a genre label, e.g. \"Ultimate Kitchen Cooking Challenge | Satisfying DIY Food Making Game 3D | Android Gameplay #13\"",
-   "Walkthrough part number plus platforms, e.g. \"Snow Race 3D! - Gameplay Walkthrough Part 19 (iOS, Android)\"",
+   "Walkthrough part number plus platforms, e.g. \"Riding Extreme 3D - Gameplay Walkthrough Part 95 ... (iOS, Android)\"",
    "Character-versus-character Shorts, e.g. \"Hulk vs Spider-Man vs Jake Subway Surfers Gameplay! Who Runs the Furthest?\"",
-   "Stacked hashtags in the title, e.g. \"Super satisfying #shorts #brawlstars #streamer\""
+   "Stacked hashtags in the title, e.g. \"#shorts #brawlstars #streamer #maxipadbs #verticalgaming\""
   ],
-  "updatedOn": "2026-11-11"
+  "updatedOn": "2026-11-17"
  },
  "guided-prayers": {
-  "summary": "Titles only; thumbnails could not be viewed today. Only 25% of 40 channels have a 5x video and the median top outlier is 0. One channel, GUIDED PRAYER (128,000 subscribers), holds 6 of the top 12 videos, all about 3 minutes long.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 51 (47 yesterday); 30% of 40 channels have a 5x video (25%), median top outlier 0. GUIDED PRAYER (128,000 subscribers) holds 5 of the top 12; 8 of the top 12 run about 1 to 3 minutes.",
   "titlePatterns": [
    "\"Morning Prayer: God, <request>\" plus a verse, e.g. \"Morning Prayer: God, Fight My Battles | Exodus 14:14\"",
    "\"Start Your <day or week> With God\", e.g. \"Morning Prayer: God, Thank You for This New Week | Start Your Week With God\"",
-   "\"A Guided Prayer\" as a suffix, e.g. \"Help Me Love Like Jesus | A Guided Prayer\"",
-   "Mantra with a length, e.g. \"Powerful Lakshmi Narayan Mantra | 21 Minutes of Divine Blessings\""
+   "\"God, I Trust You With <topic> | Powerful Prayer for Today\", e.g. \"God, I Trust You With My Future | Powerful Prayer for Today\"",
+   "Mantra with a length, e.g. \"Powerful Lakshmi Narayan Mantra | 21 Minutes of Divine Blessings, Wealth & Prosperity\""
   ],
-  "updatedOn": "2026-11-11"
+  "updatedOn": "2026-11-17"
  },
  "robotics-humanoids": {
   "summary": "Titles only; thumbnails could not be viewed today. 76% of 40 channels have a 5x video; typical best outlier is 12.7x, but only 7 channels have under 100K subscribers. Only 3 of the top 12 videos are about robots; the rest are news or cars, so read as provisional.",
@@ -299,14 +299,14 @@
   "updatedOn": "2026-11-13"
  },
  "trading-app-tutorials": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 85 (86 yesterday), 36 channels (31), 57% have a 5x video (53%), typical best outlier 6.1x (5.8x). TC Trading's Kalshi Short leads at 13,907.1x (13,183,917 views); CryptoSnake has 5 of the top 12, 3 of them travel titles.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 86 (85 yesterday), 39 channels (36), 55% with a 5x video (57%), typical best outlier 5.9x (6.1x). 3 of the top 12 are about Grok Bot; CryptoSnake holds 5, 3 of them travel titles.",
   "titlePatterns": [
-   "\"Sportsbooks Profit When You Lose. Kalshi Doesn’t.\" (a Short)",
-   "\"Why Grok Bot Is The Most Powerful AI Trading Agent You Can Have Right Now\"",
-   "\"Fomo Web App Tutorial 2026 – Trade Any AltCoin\"",
-   "\"Ownbit Wallet Tutorial: Air-Gapped Crypto Signer & Multisig [Step-by-Step Guide]\""
+   "\"The ONLY <app or bot> Tutorial You Need 2026\", e.g. \"The ONLY Grok Bot Tutorial You Need 2026 - How To Use Grok Bot For Beginners\"",
+   "\"How To Actually Build <thing> Using <tool> (Beginner Tutorial)\", e.g. \"How To Actually Build A Trading Agent Using Grok Bot (Beginner Tutorial)\"",
+   "Broker feature news, e.g. \"Zerodha Introduces Trading on Charts - Trading on Chart in Zerodha\"",
+   "\"<App> Tutorial 2026\" plus a promise, e.g. \"Fomo Web App Tutorial 2026 – Trade Any AltCoin\""
   ],
-  "updatedOn": "2026-11-16"
+  "updatedOn": "2026-11-17"
  },
  "vintage-album-music": {
   "summary": "Titles only; thumbnails could not be viewed today. Score 65 (53 yesterday), 39 channels (21), 36% have a 5x video (22%), typical best outlier 0x. Eternal Root Radio and Halbae Music have 3 of the top 12 each; the most-viewed is an AINA reggae medley at 1,699,220.",
@@ -356,5 +356,25 @@
    "\"Blinkit Exposed: How is Deepinder Goyal Fooling Everyone? | Business Case Study | 2D Animation\""
   ],
   "updatedOn": "2026-11-16"
+ },
+ "sleep-history-stories": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day tracked: score 88, 40 channels, 64% with a 5x video, typical best outlier 17.3x. 8 of the top 12 videos open with Why, How or What; one top video is a news-style clip that does not fit the sleep theme.",
+  "titlePatterns": [
+   "\"Why Did <people> <odd habit>?\", e.g. \"Why Did Scottish Families Sleep Inside Wooden Boxes?\"",
+   "\"How Did <people> <survive a hardship>?\", e.g. \"How Did Japanese People Survive Winter in Houses Made of Paper?\"",
+   "\"What Did <people> Do For <need>?\", e.g. \"What Did Ancient Humans Do For Pleasure?\"",
+   "Numbered list with a wartime angle, e.g. \"9 Things British Radio Operators Did in WWII Because the Germans Were Listening\""
+  ],
+  "updatedOn": "2026-11-17"
+ },
+ "b2b-software-reviews": {
+  "summary": "Titles only; thumbnails could not be viewed today. First day tracked: score 45, 39 channels, 26% with a 5x video, typical best outlier 1.7x. Bulb Digital has 3 of the top 12, all Microsoft 365 topics; 2 of the top 12 are off-topic experiment Shorts.",
+  "titlePatterns": [
+   "\"How to Choose the Right <software type> for <audience> in 2026\", e.g. \"How to Choose the Right Inventory Management Platform for Construction and Field Services in 2026\"",
+   "\"<Tool> Is Frustrating Because You're Using It Wrong (And How to Fix it)\", e.g. \"Microsoft 365 Is Frustrating Because You're Using It Wrong (And How to Fix it)\"",
+   "\"How to Automate Your <task> in <tool>\", e.g. \"How to Automate Your Project Management Tasks in Microsoft 365\"",
+   "A \"<Tool> Full Review\" suffix after a hook, e.g. \"... | Beehiiv Full Review\""
+  ],
+  "updatedOn": "2026-11-17"
  }
 }
