@@ -30,24 +30,24 @@
   "updatedOn": "2026-11-12"
  },
  "dark-history": {
-  "summary": "Titles only; thumbnails could not be viewed today. Lowest breakout rate of the five niches reviewed today at 56%; typical best outlier 7.1x. 5 of the top 12 videos have Bengali, Kannada or Hindi titles, so English-language demand looks thinner.",
+  "summary": "Titles only; thumbnails could not be viewed today. Breakout rate fell from 62% to 53% and typical best outlier from 9.1x to 6.1x; score 86 (unchanged), 39 channels (40). 7 of the top 12 titles are in Bengali or Burmese, so English-language demand looks thin.",
   "titlePatterns": [
-   "\"The Dark History of <subject>\"",
-   "\"The Daily Horror of Being a <role> in <place>\"",
-   "\"The Dark Secret Behind <famous thing>\"",
-   "Plain \"| Dark History\" tag after the main title"
+   "\"The DARK HISTORY of <subject>…\", e.g. \"The DARK HISTORY of Honcho… | (Roblox Doors)\"",
+   "\"<Subject> | The Dark History of <subject>\", e.g. \"Gangs of Peshawar | The Dark History of Mumtazy\"",
+   "\"<Name> - The Dark Secret Behind <famous thing>\", e.g. \"BOUGUEREAU - The Dark Secret Behind History's \"Most Perfect\" Paintings\"",
+   "A local-language title followed by \"| Dark History of <subject>\", e.g. \"... | Dark History of Panama Railroad\""
   ],
-  "updatedOn": "2026-11-07"
+  "updatedOn": "2026-11-18"
  },
  "military-ww2": {
-  "summary": "Titles only; thumbnails could not be viewed today. Median top outlier fell from 25.7x to 20.8x since yesterday; 69% of channels have a 5x video and 63% are small. 5 of the top 12 titles are about Germans reacting to Americans.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 87 (unchanged); typical best outlier 22.5x (19.1x yesterday); 72% of 40 channels have a 5x video (69%), 63% are small. 8 of the top 12 titles name Germany or Germans; WWII Desk (6,730 subscribers) holds 4 of the top 12.",
   "titlePatterns": [
-   "\"Why Germans Feared <army> — But Not <army>\"",
-   "\"They Asked <Nazi leader> <question>. He Was Astonished.\"",
-   "\"German POWs Were Invited to <event>. They Thought It Was a Joke.\"",
-   "\"<subject> in <year> — 4K Restored Film Documentary\""
+   "\"Why Germans Feared <army> — But Not <army>\", e.g. \"Why Germans Feared American Troops — But Not the British\"",
+   "\"They Asked <Nazi leader> <question>. He Was Astonished.\", e.g. \"They Asked Göring Why Germany Attacked America. He Was Astonished.\"",
+   "\"German POWs <were ordered or invited to> <event>. <reaction>\", e.g. \"German POWs in America Were Ordered to Watch One Film. 1,000 Burned Their Uniforms.\"",
+   "\"We Watched <event> <twist>\", e.g. \"We Watched the USS Arizona Explosion Film Backwards\""
   ],
-  "updatedOn": "2026-11-12"
+  "updatedOn": "2026-11-18"
  },
  "animal-facts": {
   "summary": "Titles only; thumbnails could not be viewed today. 67% of 40 channels have a breakout, typical best outlier is 13x and 55% are small. 4 of the top 12 titles are Hindi or Urdu, so English-language demand may be thinner than it looks.",
@@ -376,5 +376,35 @@
    "A \"<Tool> Full Review\" suffix after a hook, e.g. \"... | Beehiiv Full Review\""
   ],
   "updatedOn": "2026-11-17"
+ },
+ "real-estate-investing": {
+  "summary": "Titles only; thumbnails could not be viewed today. Score 86 (94 yesterday); 40 channels, 79% with a 5x video, typical best outlier 9.2x, all unchanged. 3 of the top 12 are about housing or home building; 8 of 12 are Shorts. Read as provisional.",
+  "titlePatterns": [
+   "\"<Option A> vs <Option B> in <city> | Which One Should You Buy?\", e.g. \"2BHK vs 3BHK in Pune | Which One Should You Buy? | Location, Budget, Maintenance & Future Resale\"",
+   "\"<Market> Just Took a Very Strange Turn\", e.g. \"America’s Housing Market Just Took a Very Strange Turn\"",
+   "\"How <business> Actually Makes Money\", e.g. \"How Construction Equipment Rental Actually Makes Money\"",
+   "Stacked hashtags after a Short title, e.g. \"#shorts #podcast #rjkarthik #motivational\""
+  ],
+  "updatedOn": "2026-11-18"
+ },
+ "remote-work-digital-nomad": {
+  "summary": "Titles only; thumbnails could not be viewed today. First scores: score 61, 38 channels, 37% with a 5x video, typical best outlier 3.7x; 79% of channels are small. 7 of the top 12 are work-from-home, online-job or career titles; 5 are off-topic (TV fixes, DIY storage, a Short).",
+  "titlePatterns": [
+   "\"<Company> Job 2026 | <Company> Vacancy 2026 | <Company> Recruitment 2026\", e.g. \"Flipkart DEO Job 2026 | Flipkart Vacancy 2026 | Flipkart Recruitment 2026\"",
+   "\"<N> Genuine Work from Home Jobs Using Mobile\", e.g. \"3 GENUINE Work from HOME job for everyone using MOBILE📱💸 Earn money online, No requirement.\"",
+   "\"<Task> Jobs for Students || <benefit> Using Your Mobile or Laptop\", e.g. \"Typing Jobs for Students || Earn Money by Typing Online Using Your Mobile or Laptop\"",
+   "\"<N> Online Jobs That Pay You Immediately\", e.g. \"5 Online Jobs That Pay You Immediately\""
+  ],
+  "updatedOn": "2026-11-18"
+ },
+ "digital-minimalism": {
+  "summary": "Titles only; thumbnails could not be viewed today. First scores: score 72, 40 channels, 55% with a 5x video, typical best outlier 5.9x; 85% of channels are small. 3 Owen Kennedy titles in the top 12 have just 112 to 220 views each, so their outlier figures rest on tiny counts.",
+  "titlePatterns": [
+   "\"How I Fit My Entire Life in to a <size> Backpack I Minimalist Travel\"",
+   "\"I Stopped <habit> and This Happened...\", e.g. \"I Stopped Doom Scrolling and This Happened...\"",
+   "\"I Tried <habit> for 7 Days (<tag>)\", e.g. \"I Tried No Alarm Wake Ups for 7 Days (Brutal Honesty)\"",
+   "\"The Art of <X>: Reclaiming <Y>\", e.g. \"The Art of Slow Living: Reclaiming Peace, Stillness & Digital Minimalism\""
+  ],
+  "updatedOn": "2026-11-18"
  }
 }
