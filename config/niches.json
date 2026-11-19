@@ -411,5 +411,15 @@
     "id": "digital-minimalism", "name": "Digital minimalism", "group": "Tech",
     "description": "Voiceover essays and how-tos on phone detox, notification control and decluttering digital life, shown over screen recordings and stock footage.",
     "queries": ["digital minimalism", "digital declutter", "phone detox"]
+  },
+  {
+    "id": "rail-explainers", "name": "Railway and train explainers", "group": "Science",
+    "description": "Narrated why-and-how explainers on railways, trains and rail oddities, with no presenter on screen.",
+    "queries": ["railway explained", "why trains", "train accident explained"]
+  },
+  {
+    "id": "sci-fi-stories", "name": "Sci-fi stories and HFY tales", "group": "Stories",
+    "description": "Narrated science-fiction short stories, including HFY-style alien-contact tales.",
+    "queries": ["sci-fi story narration", "hfy story", "alien story narrated"]
   }
 ]
