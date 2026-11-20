@@ -1,14 +1,14 @@
 {
- "date": "2026-11-19",
- "headline": "prediction-markets-explained score rises 54 to 62; horror-stories cools to 48%",
+ "date": "2026-11-20",
+ "headline": "lofi-study-music score rises 64 to 70; sci-fi-stories debuts at 90",
  "paragraphs": [
-  "Biggest score move since yesterday: prediction-markets-explained rose from 54 to 62 and gained a channel (38). Its breakout rate (39%) and typical best outlier (3.2x) did not change, and only 3 of its top 12 titles name a prediction market.",
-  "Cooling: horror-stories breakout rate fell from 57% to 48% (score 75, was 77), and 7 of its top 12 titles are in Hindi or Hinglish. Typical best outlier fell from 19x to 12.9x in philosophy-stoicism and from 16.8x to 12.3x in true-crime.",
-  "New breakouts: Amelia Revenge Stories' bank-deposit video at 116.4x (14,547 views, 718 subscribers) and suyuto's Stoicism video at 68.9x (35,395 views, 2,920 subscribers). Added rail-explainers and sci-fi-stories. Thumbnails not viewable; titles only."
+  "Biggest score move since yesterday: lofi-study-music rose from 64 to 70 as its breakout rate went from 36% to 41%. Engineering fell from 82 to 79. First scores today: sci-fi-stories 90, rail-explainers 88.",
+  "Typical best outlier rose from 12.9x to 18.9x in philosophy-stoicism and from 19.6x to 24.7x in kids-songs-lullabies, which also gained 3 channels. It fell from 23.5x to 17.5x in nature-wildlife.",
+  "Breakouts: Infrastructure explained's railroad signal video at 458.5x (133,887 views, 438 subscribers) and Rocket Ship Radio's HFY story at 258.9x (71,327 views, 3,240 subscribers). Added legal-explainers and car-explainers. Thumbnails not viewable; titles only."
  ],
  "watch": [
-  "prediction-markets-explained",
-  "horror-stories",
-  "philosophy-stoicism"
+  "lofi-study-music",
+  "sci-fi-stories",
+  "rail-explainers"
  ]
 }

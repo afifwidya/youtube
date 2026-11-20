@@ -80,14 +80,14 @@
   "updatedOn": "2026-11-08"
  },
  "nature-wildlife": {
-  "summary": "Titles only; thumbnails could not be viewed today. Typical best outlier rose from 19.2x to 24.1x; score steady at 87, 87% of 40 channels have a 5x video, 60% are small. Wildlife Ethology holds 4 of the top 12 videos, Frontier Nature 3; 2 of the 12 are Shorts.",
+  "summary": "Titles only; thumbnails could not be viewed today. Typical best outlier fell from 23.5x to 17.5x; score steady at 87, 88% of 40 channels have a 5x video, 60% are small. Wildlife Ethology holds 6 of the top 12 videos; 1 of the 12 is a Short.",
   "titlePatterns": [
    "Two-sentence setup, then a tag: \"The Snake Had Deadly Venom. The Roadrunner Had a Plan | Nature Documentary\"",
+   "\"The <animal> thought it found easy prey… then <twist>\", e.g. \"The Leopard Thought It Found Easy Prey… Then the Baboons Turned on Him | Nature Documentary\"",
    "Predator versus prey: \"Snow Leopard vs Mother Ibex and Her Baby on a Deadly Cliff\"",
-   "Choice with a consequence: \"The Baboons Chose the Wrong Prey… And Paid the Price\"",
-   "Broadcaster caption style: \"Incredible footage shows how owl uses sound to hunt under snow\""
+   "Life-cycle explainer: \"Peregrine Falcon Life Cycle: 4 Eggs on a Ledge to Independence\" (132.7x, 3,662,695 views)"
   ],
-  "updatedOn": "2026-11-14"
+  "updatedOn": "2026-11-20"
  },
  "philosophy-stoicism": {
   "summary": "Titles only; thumbnails could not be viewed today. Typical best outlier fell from 19x to 12.9x (score 88, was 89); breakout rate 85% of 39 channels (40), 74% small. 7 of the top 12 titles are about women's attraction or dating; 2 Shorts have 2,280,940 and 1,061,176 views.",
@@ -100,14 +100,14 @@
   "updatedOn": "2026-11-19"
  },
  "lofi-study-music": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score fell from 74 to 64, the biggest drop of any niche. 40 channels (38 yesterday), 36% have a 5x video (41%), 98% are small. KKR rahul 09 and sunny editxx 7 hold 3 of the top 12 each.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score rose from 64 to 70, the biggest rise. 40 channels, 41% have a 5x video (36% yesterday), 98% are small. 6 of the top 12 titles share the \"SAD LO-FI ... 2026 Ultimate Mind Relaxing Lofi Beats\" wording, from 4 channels.",
   "titlePatterns": [
-   "\"SAD LO-FI 2026 Ultimate Mind Relaxing Lofi Beats | Study Sleep & Chill lofi\", reused by several channels",
-   "\"<Song or figure> Lofi Song | <tagline> | Powerful Lofi Music\", e.g. \"Maharana Pratap Lofi Song | Rajputana Attitude\"",
+   "\"SAD LO-FI 🥺💔 2026 Ultimate Mind Relaxing Lofi Beats | Study Sleep & Chill lofi\", reused by 4 channels",
+   "\"<Figure> Lofi Song | <tagline> | Powerful Lofi Music\", e.g. \"Maharana Pratap Lofi Song | Rajputana Attitude\"",
    "\"STUDY MUSIC (SLOWED+REVERB)\" followed by a block of hashtags",
-   "\"When Love Finds Its Way Back | Le Main Saiyaan Aa Gayi #song #trending\": English line plus a Hindi film-song name"
+   "Playlist framing with the year, e.g. \"Trending 2026 ... playlist\" plus \"Lofi song\" (spelling as posted by the channel)"
   ],
-  "updatedOn": "2026-11-14"
+  "updatedOn": "2026-11-20"
  },
  "sleep-ambient": {
   "summary": "Titles only; thumbnails could not be viewed today. Score 80 (82 yesterday), typical best outlier 11.3x (14.9x), 62% of 38 channels have a 5x video. 8 of the top 12 are baby lullabies or kids songs, 4 of them from Grandma's Dream Village.",
@@ -329,14 +329,14 @@
   "updatedOn": "2026-11-19"
  },
  "kids-songs-lullabies": {
-  "summary": "Titles only; thumbnails could not be viewed today. First day with data: 37 channels, 83% have a 5x video, typical best outlier 19.6x, score 83. Play Learn Replay (28,300 subs) leads at 8,160.4x on 81,628,736 views; 2 of the top 12 are labelled Hindi rhymes.",
+  "summary": "Titles only; thumbnails could not be viewed today. 40 channels (37 yesterday), 84% have a 5x video, typical best outlier 24.7x (19.6x yesterday), score 83. 50% of channels are big. 2 of the top 12 are Shorts; 2 are labelled Hindi rhymes.",
   "titlePatterns": [
    "\"<Song> | <other song names> | Nursery Rhymes & Kids Songs\", e.g. \"Baby Buffalo Cart Song | Wheels On The Bus | Old Macdonald\"",
-   "\"<Character> <story title> | Family Kids Songs & Nursery Rhymes\", e.g. \"Baby Hippo Is Sick! | Rescue the Sunshine Adventure\"",
-   "Familiar song plus a twist: \"Be Careful On The Bus | Wheels on the Bus Safety Song | Police Chase\"",
-   "\"<Rhyme> | Hindi Rhymes For Kids\", e.g. \"Aloo Kachaloo Beta Kahan Gaye The | Hindi Rhymes For Kids\""
+   "\"<Character> <problem>! | <adventure title>\", e.g. \"Baby Hippo Is Sick! | Rescue the Sunshine Adventure\"",
+   "Same song title on two channels: \"Dudi Dudi Dam Dam Dance | Dodi Dodi Dum Dum Kids Dance\" (Chiku Rhymes 800.3x, Anaya Rhymes 267.4x)",
+   "Everyday routine or very short title, e.g. \"My First Mealtime Routine: Wash, Eat, Tidy Up\", \"Zombie Toy | Kids Songs | Swekind\""
   ],
-  "updatedOn": "2026-11-15"
+  "updatedOn": "2026-11-20"
  },
  "fireplace-holiday-ambience": {
   "summary": "Titles only; thumbnails could not be viewed today. First day with data: 40 channels, 26% have a 5x video, typical best outlier 0x, score 49. 7 of the top 12 are jazz mixes from Sunday Jazz and Cozy Corner Jazz; the most-viewed (136,999) is a fireplace video.",
@@ -437,5 +437,25 @@
    "\"<Accusation> —So I <action>\", e.g. \"She Filed A Restraining Order Claiming I Was \\\"Emotionally Abusive\\\" —So I Stopped Paying Her Bills\""
   ],
   "updatedOn": "2026-11-19"
+ },
+ "rail-explainers": {
+  "summary": "Titles only; thumbnails could not be viewed today. New niche: 35 channels, 73% have a 5x video, typical best outlier 17.3x, score 88. 4 of the top 12 titles are in Hindi or Telugu; 3 of the 12 are off-topic (a share analysis, a news report, a game).",
+  "titlePatterns": [
+   "\"Every US <railway thing> Explained in 9 Minutes\", e.g. \"Every US Railroad Signal Explained in 9 Minutes\" (2 of the top 12)",
+   "\"<Crash>: What Went Wrong at 8:30? | 3D Reconstructed\", e.g. \"68 Dead in Spain's High-Speed Crash: What Went Wrong at 8:30? | 3D Reconstructed\"",
+   "Question in Hindi or Telugu plus an English tag, e.g. \"ट्रेन को सिग्नल कैसे मिलता है? | Railway Signal Explained\"",
+   "\"How a tiny mistake caused <accident>\", e.g. \"How a Tiny Mistake Caused the Kolkata–Sairang Train Accident\""
+  ],
+  "updatedOn": "2026-11-20"
+ },
+ "sci-fi-stories": {
+  "summary": "Titles only; thumbnails could not be viewed today. New niche: 39 channels, 89% have a 5x video, typical best outlier 35.8x, score 90. 82% of channels are small, none is big. 9 of the top 12 titles name HFY; 6 of the 12 come from channels under 1,000 subscribers.",
+  "titlePatterns": [
+   "\"<Alien or royal> <does X>, then a human twist | HFY\", e.g. \"The King Gave His Rejected Daughter to a Human — The Galactic Council Never Saw This Coming | HFY\"",
+   "\"Aliens Asked <question> — The Answer Terrified the Galaxy | HFY\", e.g. \"Aliens Asked Why Nothing Hunts Humans—The Answer Terrified the Galaxy | HFY\"",
+   "First-person setup, e.g. \"I Was Assigned a Wife by the Station Government | HFY Sci-Fi Story\"",
+   "Short contrast sentence, e.g. \"Every Prisoner Failed to Escape, The Human Said Thanks | HFY Sci-Fi Story\""
+  ],
+  "updatedOn": "2026-11-20"
  }
 }

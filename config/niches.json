@@ -421,5 +421,17 @@
     "id": "sci-fi-stories", "name": "Sci-fi stories and HFY tales", "group": "Stories",
     "description": "Narrated science-fiction short stories, including HFY-style alien-contact tales.",
     "queries": ["sci-fi story narration", "hfy story", "alien story narrated"]
+  },
+  {
+    "id": "legal-explainers", "name": "Legal explainers", "group": "Money",
+    "description": "Narrated explainers on everyday law, such as tenant rights, contracts and how courts work, built from stock footage, slides and animation.",
+    "queries": ["legal rights explained", "how the law works", "tenant rights explained"],
+    "rpm": {"low": 10, "high": 22, "sources": [{"label": "FluxNote", "url": "https://fluxnote.io/blog/faceless-youtube-niches-that-pay-2026"}], "note": "Single source (published May 2, 2026); it bases ranges on US-majority audiences and names no data source."}
+  },
+  {
+    "id": "car-explainers", "name": "Car and automotive explainers", "group": "Science",
+    "description": "Narrated explainers on how cars work, car brand histories and why models fail, built from footage, diagrams and animation.",
+    "queries": ["how car engines work", "car brand history", "why cars fail"],
+    "rpm": {"low": 6, "high": 14, "sources": [{"label": "FluxNote", "url": "https://fluxnote.io/blog/faceless-youtube-niches-that-pay-2026"}], "note": "Single source (published May 2, 2026); it bases ranges on US-majority audiences and names no data source."}
   }
 ]
