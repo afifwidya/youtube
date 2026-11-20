@@ -1,5 +1,64 @@
 [
   {
+    "date": "2026-11-20",
+    "type": "new_niche",
+    "nicheId": "rail-explainers",
+    "title": "New niche tracked: Railway and train explainers",
+    "text": "Narrated why-and-how explainers on railways, trains and rail oddities, with no presenter on screen."
+  },
+  {
+    "date": "2026-11-20",
+    "type": "new_niche",
+    "nicheId": "sci-fi-stories",
+    "title": "New niche tracked: Sci-fi stories and HFY tales",
+    "text": "Narrated science-fiction short stories, including HFY-style alien-contact tales."
+  },
+  {
+    "date": "2026-11-20",
+    "type": "breakout",
+    "videoId": "kqvgDV6AekQ",
+    "channelId": "UC-9kVWxSUqAqEviI-potMiA",
+    "nicheId": "rail-explainers",
+    "title": "Every US Railroad Signal Explained in 9 Minutes",
+    "text": "458.5x the channel's typical views"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "breakout",
+    "videoId": "gG-GTV9LaSc",
+    "channelId": "UCpkUHMt-KoXna0fDpFB0DBg",
+    "nicheId": "rail-explainers",
+    "title": "రైల్వే పట్టాలను దొంగలు ఎందుకు దొంగిలించలేరు? | Railway Tracks Explained in Telugu",
+    "text": "349.5x the channel's typical views"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "breakout",
+    "videoId": "orwW3NLZ9F8",
+    "channelId": "UCH0xEamg0R4vvTSVQEDheOQ",
+    "nicheId": "sci-fi-stories",
+    "title": "Every Prisoner Failed to Escape, The Human Said Thanks | HFY Sci-Fi Story",
+    "text": "258.9x the channel's typical views"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "breakout",
+    "videoId": "QKMm67Ba6qA",
+    "channelId": "UCd-udk1ibbnbVa8PHXa8sKw",
+    "nicheId": "sleep-ambient",
+    "title": "🎶2026Ultimate Mind Relaxing Lofi Beats | Study,  Sleep & Chill🎧",
+    "text": "226.9x the channel's typical views"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "breakout",
+    "videoId": "IBZqwOFI-mc",
+    "channelId": "UC-7748sTNrynbPbbf4OuG_g",
+    "nicheId": "engineering",
+    "title": "Where Will Cyclone Akvan's Rain Fall? Chennai or Andhra?",
+    "text": "179.7x the channel's typical views"
+  },
+  {
     "date": "2026-11-19",
     "type": "breakout",
     "videoId": "Ww84NpNpRfo",
