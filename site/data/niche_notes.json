@@ -319,14 +319,14 @@
   "updatedOn": "2026-11-16"
  },
  "prediction-markets-explained": {
-  "summary": "Titles only; thumbnails could not be viewed today. Score 62 (54 yesterday), 38 channels (37); 39% have a 5x video and typical best outlier is 3.2x, both unchanged. Only 3 of the top 12 titles name Kalshi, Polymarket or Binance; 3 are NFL clips and 4 are not in English.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 77 (64 yesterday); 49% of 40 channels have a 5x video (42%). A 172-second TC Trading Short has 17,588,544 views. 7 of the top 12 are Shorts, 5 are sports clips, 3 are not in English.",
   "titlePatterns": [
-   "\"What Is <platform>? <one-line claim>\", e.g. \"What Is Kalshi? It Changes Who You Bet Against.\"",
-   "\"<Platform> Changed the Rules in <month>. <Group> Got Hit\" as a Short, e.g. \"Polymarket Changed the Rules in Feb 2026. Speed Bots Got Hit #shorts\"",
+   "\"<Incumbent> Profit When You Lose. <Platform> Doesn't.\", e.g. \"Sportsbooks Profit When You Lose. Kalshi Doesn’t.\"",
+   "Short sports-stat clip with a quirky comparison, e.g. \"The NFL’s Longest Run vs. a Corgi\"",
    "\"<Asset> 15 min Market on <platform>\", e.g. \"Bitcoin 15 min Market on Robinhood\"",
-   "\"The Exact Sports Betting Roadmap I'd Follow From $0\""
+   "\"The Exact <topic> Roadmap I'd Follow From $0\", e.g. \"The Exact Sports Betting Roadmap I’d Follow From $0\""
   ],
-  "updatedOn": "2026-11-19"
+  "updatedOn": "2026-11-21"
  },
  "kids-songs-lullabies": {
   "summary": "Titles only; thumbnails could not be viewed today. 40 channels (37 yesterday), 84% have a 5x video, typical best outlier 24.7x (19.6x yesterday), score 83. 50% of channels are big. 2 of the top 12 are Shorts; 2 are labelled Hindi rhymes.",
@@ -389,14 +389,14 @@
   "updatedOn": "2026-11-18"
  },
  "remote-work-digital-nomad": {
-  "summary": "Titles only; thumbnails could not be viewed today. First scores: score 61, 38 channels, 37% with a 5x video, typical best outlier 3.7x; 79% of channels are small. 7 of the top 12 are work-from-home, online-job or career titles; 5 are off-topic (TV fixes, DIY storage, a Short).",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 67 (61 yesterday), 39 channels (38); 39% have a 5x video (37%), typical best outlier 3.8x (3.7x). 7 of the top 12 are job or remote-work titles; 4 are off-topic TV and storage tips; 79% of channels are small.",
   "titlePatterns": [
    "\"<Company> Job 2026 | <Company> Vacancy 2026 | <Company> Recruitment 2026\", e.g. \"Flipkart DEO Job 2026 | Flipkart Vacancy 2026 | Flipkart Recruitment 2026\"",
    "\"<N> Genuine Work from Home Jobs Using Mobile\", e.g. \"3 GENUINE Work from HOME job for everyone using MOBILE📱💸 Earn money online, No requirement.\"",
    "\"<Task> Jobs for Students || <benefit> Using Your Mobile or Laptop\", e.g. \"Typing Jobs for Students || Earn Money by Typing Online Using Your Mobile or Laptop\"",
    "\"<N> Online Jobs That Pay You Immediately\", e.g. \"5 Online Jobs That Pay You Immediately\""
   ],
-  "updatedOn": "2026-11-18"
+  "updatedOn": "2026-11-21"
  },
  "digital-minimalism": {
   "summary": "Titles only; thumbnails could not be viewed today. First scores: score 72, 40 channels, 55% with a 5x video, typical best outlier 5.9x; 85% of channels are small. 3 Owen Kennedy titles in the top 12 have just 112 to 220 views each, so their outlier figures rest on tiny counts.",
@@ -409,14 +409,14 @@
   "updatedOn": "2026-11-18"
  },
  "true-crime": {
-  "summary": "Titles only; thumbnails could not be viewed today. Typical best outlier fell from 16.8x to 12.3x; breakout rate rose from 73% to 76% (score 84). 8 of the top 12 are Shorts, 3 off-topic (a film song, an animals list, a meme). Hushed Case: 2,244,693 views, 3,930 subscribers.",
+  "summary": "Titles only; thumbnails could not be viewed today. Score 84, 76% with a 5x video and typical best outlier 12.3x, all unchanged. Two Afterpast videos of 79 and 87 seconds flagged today: 3,683,719 and 2,924,097 views at 20,500 subscribers. 7 of the top 12 are Shorts.",
   "titlePatterns": [
+   "\"He <did X>. Then <twist>....\", e.g. \"He Built the Cheapest Town in America. Then the Sun Went Out....\"",
    "\"The Real <person> Was More Dangerous Than <film> Made Him Look\", e.g. \"The Real Barry Seal Was More Dangerous Than Tom Cruise Made Him Look\"",
    "\"<Role> Has No Clue the <hired killer> Is an Undercover Cop\", e.g. \"\\\"Friendly\\\" Wife Has No Clue The $50,000 Hitman Is An Undercover COP\"",
-   "\"<Child> Testifies Against <parent> in <crime>\", e.g. \"7-Year-Old Boy Testifies Against His Mother in Sister's Murder\"",
-   "\"MAJOR TWIST! <Name>'s <person> Finally Speaks: <outcome>\", e.g. \"MAJOR TWIST! Christa Pike's BOYFRIEND Finally Speaks: She Got Death, He Got Life\""
+   "\"<Child> Testifies Against <parent> in <crime>\", e.g. \"7-Year-Old Boy Testifies Against His Mother in Sister’s Murder\""
   ],
-  "updatedOn": "2026-11-19"
+  "updatedOn": "2026-11-21"
  },
  "horror-stories": {
   "summary": "Titles only; thumbnails could not be viewed today. Breakout rate fell from 57% to 48%, typical best outlier from 5.5x to 4.8x; score 75 (77). 7 of the top 12 titles are in Hindi or Hinglish, so English demand looks thinner. One \"2dghibli style\" title has 9,831,575 views.",
@@ -457,5 +457,24 @@
    "Short contrast sentence, e.g. \"Every Prisoner Failed to Escape, The Human Said Thanks | HFY Sci-Fi Story\""
   ],
   "updatedOn": "2026-11-20"
+ },
+ "legal-explainers": {
+  "summary": "Titles only; thumbnails could not be viewed today. First scores: score 86, 36 channels, 52% with a 5x video, typical best outlier 5.8x; 72% of channels are small. 10 of the top 12 titles come from one channel, Logic vs. Liability (1,790 subscribers).",
+  "titlePatterns": [
+   "\"<Accused person> <does X> - Then <twist> | Legal Breakdown\", e.g. \"Clerk Accused of $5 Million Theft - Then Cops Find Her Walmart Grocery Orders | Legal Breakdown\"",
+   "\"$<amount> <offence>: <detail> | Bodycam Analysis\", e.g. \"$6,900 Publix Refund Scam: Cashier Reprinted Receipts, Says It Made Her \\\"Happy\\\" | Bodycam Analysis\"",
+   "\"She <did X>, Then <legal consequence> | Legal Breakdown\", e.g. \"She Denied a Visible Crash, Then a Search Added a Felony | Legal Breakdown\""
+  ],
+  "updatedOn": "2026-11-21"
+ },
+ "car-explainers": {
+  "summary": "Titles only; thumbnails could not be viewed today. First scores: score 74, 38 channels, 46% with a 5x video, typical best outlier 4.1x; 87% of channels are small. 3 of the top 12 are Forever Engine teardown videos; 4 of the 12 are off-topic.",
+  "titlePatterns": [
+   "\"Japanese Engineers Tore Down a <Chinese car or engine> - What They Found <Inside or Shocked Them>\", e.g. \"Japanese Engineers Tore Down a Chinese Car — What They Found Inside\"",
+   "\"<Brand> Quietly <did X> — And Never Told Owners\", e.g. \"Toyota Quietly Went Back To The Old Design — And Never Told Owners\"",
+   "\"<Brand> Just <did X> — The Entire Car Industry Is in SHOCK!\", e.g. \"Ford Just SHUT DOWN Every Dealership — The Entire Car Industry Is in SHOCK!\"",
+   "\"All <Thing> Types Explained! Which <Thing> Is Best For You?\", e.g. \"All Car Engine Types Explained! 🚗 Which Engine Is Best For You?\""
+  ],
+  "updatedOn": "2026-11-21"
  }
 }
