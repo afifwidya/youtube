@@ -1,5 +1,64 @@
 [
   {
+    "date": "2026-11-21",
+    "type": "new_niche",
+    "nicheId": "legal-explainers",
+    "title": "New niche tracked: Legal explainers",
+    "text": "Narrated explainers on everyday law, such as tenant rights, contracts and how courts work, built from stock footage, slides and animation."
+  },
+  {
+    "date": "2026-11-21",
+    "type": "new_niche",
+    "nicheId": "car-explainers",
+    "title": "New niche tracked: Car and automotive explainers",
+    "text": "Narrated explainers on how cars work, car brand histories and why models fail, built from footage, diagrams and animation."
+  },
+  {
+    "date": "2026-11-21",
+    "type": "breakout",
+    "videoId": "gfgKxcl2r5U",
+    "channelId": "UCjOTrHNGO5wbOLbzZ_6HxGw",
+    "nicheId": "true-crime",
+    "title": "He Built the Cheapest Town in America. Then the Sun Went Out....",
+    "text": "347.5x the channel's typical views"
+  },
+  {
+    "date": "2026-11-21",
+    "type": "breakout",
+    "videoId": "t4gvFALEaSs",
+    "channelId": "UCjOTrHNGO5wbOLbzZ_6HxGw",
+    "nicheId": "true-crime",
+    "title": "He Sold the Most Famous Fried Chicken on Route 66. He Never Bought One Chicken....",
+    "text": "275.9x the channel's typical views"
+  },
+  {
+    "date": "2026-11-21",
+    "type": "breakout",
+    "videoId": "yntn-wfA8KA",
+    "channelId": "UC6aqrLud356lMM1m_EisWQw",
+    "nicheId": "prediction-markets-explained",
+    "title": "Rashee Rice’s NFL Paycheck",
+    "text": "88.5x the channel's typical views"
+  },
+  {
+    "date": "2026-11-21",
+    "type": "breakout",
+    "videoId": "izCVfK8O8fw",
+    "channelId": "UCHXf38_oLI31-ZABVUapOHQ",
+    "nicheId": "personal-finance",
+    "title": "Today Gold Price Telugu | Latest Gold Rate | 18-11-2026 | Gold Price Today Hyderabad | #GoldRate",
+    "text": "66.2x the channel's typical views"
+  },
+  {
+    "date": "2026-11-21",
+    "type": "breakout",
+    "videoId": "PlTzFJnrBPQ",
+    "channelId": "UC-GuN5OM4b5HrTJWn1v0Pow",
+    "nicheId": "faceless-channel-growth",
+    "title": "🚀 Trending Sheru Bhai Video Banane Ka Naya Tarika | sheru bhai | Ai Video Kaise Banaye",
+    "text": "57.5x the channel's typical views"
+  },
+  {
     "date": "2026-11-20",
     "type": "new_niche",
     "nicheId": "rail-explainers",
