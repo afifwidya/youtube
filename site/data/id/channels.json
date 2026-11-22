@@ -1,0 +1,652 @@
+[
+  {
+    "id": "UC_id_1001",
+    "title": "Misteri Malam Nusantara",
+    "handle": "@misterimalamnusantara",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-03-12T00:00:00Z",
+    "subs": 185000,
+    "totalViews": 8325000,
+    "videoCount": 42,
+    "nicheIds": [
+      "horor-misteri-nyata"
+    ],
+    "recentVideoCount": 4,
+    "uploadsPerWeek": 2.5,
+    "shortsShare": 0.25,
+    "medianViews": 14500,
+    "baseline": {
+      "long": 14500,
+      "short": 21750
+    },
+    "bestOutlier60d": 22.1,
+    "bestViews90d": 320000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1002",
+    "title": "Arsip Kriminal ID",
+    "handle": "@arsipkriminalid",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2024-01-10T00:00:00Z",
+    "subs": 92000,
+    "totalViews": 4140000,
+    "videoCount": 42,
+    "nicheIds": [
+      "true-crime-indonesia"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 1.8,
+    "shortsShare": 0.33,
+    "medianViews": 8200,
+    "baseline": {
+      "long": 8200,
+      "short": 12300
+    },
+    "bestOutlier60d": 26.2,
+    "bestViews90d": 215000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1003",
+    "title": "Kisah Kerajaan Nusantara",
+    "handle": "@kisahkerajaannusantara",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2022-11-05T00:00:00Z",
+    "subs": 142000,
+    "totalViews": 6390000,
+    "videoCount": 42,
+    "nicheIds": [
+      "sejarah-nusantara"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0.33,
+    "medianViews": 11000,
+    "baseline": {
+      "long": 11000,
+      "short": 16500
+    },
+    "bestOutlier60d": 30.9,
+    "bestViews90d": 340000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1004",
+    "title": "Taktik Perang Dokumenter",
+    "handle": "@taktikperangdokumenter",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-05-14T00:00:00Z",
+    "subs": 210000,
+    "totalViews": 9450000,
+    "videoCount": 42,
+    "nicheIds": [
+      "sejarah-dunia-perang"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 1.5,
+    "shortsShare": 0,
+    "medianViews": 16000,
+    "baseline": {
+      "long": 16000,
+      "short": 24000
+    },
+    "bestOutlier60d": 26.3,
+    "bestViews90d": 420000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1005",
+    "title": "Peta & Geopolitik Dunia",
+    "handle": "@petageopolitikdunia",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-08-20T00:00:00Z",
+    "subs": 178000,
+    "totalViews": 8010000,
+    "videoCount": 42,
+    "nicheIds": [
+      "geopolitik-analisis-peta"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 2.2,
+    "shortsShare": 0.33,
+    "medianViews": 13500,
+    "baseline": {
+      "long": 13500,
+      "short": 20250
+    },
+    "bestOutlier60d": 28.9,
+    "bestViews90d": 390000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1006",
+    "title": "Bedah Bisnis & Brand",
+    "handle": "@bedahbisnisbrand",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2022-09-10T00:00:00Z",
+    "subs": 230000,
+    "totalViews": 10350000,
+    "videoCount": 42,
+    "nicheIds": [
+      "studi-kasus-bisnis"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0.33,
+    "medianViews": 19000,
+    "baseline": {
+      "long": 19000,
+      "short": 28500
+    },
+    "bestOutlier60d": 26.8,
+    "bestViews90d": 510000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1007",
+    "title": "Atur Gaji Pintar",
+    "handle": "@aturgajipintar",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2024-02-14T00:00:00Z",
+    "subs": 84000,
+    "totalViews": 3780000,
+    "videoCount": 42,
+    "nicheIds": [
+      "finansial-tips-hemat"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 3,
+    "shortsShare": 0.33,
+    "medianViews": 6500,
+    "baseline": {
+      "long": 6500,
+      "short": 9750
+    },
+    "bestOutlier60d": 33.8,
+    "bestViews90d": 220000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1008",
+    "title": "Investor Saham Pemula",
+    "handle": "@investorsahampemula",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-04-18T00:00:00Z",
+    "subs": 125000,
+    "totalViews": 5625000,
+    "videoCount": 42,
+    "nicheIds": [
+      "investasi-saham-reksadana"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0,
+    "medianViews": 9800,
+    "baseline": {
+      "long": 9800,
+      "short": 14700
+    },
+    "bestOutlier60d": 28.6,
+    "bestViews90d": 280000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1009",
+    "title": "Cuan Digital ID",
+    "handle": "@cuandigitalid",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-06-30T00:00:00Z",
+    "subs": 165000,
+    "totalViews": 7425000,
+    "videoCount": 42,
+    "nicheIds": [
+      "ide-bisnis-side-hustle"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 3,
+    "shortsShare": 0,
+    "medianViews": 12000,
+    "baseline": {
+      "long": 12000,
+      "short": 18000
+    },
+    "bestOutlier60d": 28.3,
+    "bestViews90d": 340000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1010",
+    "title": "Panduan Properti & KPR",
+    "handle": "@panduanpropertikpr",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2024-03-01T00:00:00Z",
+    "subs": 67000,
+    "totalViews": 3015000,
+    "videoCount": 42,
+    "nicheIds": [
+      "properti-kpr-rumah"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 1.5,
+    "shortsShare": 0,
+    "medianViews": 5400,
+    "baseline": {
+      "long": 5400,
+      "short": 8100
+    },
+    "bestOutlier60d": 32.4,
+    "bestViews90d": 175000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1011",
+    "title": "AI & Otomasi Indonesia",
+    "handle": "@aiotomasiindonesia",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-09-15T00:00:00Z",
+    "subs": 155000,
+    "totalViews": 6975000,
+    "videoCount": 42,
+    "nicheIds": [
+      "ai-tools-otomasi"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 3.5,
+    "shortsShare": 0.33,
+    "medianViews": 14000,
+    "baseline": {
+      "long": 14000,
+      "short": 21000
+    },
+    "bestOutlier60d": 27.1,
+    "bestViews90d": 380000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1012",
+    "title": "Dunia Teknologi Terkini",
+    "handle": "@duniateknologiterkini",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-11-20T00:00:00Z",
+    "subs": 98000,
+    "totalViews": 4410000,
+    "videoCount": 42,
+    "nicheIds": [
+      "berita-teknologi-gadget"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0,
+    "medianViews": 7500,
+    "baseline": {
+      "long": 7500,
+      "short": 11250
+    },
+    "bestOutlier60d": 28,
+    "bestViews90d": 210000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1013",
+    "title": "Cyber Security & Dark Web",
+    "handle": "@cybersecuritydarkweb",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-07-08T00:00:00Z",
+    "subs": 134000,
+    "totalViews": 6030000,
+    "videoCount": 42,
+    "nicheIds": [
+      "cyber-security-hacker"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 1.8,
+    "shortsShare": 0,
+    "medianViews": 10500,
+    "baseline": {
+      "long": 10500,
+      "short": 15750
+    },
+    "bestOutlier60d": 29.5,
+    "bestViews90d": 310000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1014",
+    "title": "Koding Santai Pemula",
+    "handle": "@kodingsantaipemula",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2024-01-25T00:00:00Z",
+    "subs": 72000,
+    "totalViews": 3240000,
+    "videoCount": 42,
+    "nicheIds": [
+      "coding-programming-pemula"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0,
+    "medianViews": 4900,
+    "baseline": {
+      "long": 4900,
+      "short": 7350
+    },
+    "bestOutlier60d": 31.6,
+    "bestViews90d": 155000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1015",
+    "title": "Semesta Misterius",
+    "handle": "@semestamisterius",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2022-10-12T00:00:00Z",
+    "subs": 260000,
+    "totalViews": 11700000,
+    "videoCount": 42,
+    "nicheIds": [
+      "sains-luar-angkasa"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0.33,
+    "medianViews": 22000,
+    "baseline": {
+      "long": 22000,
+      "short": 33000
+    },
+    "bestOutlier60d": 26.8,
+    "bestViews90d": 590000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1016",
+    "title": "Fenomena Alam Sains",
+    "handle": "@fenomenaalamsains",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-02-17T00:00:00Z",
+    "subs": 180000,
+    "totalViews": 8100000,
+    "videoCount": 42,
+    "nicheIds": [
+      "sains-fenomena-alam"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 2.5,
+    "shortsShare": 0,
+    "medianViews": 15000,
+    "baseline": {
+      "long": 15000,
+      "short": 22500
+    },
+    "bestOutlier60d": 27.3,
+    "bestViews90d": 410000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1017",
+    "title": "Satwa Liar & Prasejarah",
+    "handle": "@satwaliarprasejarah",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-01-22T00:00:00Z",
+    "subs": 195000,
+    "totalViews": 8775000,
+    "videoCount": 42,
+    "nicheIds": [
+      "fakta-hewan-prasejarah"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 2.2,
+    "shortsShare": 0,
+    "medianViews": 16500,
+    "baseline": {
+      "long": 16500,
+      "short": 24750
+    },
+    "bestOutlier60d": 29.1,
+    "bestViews90d": 480000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1018",
+    "title": "Filosofi Stoikisme ID",
+    "handle": "@filosofistoikismeid",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-08-11T00:00:00Z",
+    "subs": 115000,
+    "totalViews": 5175000,
+    "videoCount": 42,
+    "nicheIds": [
+      "psikologi-stoikisme"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0.33,
+    "medianViews": 9500,
+    "baseline": {
+      "long": 9500,
+      "short": 14250
+    },
+    "bestOutlier60d": 32.6,
+    "bestViews90d": 310000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1019",
+    "title": "Disiplin & Produktivitas",
+    "handle": "@disiplinproduktivitas",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-05-19T00:00:00Z",
+    "subs": 140000,
+    "totalViews": 6300000,
+    "videoCount": 42,
+    "nicheIds": [
+      "motivasi-produktivitas"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 2.5,
+    "shortsShare": 0,
+    "medianViews": 11500,
+    "baseline": {
+      "long": 11500,
+      "short": 17250
+    },
+    "bestOutlier60d": 30.4,
+    "bestViews90d": 350000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1020",
+    "title": "Cerita Stickman Lucu",
+    "handle": "@ceritastickmanlucu",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-03-05T00:00:00Z",
+    "subs": 280000,
+    "totalViews": 12600000,
+    "videoCount": 42,
+    "nicheIds": [
+      "animasi-stickman-story"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 3,
+    "shortsShare": 0.33,
+    "medianViews": 25000,
+    "baseline": {
+      "long": 25000,
+      "short": 37500
+    },
+    "bestOutlier60d": 26,
+    "bestViews90d": 650000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1021",
+    "title": "Top 10 Fakta Mengejutkan",
+    "handle": "@top10faktamengejutkan",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2022-08-15T00:00:00Z",
+    "subs": 310000,
+    "totalViews": 13950000,
+    "videoCount": 42,
+    "nicheIds": [
+      "top-10-fakta-unik"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 3.5,
+    "shortsShare": 0,
+    "medianViews": 28000,
+    "baseline": {
+      "long": 28000,
+      "short": 42000
+    },
+    "bestOutlier60d": 25.7,
+    "bestViews90d": 720000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1022",
+    "title": "Lofi Santai Nusantara",
+    "handle": "@lofisantainusantara",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-10-01T00:00:00Z",
+    "subs": 95000,
+    "totalViews": 4275000,
+    "videoCount": 42,
+    "nicheIds": [
+      "lofi-relaksasi-tidur"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 1.5,
+    "shortsShare": 0,
+    "medianViews": 7000,
+    "baseline": {
+      "long": 7000,
+      "short": 10500
+    },
+    "bestOutlier60d": 32.9,
+    "bestViews90d": 230000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1023",
+    "title": "Karir & Interview Sukses",
+    "handle": "@karirinterviewsukses",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2024-02-01T00:00:00Z",
+    "subs": 88000,
+    "totalViews": 3960000,
+    "videoCount": 42,
+    "nicheIds": [
+      "tips-karir-interview"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0,
+    "medianViews": 6800,
+    "baseline": {
+      "long": 6800,
+      "short": 10200
+    },
+    "bestOutlier60d": 35.3,
+    "bestViews90d": 240000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1024",
+    "title": "Jelajah Wisata Nusantara",
+    "handle": "@jelajahwisatanusantara",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-06-12T00:00:00Z",
+    "subs": 105000,
+    "totalViews": 4725000,
+    "videoCount": 42,
+    "nicheIds": [
+      "wisata-surga-tersembunyi"
+    ],
+    "recentVideoCount": 2,
+    "uploadsPerWeek": 2,
+    "shortsShare": 0,
+    "medianViews": 8500,
+    "baseline": {
+      "long": 8500,
+      "short": 12750
+    },
+    "bestOutlier60d": 30.6,
+    "bestViews90d": 260000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  },
+  {
+    "id": "UC_id_1025",
+    "title": "Dapur Masak POV",
+    "handle": "@dapurmasakpov",
+    "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=88&h=88&fit=crop&crop=face",
+    "country": "ID",
+    "createdAt": "2023-04-05T00:00:00Z",
+    "subs": 160000,
+    "totalViews": 7200000,
+    "videoCount": 42,
+    "nicheIds": [
+      "resep-masak-pov"
+    ],
+    "recentVideoCount": 3,
+    "uploadsPerWeek": 3,
+    "shortsShare": 0.33,
+    "medianViews": 13000,
+    "baseline": {
+      "long": 13000,
+      "short": 19500
+    },
+    "bestOutlier60d": 28.5,
+    "bestViews90d": 370000,
+    "firstSeen": "2026-11-01",
+    "lastFetched": "2026-11-22"
+  }
+]

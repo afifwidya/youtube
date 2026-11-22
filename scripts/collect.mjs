@@ -18,13 +18,53 @@ import { YouTube, QuotaError } from './lib/yt.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const abs = (envName, fallback) => (process.env[envName] ? path.resolve(process.env[envName]) : fallback);
-const DATA = abs('DATA_DIR', path.join(ROOT, 'site', 'data'));
-const STATE_FILE = path.join(abs('STATE_DIR', path.join(ROOT, 'state')), 'state.json');
-const CONFIG = abs('CONFIG_DIR', path.join(ROOT, 'config'));
 const OFFLINE = process.argv.includes('--offline');
 
-const settings = readJson(path.join(CONFIG, 'settings.json'));
-const niches = readJson(path.join(CONFIG, 'niches.json'));
+// Otomatis memuat file .env jika tersedia di direktori project (dan bukan environment test)
+const envPath = path.join(ROOT, '.env');
+if (!process.env.YT_API_BASE && fs.existsSync(envPath)) {
+  try {
+    const envContent = fs.readFileSync(envPath, 'utf8');
+    for (const line of envContent.split(/\r?\n/)) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith('#')) continue;
+      const eqIdx = trimmed.indexOf('=');
+      if (eqIdx !== -1) {
+        const k = trimmed.slice(0, eqIdx).trim();
+        let v = trimmed.slice(eqIdx + 1).trim();
+        if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
+          v = v.slice(1, -1);
+        }
+        if (!(k in process.env)) {
+          process.env[k] = v;
+        }
+      }
+    }
+  } catch {
+    /* ignore error reading .env */
+  }
+}
+
+const regionArgIdx = process.argv.indexOf('--region');
+const regionArg = (regionArgIdx !== -1 ? process.argv[regionArgIdx + 1] : process.env.REGION || '').toLowerCase();
+const isId = regionArg === 'id';
+
+const CONFIG = abs('CONFIG_DIR', path.join(ROOT, 'config'));
+const settingsFile = isId && fs.existsSync(path.join(CONFIG, 'settings-id.json'))
+  ? path.join(CONFIG, 'settings-id.json')
+  : path.join(CONFIG, 'settings.json');
+const nichesFile = isId && fs.existsSync(path.join(CONFIG, 'niches-id.json'))
+  ? path.join(CONFIG, 'niches-id.json')
+  : path.join(CONFIG, 'niches.json');
+
+const defaultDataDir = isId ? path.join(ROOT, 'site', 'data', 'id') : path.join(ROOT, 'site', 'data');
+const DATA = abs('DATA_DIR', defaultDataDir);
+const stateDir = abs('STATE_DIR', path.join(ROOT, 'state'));
+const stateFilename = isId ? 'state-id.json' : 'state.json';
+const STATE_FILE = path.join(stateDir, stateFilename);
+
+const settings = readJson(settingsFile);
+const niches = readJson(nichesFile);
 const now = Date.now();
 const today = new Date(now).toISOString().slice(0, 10);
 
@@ -492,9 +532,10 @@ function writeHistory(nicheRows) {
 async function main() {
   let yt = null;
   if (!OFFLINE) {
-    const key = process.env.YOUTUBE_API_KEY;
+    const rawKey = (isId ? process.env.YOUTUBE_API_KEY_ID : process.env.YOUTUBE_API_KEY_US) || process.env.YOUTUBE_API_KEY;
+    const key = rawKey && !rawKey.includes('your_api_key') ? rawKey : null;
     if (!key) {
-      console.error('YOUTUBE_API_KEY is not set. Add it as a repository secret (see README) or run with --offline.');
+      console.error('YOUTUBE_API_KEY is not set. Add it to .env or as a repository secret (see README) or run with --offline.');
       process.exit(1);
     }
     yt = new YouTube({ key, budget: settings.quotaBudget });
@@ -544,7 +585,7 @@ async function main() {
   writeJsonRows(path.join(DATA, 'videos.json'), finalVideos);
   writeJson(path.join(DATA, 'feed.json'), feed);
   const prevMeta = readJson(path.join(DATA, 'meta.json'), {});
-  writeJson(path.join(DATA, 'meta.json'), {
+  const metaObj = {
     schema: 1,
     siteName: settings.siteName,
     updatedAt: OFFLINE ? prevMeta.updatedAt || null : new Date(now).toISOString(),
@@ -558,9 +599,24 @@ async function main() {
       videos: finalVideos.length,
       reviewedChannels: channelRows.filter((c) => reviews.channels?.[c.id]?.faceless === true).length,
     },
-  });
+  };
+  writeJson(path.join(DATA, 'meta.json'), metaObj);
   if (!OFFLINE) writeHistory(nicheRows);
   writeJson(STATE_FILE, state);
+
+  // Mirror to site/data/us if writing to root site/data and site/data/us exists
+  const usDir = path.join(ROOT, 'site', 'data', 'us');
+  if (DATA === path.join(ROOT, 'site', 'data') && fs.existsSync(usDir)) {
+    try {
+      writeJson(path.join(usDir, 'niches.json'), nicheRows);
+      writeJsonRows(path.join(usDir, 'channels.json'), channelRows);
+      writeJsonRows(path.join(usDir, 'videos.json'), finalVideos);
+      writeJson(path.join(usDir, 'feed.json'), feed);
+      writeJson(path.join(usDir, 'meta.json'), metaObj);
+    } catch {
+      /* ignore mirror errors */
+    }
+  }
 
   log(
     `done: ${nicheRows.length} niches, ${channelRows.length} channels, ${finalVideos.length} videos` +

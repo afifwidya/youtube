@@ -32,11 +32,13 @@ jobs:
 
       # Pushes only redeploy what is already in the repository.
       # Scheduled and manual runs collect fresh YouTube data first.
-      - name: Collect YouTube data
+      - name: Collect YouTube data (Indonesia & US)
         if: github.event_name != 'push'
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node scripts/collect.mjs
+        run: |
+          node scripts/collect.mjs --region id
+          node scripts/collect.mjs --region us
 
       - name: Commit new data
         if: github.event_name != 'push'

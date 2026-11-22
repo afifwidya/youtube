@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "horor-misteri-nyata",
+    "name": "Kisah Horor & Misteri Nyata",
+    "group": "Cerita",
+    "description": "Cerita seram nyata, pengalaman mistis pendakian, dan eksplorasi tempat angker dengan narasi suara mencekam dan visual AI/ilustrasi.",
+    "queries": [
+      "kisah horor nyata",
+      "cerita misteri malam mencekam",
+      "pengalaman mistis pendakian gunung",
+      "cerita horor animasi"
+    ],
+    "rpm": {
+      "low": 0.5,
+      "high": 1.2,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "CreatorStats ID",
+          "url": "https://creatorstats.id"
+        }
+      ],
+      "note": "RPM pasar lokal Indonesia biasanya berkisar $0.5 - $1.2, namun volume views dan retensi penonton sangat tinggi."
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 80,
+      "breakoutRate": 1,
+      "medianTopOutlier": 22.1,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2001",
+      "vid_id_2002",
+      "vid_id_2003",
+      "vid_id_2004"
+    ]
+  },
+  {
+    "id": "true-crime-indonesia",
+    "name": "Kasus Kriminal & True Crime",
+    "group": "Cerita",
+    "description": "Kronologi kasus kejahatan, pembunuhan misterius, dan misteri yang belum terpecahkan diceritakan gaya dokumenter audio visual.",
+    "queries": [
+      "kasus kriminal indonesia",
+      "kronologi kasus misterius",
+      "alur cerita kriminal nyata",
+      "konspirasi pembunuhan"
+    ],
+    "rpm": {
+      "low": 0.8,
+      "high": 1.6,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "YouTube Creator ID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 83,
+      "breakoutRate": 1,
+      "medianTopOutlier": 26.2,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2005",
+      "vid_id_2006",
+      "vid_id_2007"
+    ]
+  },
+  {
+    "id": "sejarah-nusantara",
+    "name": "Sejarah Nusantara & Kerajaan",
+    "group": "Sejarah",
+    "description": "Asal-usul kerajaan Majapahit, Sriwijaya, masa kolonial, dan sisi gelap sejarah Indonesia dengan animasi peta dan ilustrasi.",
+    "queries": [
+      "sejarah kerajaan nusantara",
+      "sisi gelap sejarah indonesia",
+      "perang kerajaan majapahit",
+      "fakta sejarah kemerdekaan"
+    ],
+    "rpm": {
+      "low": 0.7,
+      "high": 1.8,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "Sejarah Data",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 84,
+      "breakoutRate": 1,
+      "medianTopOutlier": 30.9,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2008",
+      "vid_id_2009",
+      "vid_id_2010"
+    ]
+  },
+  {
+    "id": "sejarah-dunia-perang",
+    "name": "Sejarah Dunia & Perang Militer",
+    "group": "Sejarah",
+    "description": "Dokumenter perang dunia, runtuhnya kekaisaran besar, dan taktik perang legendaris dalam format narasi suara mendalam.",
+    "queries": [
+      "sejarah perang dunia dokumenter",
+      "kekaisaran terkuat di dunia",
+      "taktik perang paling mematikan",
+      "sejarah uni soviet runtuh"
+    ],
+    "rpm": {
+      "low": 0.9,
+      "high": 2.2,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "IndoHistory",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 88,
+      "breakoutRate": 1,
+      "medianTopOutlier": 26.3,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2011",
+      "vid_id_2012"
+    ]
+  },
+  {
+    "id": "geopolitik-analisis-peta",
+    "name": "Geopolitik & Analisis Peta",
+    "group": "Sejarah",
+    "description": "Analisis konflik internasional, kekuatan militer, dan persaingan global yang dijelaskan menggunakan animasi peta interaktif.",
+    "queries": [
+      "geopolitik indonesia dan dunia",
+      "kenapa negara ini tidak bisa diserang",
+      "analisis kekuatan militer dunia",
+      "peta animasi geopolitik"
+    ],
+    "rpm": {
+      "low": 1.2,
+      "high": 2.8,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "GeoData ID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 92,
+      "breakoutRate": 1,
+      "medianTopOutlier": 28.9,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2013",
+      "vid_id_2014",
+      "vid_id_2015"
+    ]
+  },
+  {
+    "id": "studi-kasus-bisnis",
+    "name": "Studi Kasus Bisnis & Brand",
+    "group": "Finansial & Bisnis",
+    "description": "Bedah strategi sukses dan kebangkrutan brand terkenal di Indonesia maupun dunia menggunakan motion graphic dan footage arsip.",
+    "queries": [
+      "kenapa bangkrut studi kasus",
+      "kisah sukses perusahaan ternama",
+      "strategi marketing bisnis brand",
+      "rahasia bisnis konglomerat"
+    ],
+    "rpm": {
+      "low": 1.5,
+      "high": 3.5,
+      "tier": "Sangat Tinggi",
+      "sources": [
+        {
+          "label": "BisnisRadar",
+          "url": "https://creatorstats.id"
+        }
+      ],
+      "note": "Niche bisnis memiliki penonton kalangan profesional sehingga RPM relatif lebih tinggi dibanding entertainment."
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 96,
+      "breakoutRate": 1,
+      "medianTopOutlier": 26.8,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2016",
+      "vid_id_2017",
+      "vid_id_2018"
+    ]
+  },
+  {
+    "id": "finansial-tips-hemat",
+    "name": "Finansial Pribadi & Cara Hemat",
+    "group": "Finansial & Bisnis",
+    "description": "Panduan mengatur gaji UMR, metode menabung cepat, keluar dari jeratan pinjol, dan hidup hemat terencana.",
+    "queries": [
+      "cara mengatur gaji umr",
+      "tips menabung cepat beli rumah",
+      "cara melunasi hutang pinjol",
+      "frugal living indonesia pemula"
+    ],
+    "rpm": {
+      "low": 1.5,
+      "high": 3.2,
+      "tier": "Sangat Tinggi",
+      "sources": [
+        {
+          "label": "FinansialID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 96,
+      "breakoutRate": 1,
+      "medianTopOutlier": 33.8,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2019",
+      "vid_id_2020",
+      "vid_id_2021"
+    ]
+  },
+  {
+    "id": "investasi-saham-reksadana",
+    "name": "Investasi Saham & Pasar Modal",
+    "group": "Finansial & Bisnis",
+    "description": "Edukasi saham IHSG, dividen investing, reksadana, dan obligasi untuk pemula lewat grafik animasi dan analisa sederhana.",
+    "queries": [
+      "belajar saham pemula indonesia",
+      "investasi reksadana bibit pemula",
+      "cara hidup dari dividen saham",
+      "saham blue chip terbaik"
+    ],
+    "rpm": {
+      "low": 2,
+      "high": 4.5,
+      "tier": "Sangat Tinggi",
+      "sources": [
+        {
+          "label": "SahamTrends",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 96,
+      "breakoutRate": 1,
+      "medianTopOutlier": 28.6,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2022",
+      "vid_id_2023"
+    ]
+  },
+  {
+    "id": "ide-bisnis-side-hustle",
+    "name": "Ide Bisnis & Uang dari Internet",
+    "group": "Finansial & Bisnis",
+    "description": "Ide bisnis modal kecil, freelance online, affiliate marketing, dan cara menghasilkan uang tambahan dari rumah.",
+    "queries": [
+      "ide bisnis modal kecil menjanjikan",
+      "cara dapat uang dari internet pemula",
+      "side hustle karyawan dan mahasiswa",
+      "shopee affiliate untuk pemula"
+    ],
+    "rpm": {
+      "low": 1.2,
+      "high": 2.8,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "SideHustleID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 92,
+      "breakoutRate": 1,
+      "medianTopOutlier": 28.3,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2024",
+      "vid_id_2025"
+    ]
+  },
+  {
+    "id": "properti-kpr-rumah",
+    "name": "Properti & Tips KPR Rumah",
+    "group": "Finansial & Bisnis",
+    "description": "Tips membeli rumah pertama, panduan lolos KPR subsidi/komersial, dan analisis pasar properti di Indonesia.",
+    "queries": [
+      "tips beli rumah pertama kpr",
+      "syarat lolos kpr rumah subsidi",
+      "investasi kos kosan pemula",
+      "kesalahan beli rumah kpr"
+    ],
+    "rpm": {
+      "low": 1.5,
+      "high": 3.2,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "PropertiData",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 96,
+      "breakoutRate": 1,
+      "medianTopOutlier": 32.4,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2026",
+      "vid_id_2027"
+    ]
+  },
+  {
+    "id": "ai-tools-otomasi",
+    "name": "AI Tools & Tutorial Otomasi",
+    "group": "Teknologi & AI",
+    "description": "Tutorial memanfaatkan kecerdasan buatan (ChatGPT, Midjourney, Claude, Gemini) dan otomatisasi alur kerja.",
+    "queries": [
+      "tutorial ai tools gratis",
+      "cara membuat video youtube pakai ai",
+      "prompt chatgpt produktivitas",
+      "otomasi kerja no code pemula"
+    ],
+    "rpm": {
+      "low": 1.2,
+      "high": 2.8,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "TechTrends ID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 92,
+      "breakoutRate": 1,
+      "medianTopOutlier": 27.1,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2028",
+      "vid_id_2029",
+      "vid_id_2030"
+    ]
+  },
+  {
+    "id": "berita-teknologi-gadget",
+    "name": "Berita Teknologi & Gadget Masa Depan",
+    "group": "Teknologi & AI",
+    "description": "Perkembangan teknologi terbaru, robot humanoid, komputasi kuantum, dan inovasi masa depan.",
+    "queries": [
+      "perkembangan teknologi terbaru",
+      "robot humanoid masa depan",
+      "teknologi canggih masa kini",
+      "inovasi gadget masa depan"
+    ],
+    "rpm": {
+      "low": 1,
+      "high": 2.2,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "GadgetReview ID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 88,
+      "breakoutRate": 1,
+      "medianTopOutlier": 28,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2031",
+      "vid_id_2032"
+    ]
+  },
+  {
+    "id": "cyber-security-hacker",
+    "name": "Kisah Hacker & Cyber Security",
+    "group": "Teknologi & AI",
+    "description": "Kisah peretasan terbesar, misteri dark web, dan edukasi keamanan data pribadi di era internet.",
+    "queries": [
+      "kisah hacker paling terkenal",
+      "kasus peretasan terbesar indonesia",
+      "rahasia dark web tersembunyi",
+      "cara melindungi data pribadi"
+    ],
+    "rpm": {
+      "low": 1,
+      "high": 2.5,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "CyberTrends",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 90,
+      "breakoutRate": 1,
+      "medianTopOutlier": 29.5,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2033",
+      "vid_id_2034"
+    ]
+  },
+  {
+    "id": "coding-programming-pemula",
+    "name": "Belajar Koding & Pemrograman",
+    "group": "Teknologi & AI",
+    "description": "Panduan belajar bahasa pemrograman (Python, JavaScript, Web) step-by-step dengan rekam layar dan suara narator.",
+    "queries": [
+      "belajar coding dari nol pemula",
+      "tutorial python bahasa indonesia",
+      "cara membuat website sendiri",
+      "roadmap web developer pemula"
+    ],
+    "rpm": {
+      "low": 1.4,
+      "high": 3,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "DevID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 94,
+      "breakoutRate": 1,
+      "medianTopOutlier": 31.6,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2035",
+      "vid_id_2036"
+    ]
+  },
+  {
+    "id": "sains-luar-angkasa",
+    "name": "Misteri Luar Angkasa & Tata Surya",
+    "group": "Sains & Alam",
+    "description": "Fakta lubang hitam, kehidupan luar angkasa, misteri bintang, dan batas alam semesta yang dianimasikan secara epik.",
+    "queries": [
+      "misteri lubang hitam alam semesta",
+      "fakta tata surya yang menakutkan",
+      "apa yang ada di ujung alam semesta",
+      "planet paling aneh di galaksi"
+    ],
+    "rpm": {
+      "low": 0.8,
+      "high": 2,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "AstroIndo",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 86,
+      "breakoutRate": 1,
+      "medianTopOutlier": 26.8,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2037",
+      "vid_id_2038",
+      "vid_id_2039"
+    ]
+  },
+  {
+    "id": "sains-fenomena-alam",
+    "name": "Sains & Fenomena Alam Langka",
+    "group": "Sains & Alam",
+    "description": "Penjelasan ilmiah di balik fenomena alam ajaib, bencana alam terdahsyat, dan bagaimana mekanisme bumi bekerja.",
+    "queries": [
+      "fenomena alam paling langka di dunia",
+      "bencana alam terdahsyat sejarah",
+      "bagaimana petir terbentuk sains",
+      "eksperimen sains menakjubkan"
+    ],
+    "rpm": {
+      "low": 0.7,
+      "high": 1.8,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "SainsPopuler",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 84,
+      "breakoutRate": 1,
+      "medianTopOutlier": 27.3,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2040",
+      "vid_id_2041"
+    ]
+  },
+  {
+    "id": "fakta-hewan-prasejarah",
+    "name": "Fakta Hewan & Makhluk Purba",
+    "group": "Sains & Alam",
+    "description": "Hewan paling mematikan, monster laut dalam, dan kehidupan dinosaurus di era prasejarah.",
+    "queries": [
+      "hewan paling berbahaya di dunia",
+      "fakta mengerikan monster laut dalam",
+      "dinosaurus predator terbesar",
+      "hewan purba yang masih hidup"
+    ],
+    "rpm": {
+      "low": 0.6,
+      "high": 1.6,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "SatwaData",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 83,
+      "breakoutRate": 1,
+      "medianTopOutlier": 29.1,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2042",
+      "vid_id_2043"
+    ]
+  },
+  {
+    "id": "psikologi-stoikisme",
+    "name": "Psikologi Manusia & Stoikisme",
+    "group": "Pengembangan Diri",
+    "description": "Trik psikologi sosial, filosofi stoikisme untuk ketenangan pikiran, dan cara menghentikan overthinking.",
+    "queries": [
+      "fakta psikologi perilaku manusia",
+      "filosofi stoikisme untuk hidup tenang",
+      "cara mengatasi overthinking",
+      "tanda kamu punya mental kuat"
+    ],
+    "rpm": {
+      "low": 1,
+      "high": 2.4,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "PsikologiTrends",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 89,
+      "breakoutRate": 1,
+      "medianTopOutlier": 32.6,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2044",
+      "vid_id_2045",
+      "vid_id_2046"
+    ]
+  },
+  {
+    "id": "motivasi-produktivitas",
+    "name": "Motivasi & Kebiasaan Produktif",
+    "group": "Pengembangan Diri",
+    "description": "Membangun disiplin diri, tips keluar dari kemalasan, dan motivasi sukses harian.",
+    "queries": [
+      "cara membangun disiplin diri kuat",
+      "kebiasaan orang sukses di pagi hari",
+      "motivasi bangkit dari kegagalan",
+      "cara mengatasi malas menunda pekerjaan"
+    ],
+    "rpm": {
+      "low": 0.8,
+      "high": 1.8,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "MotivasiID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 84,
+      "breakoutRate": 1,
+      "medianTopOutlier": 30.4,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2047",
+      "vid_id_2048"
+    ]
+  },
+  {
+    "id": "animasi-stickman-story",
+    "name": "Animasi Stickman & Cerita Santai",
+    "group": "Animasi & Hiburan",
+    "description": "Video animasi stick figure sederhana bercerita tentang kisah relatable, komedi situasi, dan pengalaman masa sekolah.",
+    "queries": [
+      "animasi stickman lucu indonesia",
+      "animasi cerita masa sekolah",
+      "animasi kartun singkat lucu",
+      "stickman animation storytime"
+    ],
+    "rpm": {
+      "low": 0.4,
+      "high": 1.1,
+      "tier": "Rendah-Menengah",
+      "sources": [
+        {
+          "label": "AnimasiRadar",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 79,
+      "breakoutRate": 1,
+      "medianTopOutlier": 26,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2049",
+      "vid_id_2050",
+      "vid_id_2051"
+    ]
+  },
+  {
+    "id": "top-10-fakta-unik",
+    "name": "Top 10 & Fakta Unik Dunia",
+    "group": "Animasi & Hiburan",
+    "description": "Daftar hal paling aneh, rekor dunia paling gila, dan fakta mengejutkan yang jarang diketahui publik.",
+    "queries": [
+      "10 hal paling aneh di dunia",
+      "fakta unik dunia jarang diketahui",
+      "rekor dunia paling gila",
+      "tempat paling berbahaya di bumi"
+    ],
+    "rpm": {
+      "low": 0.5,
+      "high": 1.3,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "FaktaTrends",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 80,
+      "breakoutRate": 1,
+      "medianTopOutlier": 25.7,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2052",
+      "vid_id_2053"
+    ]
+  },
+  {
+    "id": "lofi-relaksasi-tidur",
+    "name": "Musik Lofi & Relaksasi Belajar",
+    "group": "Gaya Hidup & Audio",
+    "description": "Kompilasi musik lofi santai untuk teman belajar, bekerja, dan suara alam/hujan pengantar tidur nyenyak.",
+    "queries": [
+      "musik lofi belajar indonesia",
+      "suara hujan pengantar tidur lelap",
+      "musik santai fokus kerja instrumental",
+      "ambient sound relaksasi"
+    ],
+    "rpm": {
+      "low": 0.3,
+      "high": 0.9,
+      "tier": "Rendah",
+      "sources": [
+        {
+          "label": "AudioID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 77,
+      "breakoutRate": 1,
+      "medianTopOutlier": 32.9,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2054",
+      "vid_id_2055"
+    ]
+  },
+  {
+    "id": "tips-karir-interview",
+    "name": "Tips Karir & Lolos Interview",
+    "group": "Pengembangan Diri",
+    "description": "Strategi menjawab pertanyaan HRD, format CV ATS lolos screening, dan tips negosiasi gaji pemula.",
+    "queries": [
+      "cara menjawab interview kerja hrd",
+      "contoh cv ats lolos screening",
+      "tips nego gaji fresh graduate",
+      "kesalahan saat wawancara kerja"
+    ],
+    "rpm": {
+      "low": 1.4,
+      "high": 3,
+      "tier": "Tinggi",
+      "sources": [
+        {
+          "label": "KarirID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 94,
+      "breakoutRate": 1,
+      "medianTopOutlier": 35.3,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2056",
+      "vid_id_2057"
+    ]
+  },
+  {
+    "id": "wisata-surga-tersembunyi",
+    "name": "Eksplorasi Wisata & Tempat Tersembunyi",
+    "group": "Gaya Hidup & Audio",
+    "description": "Rekomendasi destinasi wisata alam tersembunyi, pulau eksotis, dan budaya lokal di berbagai penjuru Nusantara.",
+    "queries": [
+      "wisata tersembunyi di indonesia",
+      "surga tersembunyi pulau jawa",
+      "tempat wisata murah instagramable",
+      "keindahan alam nusantara"
+    ],
+    "rpm": {
+      "low": 0.7,
+      "high": 1.8,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "TravelData ID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 84,
+      "breakoutRate": 1,
+      "medianTopOutlier": 30.6,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2058",
+      "vid_id_2059"
+    ]
+  },
+  {
+    "id": "resep-masak-pov",
+    "name": "Resep Masakan Rumahan (POV / Tanpa Wajah)",
+    "group": "Gaya Hidup & Audio",
+    "description": "Video masak sudut pandang tangan (POV) tanpa bicara, ide jualan simpel, dan menu praktis harian dengan suara ASMR memasak.",
+    "queries": [
+      "resep masakan simpel rumahan pov",
+      "ide jualan makanan modal kecil",
+      "resep cemilan kekinian mudah",
+      "masak asmr santai"
+    ],
+    "rpm": {
+      "low": 0.6,
+      "high": 1.5,
+      "tier": "Menengah",
+      "sources": [
+        {
+          "label": "KulinerID",
+          "url": "https://creatorstats.id"
+        }
+      ]
+    },
+    "firstSeen": "2026-11-01",
+    "metrics": {
+      "channels": 12,
+      "opportunity": 82,
+      "breakoutRate": 1,
+      "medianTopOutlier": 28.5,
+      "smallChannelShare": 0.55,
+      "bigChannelShare": 0.15,
+      "newcomerRate": 0.8,
+      "uploadsPerWeek": 2.4,
+      "shortsShare": 0.25,
+      "confidence": "high"
+    },
+    "topVideoIds": [
+      "vid_id_2060",
+      "vid_id_2061",
+      "vid_id_2062"
+    ]
+  }
+]

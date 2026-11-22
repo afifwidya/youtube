@@ -42,6 +42,15 @@ p { margin: 0; }
   position: sticky; top: 0; height: 100vh; display: flex; flex-direction: column; gap: 28px;
   padding: 24px 18px; background: var(--deck); border-right: 1px solid var(--line);
 }
+.region-box { display: grid; gap: 6px; }
+.region-select {
+  width: 100%; background: var(--panel); border: 1px solid var(--line); color: var(--ink);
+  font: 500 13.5px var(--body); padding: 8px 10px; border-radius: 6px; cursor: pointer; outline: none;
+  transition: border-color .15s;
+}
+.region-select:focus { border-color: var(--sonar); }
+.region-select option { background: var(--panel); color: var(--ink); }
+
 .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; font: 700 19px/1 var(--display); font-stretch: 85%; }
 .links { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
 .links a { display: block; padding: 8px 10px; border-radius: 6px; text-decoration: none; color: var(--ink-2); font-weight: 500; }

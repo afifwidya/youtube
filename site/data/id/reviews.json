@@ -1,0 +1,565 @@
+{
+  "channels": {
+    "UC_id_1001": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1002": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1003": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1004": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1005": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1006": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1007": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1008": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1009": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1010": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1011": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1012": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1013": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1014": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1015": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1016": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1017": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1018": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1019": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1020": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1021": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1022": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1023": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1024": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    },
+    "UC_id_1025": {
+      "faceless": true,
+      "note": "Terverifikasi tanpa wajah: visual animasi/stock footage dan narasi suara.",
+      "reviewedOn": "2026-11-22"
+    }
+  },
+  "videos": {
+    "vid_id_2001": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2002": {
+      "tags": [
+        "single-subject",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2003": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2004": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2005": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2006": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2007": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2008": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2009": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2010": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2011": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2012": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2013": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2014": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2015": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2016": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2017": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2018": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2019": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2020": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2021": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2022": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2023": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2024": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2025": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2026": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2027": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2028": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2029": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2030": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2031": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2032": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2033": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2034": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2035": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2036": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2037": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2038": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2039": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2040": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2041": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2042": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2043": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2044": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2045": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2046": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2047": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2048": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2049": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2050": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2051": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    },
+    "vid_id_2052": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2053": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2054": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2055": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2056": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2057": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2058": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2059": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2060": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2061": {
+      "tags": [
+        "split-compare",
+        "dark-moody",
+        "ai-art"
+      ]
+    },
+    "vid_id_2062": {
+      "tags": [
+        "single-subject",
+        "big-text",
+        "ai-art"
+      ]
+    }
+  }
+}

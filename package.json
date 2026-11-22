@@ -6,7 +6,12 @@
   "description": "Daily research site for faceless YouTube niches, channels and thumbnails.",
   "scripts": {
     "collect": "node scripts/collect.mjs",
+    "collect:id": "node scripts/collect.mjs --region id",
+    "collect:us": "node scripts/collect.mjs --region us",
     "offline": "node scripts/collect.mjs --offline",
+    "offline:id": "node scripts/collect.mjs --region id --offline",
+    "offline:us": "node scripts/collect.mjs --region us --offline",
+    "seed:id": "node scripts/seed-id.mjs",
     "serve": "node scripts/serve.mjs",
     "test": "node tests/run.mjs"
   },

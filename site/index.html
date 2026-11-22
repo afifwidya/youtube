@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Faceless Radar</title>
-  <meta name="description" content="Daily research on faceless YouTube niches: breakout videos, thumbnail styles, channels and estimated earnings.">
+  <title>Faceless Radar | Riset Niche & Video Viral YouTube</title>
+  <meta name="description" content="Platform riset harian niche YouTube faceless (tanpa wajah): video breakout, pola thumbnail, daftar channel, dan estimasi RPM pendapatan.">
   <meta name="color-scheme" content="dark">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://i.ytimg.com https://yt3.ggpht.com https://yt3.googleusercontent.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://i.ytimg.com https://yt3.ggpht.com https://yt3.googleusercontent.com https://images.unsplash.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='14' cy='19' r='9' fill='none' stroke='%234fd1c5' stroke-width='3'/%3E%3Ccircle cx='25' cy='7' r='4' fill='%23ffb84d'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,9 +14,9 @@
   <link rel="stylesheet" href="assets/app.css">
 </head>
 <body>
-  <a class="skip" href="#view">Skip to content</a>
+  <a class="skip" href="#view">Lewati ke konten utama</a>
   <div class="shell">
-    <nav class="rail" aria-label="Main">
+    <nav class="rail" aria-label="Menu Utama">
       <a class="brand" href="#/">
         <svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true">
           <circle cx="14" cy="19" r="9" fill="none" stroke="var(--sonar)" stroke-width="2.6"/>
@@ -25,22 +25,31 @@
         </svg>
         <span>Faceless Radar</span>
       </a>
+
+      <div class="region-box">
+        <label for="regionSelect" class="small muted">Wilayah Riset:</label>
+        <select id="regionSelect" class="region-select" aria-label="Pilih Wilayah Riset">
+          <option value="id">🇮🇩 Indonesia</option>
+          <option value="us">🇺🇸 Amerika Serikat (US)</option>
+        </select>
+      </div>
+
       <ul class="links">
-        <li><a href="#/" data-route="home">Breakouts</a></li>
-        <li><a href="#/niches" data-route="niches">Niches</a></li>
-        <li><a href="#/thumbnails" data-route="thumbnails">Thumbnails</a></li>
-        <li><a href="#/about" data-route="about">Method</a></li>
+        <li><a href="#/" data-route="home">Breakouts (Viral)</a></li>
+        <li><a href="#/niches" data-route="niches">Niche & Topik</a></li>
+        <li><a href="#/thumbnails" data-route="thumbnails">Galeri Thumbnail</a></li>
+        <li><a href="#/about" data-route="about">Metodologi</a></li>
       </ul>
       <div class="rail-foot">
         <label class="switch">
           <input type="checkbox" id="verifiedOnly">
           <span class="knob" aria-hidden="true"></span>
-          <span>Verified faceless only</span>
+          <span>Hanya tanpa wajah (Verified)</span>
         </label>
-        <p id="updated" class="muted small">Loading data</p>
-        <p class="muted small credit">Data from YouTube API Services. See the
-          <a href="https://www.youtube.com/t/terms" rel="noopener noreferrer" target="_blank">YouTube Terms of Service</a> and the
-          <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">Google Privacy Policy</a>.</p>
+        <p id="updated" class="muted small">Memuat data...</p>
+        <p class="muted small credit">Data dari Layanan YouTube Data API v3. Lihat
+          <a href="https://www.youtube.com/t/terms" rel="noopener noreferrer" target="_blank">Ketentuan YouTube</a> dan
+          <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">Privasi Google</a>.</p>
       </div>
     </nav>
     <main id="view" tabindex="-1" aria-live="polite"></main>

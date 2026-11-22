@@ -1,0 +1,20 @@
+{
+  "siteName": "Faceless Radar Indonesia",
+  "region": "ID",
+  "relevanceLanguage": "id",
+  "windowDays": 90,
+  "breakoutThreshold": 5,
+  "breakoutMinViews": 3000,
+  "minVideoAgeDays": 2,
+  "baselineVideos": 30,
+  "minBaselineVideos": 4,
+  "maxSearchesPerRun": 40,
+  "maxChannelsPerRun": 400,
+  "maxChannelsPerNiche": 40,
+  "maxVideosPerChannel": 15,
+  "topVideosPerNiche": 40,
+  "detectShortsViaUrl": true,
+  "feedKeepDays": 60,
+  "historyKeepDays": 120,
+  "quotaBudget": 9000
+}

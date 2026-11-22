@@ -67,6 +67,43 @@ npm test            # 10 provjera na sintetičkom YouTube API-ju (nikakvi podaci
 
 Sajt se mora otvarati preko http (npm run serve), ne dvoklikom na index.html, jer učitava JSON fajlove.
 
+---
+
+## 🇮🇩 Panduan Penggunaan (Bahasa Indonesia & Multi-Region)
+
+Project ini telah ditambahkan dukungan penuh untuk riset **Indonesia (ID)** dan **Amerika Serikat (US)**, serta antarmuka website berbahasa Indonesia:
+
+### 1. Menjalankan Website di Lokal
+```bash
+npm run serve
+```
+Buka browser di `http://localhost:8080`.
+Di sidebar menu, Anda dapat langsung memilih **Wilayah Riset**:
+* **🇮🇩 Indonesia**: Menampilkan 25 niche faceless lokal, video breakout viral Indonesia, dan estimasi RPM regional.
+* **🇺🇸 Amerika Serikat (US)**: Menampilkan 70+ niche global / US.
+
+### 2. Perintah Terminal Tambahan
+```bash
+# Menjalankan server lokal preview
+npm run serve
+
+# Menjalankan pengumpulan data live untuk Indonesia (butuh YOUTUBE_API_KEY)
+YOUTUBE_API_KEY=AIzaSy... npm run collect:id
+
+# Menjalankan pengumpulan data live untuk US (butuh YOUTUBE_API_KEY)
+YOUTUBE_API_KEY=AIzaSy... npm run collect:us
+
+# Rebuild dataset Indonesia dari seed lokal
+npm run seed:id
+
+# Menjalankan unit test sintesis (10 checks)
+npm test
+```
+
+### 3. Konfigurasi Niche & Keyword Indonesia
+* `config/niches-id.json`: Daftar niche dan target kata kunci pencarian YouTube untuk pasar Indonesia (dapat ditambahkan atau diubah sesuai keinginan).
+* `config/settings-id.json`: Pengaturan ambang batas outlier, batas kuota API harian, dan preferensi bahasa `id` / region `ID`.
+
 ## Pravila koja treba poštovati
 
 - Koristi podatke u skladu sa [YouTube API Services uslovima](https://developers.google.com/youtube/terms/api-services-terms-of-service).
