@@ -1,6 +1,7473 @@
 {
   "version": 1,
-  "queries": {},
-  "channels": {},
-  "formats": {}
+  "queries": {
+    "horor-misteri-nyata|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "true-crime-indonesia|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "sejarah-nusantara|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "sejarah-dunia-perang|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "geopolitik-analisis-peta|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "studi-kasus-bisnis|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "finansial-tips-hemat|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "investasi-saham-reksadana|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "ide-bisnis-side-hustle|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "properti-kpr-rumah|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "ai-tools-otomasi|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "berita-teknologi-gadget|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "cyber-security-hacker|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "coding-programming-pemula|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "sains-luar-angkasa|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "sains-fenomena-alam|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "fakta-hewan-prasejarah|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "psikologi-stoikisme|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "motivasi-produktivitas|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "animasi-stickman-story|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "top-10-fakta-unik|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "lofi-relaksasi-tidur|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "tips-karir-interview|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "wisata-surga-tersembunyi|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "resep-masak-pov|long": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "horor-misteri-nyata|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "true-crime-indonesia|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "sejarah-nusantara|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "sejarah-dunia-perang|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "geopolitik-analisis-peta|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "studi-kasus-bisnis|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "finansial-tips-hemat|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "investasi-saham-reksadana|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "ide-bisnis-side-hustle|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "properti-kpr-rumah|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "ai-tools-otomasi|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "berita-teknologi-gadget|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "cyber-security-hacker|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "coding-programming-pemula|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    },
+    "sains-luar-angkasa|short": {
+      "lastRun": "2026-11-22",
+      "idx": 1
+    }
+  },
+  "channels": {
+    "UC7GWXKxiy9_AU9TytEh00eg": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCDP_apI00MkhojUlOFb7gGA": {
+      "nicheIds": [
+        "horor-misteri-nyata",
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_SBt2BFBkExq_azj-P5lNA": {
+      "nicheIds": [
+        "horor-misteri-nyata",
+        "true-crime-indonesia",
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCkRNRz9ifB2A04zTb6Y9LYg": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCYqOeAXJm8yV9sJ8Ud3cR7A": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCMB85PR7xsXOGi7P811Me4A": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCSErGXpT1__vy6KRv6J9EWw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCkCa2NoZlJlfJlMKgZhtKOQ": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCv99_TftuIliiVDwdDn_12g": {
+      "nicheIds": [
+        "horor-misteri-nyata",
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC7GZguUCh8gdEs-VKhWqkWA": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCsCAWoG-SagS7aFuWT1IZPw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC5W-sZLnesFoVRt6HJXQClg": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCV-kSJTIG7eV1GWLhcMQH7w": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCXkRFUruW9lg4hEBILMVkPQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCFQoE23adk7NSPNhBlanu4w": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC1QpnGo11epfexw1bIiTHTg": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCoSkllfpgmFHtbVK835QaQg": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCNylyhNWG_zKB2yw0l6nl9g": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCKII0Ml9S5wneKbHswmUrIQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCER4rvDnRBPr_ncYW4UCZjg": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPAxpUn1mrn14xU0JpsLhDg": {
+      "nicheIds": [
+        "true-crime-indonesia",
+        "sains-luar-angkasa",
+        "sains-fenomena-alam",
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCDYWKCxR1Jjm5290z98d_qA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCVUIAUKWt2oFgUeLVa8NDLQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCsa6nrgC_KYejr9tpOCT4DA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCik71jw_XzJZpn-2W1q7cyQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC7gVU6HkjK3UIadwNGGiA7Q": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCypJ8Xhh-2bUfkT9KYoltmA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UChsu6FL1N6XuqqBxl8y1OdA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC0BymWqQiwamdPsGmEcbasA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC6cSYaVUvJkDu-DCFLlmNwg": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCBGAgWstcQV-1X2Lza8maZQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCqzug3IAhY4Vyd5lSB7A1DA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_eSXzygagaIIA3DqjhmGzw": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCr-8V4ZEQFdWiM97vSXtedA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCs-RvpARSuXNa8pcA718vYw": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCHHbQRQxJOLETYHvOTvd6qg": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCeiP7tz2L6bE8-9aqjHJccg": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC6vCv8D_gDXX8rk5vLroS0A": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCAq0hRm_YWWGvtRf4bnbArA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCeUxC4Zrqfr0HuF_7RjacCw": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC9QsLH5mR8wJh8P42xzXYTw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCKQagJ7GMVpL33XP8aA_e2Q": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPZJTGClecnzP-DGcxRfhHg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCHtjMFZfKKKPNgJbNzc2Xpg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCI3j325GY3zeQon3inrRvrQ": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCwK-ZkpDG9b3WNmA8_9xrCw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCJVY5aBkpC47Ov-FareaXJA": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC4XDtLGCmLDJNWrTzgIw7-A": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCcGLbFLtWtlGua-1d3OPZHg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCkklMfU5WR2K_qAFnGqjGBg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCxzqp4U6cRligxOGCEgCjzg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCHbTrujbyi7Ta2HOgxlX2TA": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC6xJbVnrUqigrhkXwWjX0Kg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCjVD87pm_0s3V6y1hUn0oOA": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdIto7ZTtq-86D91G5B2U-g": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCgpi94eJ_UdwmLM0aN5NzBQ": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCaJIFBO5llDcqo8ma0h8h_Q": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCNXjwmbcHXJagA9VAEvJ2eg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCfU51Rpb3hmaaIQTvLk08Eg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCpLcz-5zFQ9D2gEuxydmzjQ": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCfEo0fJb3eQ4JEbhk6Jq-Gw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCgmfFQmuYKXnaaoHvK1BgKQ": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCJZIfMFX2iNTpkpbvotwOwg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCSsZV2XrNM5WxhDg2BJENSQ": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCmBll1SuBQuYYnVL0qdcQNw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCnymVgOsJZYdEib99AZlmvw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC25hwf9Sx4L0bTpykBv7Jcg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC0mHKTj3QFckou2s9XQuKvg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCMiJaJ0TEvR0uFO_3KIVssg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCh9aY14CSWsF_-DyBUsB52Q": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCenjiNdS6s05Sh6EfZYdg3A": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCHbK-7NvLEqjSbtunvgDLDg": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCjwMlEzuLAReo5AXhYNrQkw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCIqAbaXTQ6Vm6NtWKzOoPxw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCpKvTjLoj83Ng-Nx_DxY0Ug": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC22BdTgxefuvUivrjesETjg": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCDnJWXAo7itiILQqNfkcsQw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UClT07UxrW2NAWL-zhKWmGmg": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCyL5J-lo3XuYPPOiXvzbAWw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UChkbor971EO9GXvmgFDGl7g": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCKKy_pNKZBX4KcCct8505HA": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCWPGsuNGixtOKEcfCaQ2ZuQ": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCfCKvREB11-fxyotS1ONgww": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCL29TqirunK-NjAH77q0Q1Q": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCnGPmAcR-LCVm_TPxQ633Xw": {
+      "nicheIds": [
+        "sejarah-dunia-perang",
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCwx8xyh6ZlDI5ZQpbIWKnUg": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCTQI642FVg8oF4zvEVU2UnQ": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC-1YfUsyZCZKmY_p2l78Scw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_onlqfnvx7IG7DzPgIE-gA": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCRJCUnnD3RgJrozs6KxUWKg": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCY2c8ZnQ80h7w1sjAsQmvtg": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCg7Q08KKOdjSrSnXcUL00Jw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCU5BwGQzEyJHPurWQDN138Q": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPyOMTWBGZ4ovtl6LdfjGcw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCAx9L8pwiEGpiQu6u250DHA": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCbWqUC1KVlsvpyYvuWSlBRA": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCSwzJzyZHY-0qkKgK5vZH-w": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCqOoboPm3uhY_YXhvhmL-WA": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCFp0Rk-ad8JD78Qw9nEJ29w": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_gzVSoLuneYS6tg-mLvO4A": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC8Ha-lPxrH1y8JObB0TIDSA": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCsl8sHcK3nXSkVZpCEmhzIw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPlrltCrbpifDVUpIgNAhmg": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCWdNv24W3CkR0Ys6NpJx1sw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC2NspOuu6n5NWb2UtnHW3eA": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCz8QaiQxApLq8sLNcszYyJw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UChkZbwe3F9_9Mqjv3ubW1zw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCAnl5P05DilP0nadpV7kqHg": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdOovgmIPfj9a-o3VP5i2_g": {
+      "nicheIds": [
+        "geopolitik-analisis-peta",
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC2_H5Spg1MR64bObO292-nQ": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCzl0OrB3-ehunyotIQvK77A": {
+      "nicheIds": [
+        "geopolitik-analisis-peta",
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCbOoHZJHp1-p9u_3ClWOQ-g": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCcblAMob6AwnMAG6QRwJriA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCA1LVCpqoKrHFQaPvdfs2Rw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCLkfLhlHh_4mbULs_gba2RA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCGN9JsnkvK05v2lnTI_-uGA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC-txo3uQwlooOmnjBli_ANw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC6dZelbnRFBGxmR9FmVqaJA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCSjJ5q6hTG2hdceMD7tX-EQ": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC1YmAIdrz6Lpyp88WfnUArQ": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCXSHeNqCj8RxbTAOdOGCIKQ": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC80y-B7wd1dIhK8ShalJ9jQ": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdygRiDGTM9kjc-7hrrB-7Q": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCzqUDByi1ZQa4odQ_7bgAsw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCn9qLJ_CCAk0tsgDIPkrn6A": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCRN51JFUHRTbAjxCliX9ZVA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCYSTPOkfB6MZ-oC4TMvowJw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCtAu9AohS-xi_H7fkqpjhZA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCfLqOOaeb7YsTp0wYAbiXdg": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCNXa80_YWQ3t4nXKn84Im_g": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC2KtX6T_tYeCisLCpMoDTbA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCxyxORD9HPB536uecoby8zA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCKylQJ3ORBanAyjFz8xLz7w": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCl_VZyv70kxeGjdhQ2UIAfw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UClwA82RjGwspRFdBwqHCvCw": {
+      "nicheIds": [
+        "studi-kasus-bisnis"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCAJl4xkeRRaZQR4pAI7Kcyg": {
+      "nicheIds": [
+        "studi-kasus-bisnis"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCBMXJCu7pCjf9C1ibQb129Q": {
+      "nicheIds": [
+        "studi-kasus-bisnis"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UClqfsy7LwNoYuFJjuzIbSiQ": {
+      "nicheIds": [
+        "studi-kasus-bisnis"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UChfcWYEoQzS9R2ghsVjWW1Q": {
+      "nicheIds": [
+        "finansial-tips-hemat",
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC5C3bwo-CdJBvEqp5rieUYg": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCDDFZqgVqBqAWgPVW5Lr8kQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCt-NTk0s2R4hw37xEs98dwQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCBCcgax-_fUJmp31jfII61A": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC3IeyWKKRP6Aua1hbSBsG6Q": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCnTl6TpUHoDCN7IFL-BTlTw": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCie_PerrRDHjybvXxBC_WRA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCxpD5U9_8FYfB9NPiC6bO2Q": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC2FRl49YQfF6Jco_QRUIE1A": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC0_O_2o_ueK7jV-rNuxQDPw": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCUVPJt1iRm0IADGcbgmAGmQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCpHqLigP5P8uV0N77IiOqGg": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCsf7B4VdSJ8Tkx8-TfXRAFA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCN2R1PYlZb_R9_wxH9kJYqQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCZ-QP5lKPxPkU2ORpzzry6w": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC1pOn6_ySIOQS_-2Do_5zCA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCYn9_D-ix9Tlxt6u9EWoJIg": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC2igCo8Alqf3vXg4HT9nKiA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC0GvzsV1I1SGl_2o8zYqOwg": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCoA0UrngCf4RXi9arbZZCkw": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UClkS93Lbn2xC7DDg7jKvxiw": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCeHrgL-5BxVc7ETEq_Q-DPA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC3Wa0fRTaermSkZdAuJEyEQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCGjL9V1LOzIXZpVDuUxIKCw": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC9_Di9gS0zbRPJWvlXl7yiA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCTIo3TeljVvPgO_RxquMC7Q": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCuvVqH2HjzdOBS0lkFO5ooQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCjLFGFBcc1ZWt9bKNnAEt0w": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCNDbG1BdjYE6b4DR76ZU7_g": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCiycBstMmWdXQrYRPCoLRXA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCo-WbzxFgJYwNihc3dQB9uA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC5J4gM5QXBkqWpFbbwmhWIQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC0iRhMtsn-LLeKtZ8wSmhOw": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCqa35qG6qvc_Eo29ZaizR3w": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCv3xMRGuacqCdaRsVEc-XRA": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCg3Z9ORzA2gHvg8Ge63yatg": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC-LXYDY03kDTXh0Eo0r30UQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPlikWifkFtrqbQOMMHllVQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPrff0tf8GDeb9yMmOZwppQ": {
+      "nicheIds": [
+        "finansial-tips-hemat"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCrwtoexMB4UD7v2r9DS7zzw": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC4gYkBGKOETX5CwN8wP1Rzw": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCOsciW2pbKg_fenJ-OtvS4A": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCpBDeoFdbbBFpoJaG0ijLdQ": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCV8enrBV80GOXYzNrLlooVw": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCE7du7k_0cg-f9GbjfvliSA": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC5PQZxepuRBbwPFooUWhZIA": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC8gwJmhFpFgEW-sKAibrrSw": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCO1AQsMJ9YWQ0shlS-OFEJA": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCVD9--f_fGCMjOc3wnWyvyQ": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCBXxLBF-xKYsv1oLl2AFTYQ": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdBFYRoVX91OxQDNTFTwklw": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC1pnY2osQKXA2VKSSXBDlAA": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdUnhmtzraqXkElGOdehSiA": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCFIhpp6JUvSHO7SxMwOXJOQ": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCeClAEjE33YLFgXTroY-3Ow": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCRDlN4FsbyNdsEvfkTuw-Ww": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCJJs5QukZry-RbEZwKc-zUw": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCsnJiQpurHlEpSDsaCirJDQ": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCgQR7qPnIuieYshhfe_G9Lg": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCtVvhMT0EKfjDo-rZIuO8uQ": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCaUaDRi-lLlHTPSdleQjAeg": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCpN7NSBBhdXdsUz1r3O-3WA": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCvKif4M3cG6gnVlpY1ClaYg": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCVwNOXFAXY0GXRNgXitJUPA": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCGJT6le_9L4EQR1hVSpgJBg": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCT-VqM_UXr_Wds6JifMw7Yg": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC7snHVG9RHHrsU36Zy-sWVw": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCLlhMWfPCdI9yhvSu-VfU5w": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC47vNHPNSp3gZdKGvs7X5DQ": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPCgtdJBCEg5bjkdz0sGZHg": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCi1J-v8r5SGIEX7U7aBuAHA": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCLEMutuBPbrNkf26Yi73EoA": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCp_lrZeCzSYcrYjzZwpkbzg": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCtGlyUd4pNMBW4zAVPwonyg": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCKczZev-JJ76VR5mbUprZ_Q": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCbo-KbSjJDG6JWQ_MTZ_rNA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCm4eA46c6boHmPrD0Lp2iEg": {
+      "nicheIds": [
+        "ai-tools-otomasi",
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCxLzvFAUbpdNUIh0hGsEH0w": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCrJrY9gMcbRL2APnFCXiuBQ": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCCJ56k8nBeqWLoxNa6DToAQ": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCBEdVKofHvpkNJddcDsRZow": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCIXwKNbv-AMdlaO6bPBBE7A": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCh13OyDSm-Kb8ij3yZArtFg": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCDHy_qf3CJ8azlfbJKEGIHw": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCvpfclapgcuJo0M_x65pfRw": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCTQuKo8v0PaPCvk5aRxc_Yg": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCwAnu01qlnVg1Ai2AbtTMaA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCFM1cy1pkCbdp1hAZMb-HvA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCHgNhvr0Z46KN12mSFmgTRA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCAi_4-apx6TTHVDVyj9X3bQ": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCHkzp52CldSPZqU5T49mOnA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCYrXebwbK6IE--7z4JJE5mA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC2ojq-nuP8ceeHqiroeKhBA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCOXRjenlq9PmlTqd_JhAbMQ": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCkbjWQ7kLFNRY_RiJbqVWRg": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_RovKmk0OCbuZjA8f08opw": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCZ3KGRwOA_uONNE_6VGG2bA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCu6dZ7Tvlhw1BkUUDWJngqw": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCIgnGlGkVRhd4qNFcEwLL4A": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCAjSHLRJcDfhDSu7WRpOu-w": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCqtMrF1ZSr5sPX1vgoPIefw": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCKBj5HPTd64zoQmkGNseKUw": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCfJT_eYDTmDE-ovKaxVE1ig": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCxVxcTULO9cFU6SB9qVaisQ": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCoch_d78Aosmp14ey1HgGSQ": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC8uGPXkvS6c3-7nXF8virrw": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPi63xvTKx0S9WwOXXH5PXQ": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCY6N8zZhs2V7gNTUxPuKWoQ": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCIumQAB--XargjJuF-w_MFA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_fWblEU5ZbrsLZG5H4CZtA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCde0vB0fTwC8AT3sJofFV0w": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC3-lmU4zXFERrowmDN0tusg": {
+      "nicheIds": [
+        "ai-tools-otomasi",
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC9eJ0QMxVANECYICsnM1yzA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCWtG2h1I4hyUudSsIBw1cwA": {
+      "nicheIds": [
+        "ai-tools-otomasi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC3KA_nG-J9l-Qp2S6hQEOSw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC10XFee-PjE589ocLtDP0Bw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCED7b_ooh_7gKbUu17hXtzA": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCCPGs7VK0IxR19zEYzBrQ6A": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC5II8ly6C2L7r-Ej9_8RFZw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC7H-czpqOvWWtWeYc_Sfsxw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCBXbs4t23yrLhj7hUJYqUVw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCOWMPDv50qYE4wLYt9obW4w": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCLjCu8Dk0wjRQki82EFGJBA": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCcIzVZk-b4zYzStvaiQGkYg": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCoMhvrQJusbErGyn5xdWaPA": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCR9IeJ8XIg9E0NVJXz8CMoA": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCeluuegFzDcx41mSs36xCRQ": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCjgddbsR-p24AROASh2tugQ": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCnyNwLvE_XNboHLif-IKO7g": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCSoQZ1thckU8u-fdhFR48hQ": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCQVZDtVmReD8i8aa-e5ANow": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC3UMvc6W89fl4aexfOVuHpA": {
+      "nicheIds": [
+        "berita-teknologi-gadget",
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCalu-UmngeslpLz0vky1LKQ": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCJjZJtj-EF-Jg8zKbO-12Bg": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCeV_nIiLOp7B6zVXCJAA_cw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCbJ8ISVyKUCBZEnpKVXM6kw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC5rcgej6C9BESs_eZnLUrlA": {
+      "nicheIds": [
+        "berita-teknologi-gadget",
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCISaaJUix7OaAKvpmK4nIjg": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCTDlYGRMiP1nsu6f4Zruasw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCIRVR6H3pcKc_mAYA_xUcIg": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC1Uz8RsGLTz9i2nw-DZvGwA": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCGkmGOPGpvYyanHV9XrlzXg": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCwBZXNMq-6bkIUzfpGoQBXw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCBFTKWfhpq1CX8fIqLRt_bQ": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_033vrJ7D7X2pUrQG5JELw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCfXh2oIV0maZ7G_OW9aIBWQ": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCTe62KHQgKADliW0juM66cw": {
+      "nicheIds": [
+        "cyber-security-hacker"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCnrZ-UFSzeMSxKx_OHtwKsQ": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCILUMYQPbDxWh7W2BPPraLw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCXLQV2i3fQX02eytYAuWWoQ": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCcspHgVmRKYTxKdCSomdA0w": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCt_6GON_sppzByluAoL5a0A": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCrDblmdKXtf0BP6h3Zk56eg": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCiXICd3E2VcawY9CDX4DyXg": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPBae6BtgWOwJrVUDnUftTw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCTkGPxS5X89Xc_rdFxHelJw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCXE231Enf0noOwjvZ77oR4g": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC3abfTxNmYKy0U5HfOSL9Zw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCu2sG73LfaWbmLKcv4MiQDw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCZkvUTtoA-enb0EPSGec5lg": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCFRxZlSBMTFy-iSENia5Inw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCsVQJsM1BGbtETSaXePsvsQ": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCFslBvnPfODFjD5eGeGdrog": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCZJU8KGgWQDvGKyTJXJKM5A": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCDNy4d5TTDblivNwVncLjQw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCFqLm9ZGws_roISMOv-lWtw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCTw5_VKTjLgrzlnMMygOcug": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdx2cU2_cSmjstDS34SdrFQ": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UChvIXq_QXgoPjvT0vn0dF9g": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC1OxwErlO6THN_ZUGSMwZrg": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCmc4qAe7Anf6_YyJDE1VLEg": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC0DFQy9DAJgvXJlmQ0hsfZQ": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCeZIfzF8ejHrOw-mHq9bppw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCyOxueVvhW-phDvL-WyBeMQ": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC6Cp5Xg_XxvrVfEG_qA-mfQ": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCvYJtKmeIMTSMBGGX-bi5xg": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCCcvuerCECKZcCQ-CLyibCg": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCgyAYXOQLoDDVcsq1J6BHcA": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_x1jmrWclUIWhGGgNwfVLw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCiXropafnMnip6iPrQjeQ1Q": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC9Ep0Y4T5rvUuIfjKN1wqTw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCNIZm41qddZf4vV-hjjcjcw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC3_J5D9WPPFy7aZGA-KNflg": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC1E67_h87V7RhFA2SiIxsJw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCINfZYHqHwjb3mz6t5fRiVA": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC0s-eocKnviVGYcXhkXGJfw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCfOLFtOniDmzp3ucmmQiUYw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdi933LunEnoM8IXOV289Aw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCBBrNSvlOsSS5Z3JA4IqlBQ": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UChfI7Mexu-U7xXIwlaAGxWw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCpgd7rJZz3dJ_nkwtKt8KnQ": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCQlwcAiNJ3oMPy1KKnV0OQA": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCzM6Xrm8aWcz5omo2lJ0N7A": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UClvz7kxCQ11M_YIdEQqcbTQ": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdsNKHdQVgnezom19R7TNuA": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCppyAe3EEAGcGknEr4C4H-A": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCyhodlgxgZKbwaP7j8N_ieg": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC4315lzBd9jMIG0YCWlwi6w": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCd7zlpSjvUuUwsQdqV3LF3w": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCybD06vKP7Ezm4StynO3BRQ": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCwPZxqXhWtb6R8Z2soEbF8g": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCuwXX51UyspEKr26lqpmyCQ": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC92x9AzWIq9HcwT0c8jkTvA": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCmlgx9sNjta3XLkkTqcCcjw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC-AK5OD7V_DlveE55DzT-wg": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCQZs3MSq9HpoMo6goYbq-Dw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCwg1tQM5lS0ewbL2NUFBx0A": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCGVjmbikXo6iBvGzt3bTvUg": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC519aDIL2kD8juZynh1-SNQ": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCOCTuw55IojgfHyXtbc2D8Q": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC5tNrp8_-E22Eig0N9KirAw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCXh0n7kk2_vzszGksC0WuPw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCW3aQMJB07jqCuvO384yJgw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCSljmVKj-YZ9CwwVLE0suhA": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCAZ0R7_eadDmJ0tE7TP0DJw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCbJHGhTR7hk1UuYpw11ztQw": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCHyqrWToE0jQtEVklj0h7oA": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC42CcPSDDefLtT7nwPA5QBg": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCsalHuNGrA1Lsn85UhHgmgQ": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC-d3NDAskbQLtVUr-iwMaHw": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCL8jrm6F9Y1kW3XnUOGTf1w": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCMe0iLdUr7mxln_mZt3fSDA": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCWp4mtSCpPA6LbtEwQLjcfw": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCZdRtL8WwvjZbSh8TjqXjbA": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCumbdTrRjeFITvzILlbsSeg": {
+      "nicheIds": [
+        "sains-fenomena-alam",
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCKK11whRiUZrVmXzOOFtqdA": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCUABDHOoJrCKjY3wr5Qykiw": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCwxpXxRByqANKOaVSJ46JLQ": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCU2Tubixcq4QNJhBzzcuHvw": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC6gKkMGgu-rHHfYIXcmOkpQ": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCzT899nlN3khS6PEQIk8NJA": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UChJ_xpsfVXoSUSbriz5z5OA": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCV4YxtykKDcU1akB7IPR6Kg": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC75xV5v7eItk4BDjBuGw0pw": {
+      "nicheIds": [
+        "sains-fenomena-alam"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCIH2zL6aS5RUKLKnemQ_k0Q": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCPBFWFlvz-VOyhuoRFvE9AQ": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCzrnhae1DLs5zuYEUaQ-b9A": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah",
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC_rBoCIFc9rvoDaMwpvO1lA": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdJeVUSES9KER37IRTJAxaw": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCqwXb6h6Zpn2PlrP3P3Dz7g": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCeIGP8_07OwqHutLCurEZow": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCuQMhEh-xRirzPz_cgt1VdA": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCbjLI1VSScBuiWOGVBZpykw": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCcRyCz9HNGD7cWi4NX28Pgw": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCLr2ALEuOeNICfpdDZrvY8Q": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCs1YIrBhCmgKs-_cG8QkvoA": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCO83P8jGmCaG-TjnF0ZPb4w": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCAIPc36-AJBtwVITLvcGAnA": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCxjzXjlKYV8aB-lnIrWcZSA": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCdeW10oOSjVZ8Vf9zGIRT-Q": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCkALCeSLjbqu4Qbwe8MqC3g": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC-A1bSmYuQM9S74bcWm3ysQ": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah",
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCGKnfvaKUWOWK7aZ0knnxAg": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCmqCxE0mY0HlssBv91dN0Tw": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCX7m0Ip3YPjT7mgT-FqilnA": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCQp39NoYT_w2Jj5oTEN-97Q": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCcBP5F2-W01IOHoahNAjcTQ": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCIs091410TB5BDljMUYJlvQ": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCknILYrcHKkquKeLALFluvA": {
+      "nicheIds": [
+        "fakta-hewan-prasejarah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCNnWe0uy_UeomYGRRu5_1Jw": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UCFpn2r0R9b6R3ZHCVF-qwuQ": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": "2026-11-22"
+    },
+    "UC7WqzW-xQB_MhvGtsQcPpvg": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCPutkI9WWA6N4Yv7LBcU9MA": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCLn4sg788ISsIe0d_9H0oRg": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC-dvo74x0Gi8_q4J0qPc7ww": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCXE4xnb64UFHK_pv7mMV7uw": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC_p6n_8LD5ZDo8ybzPnHJ6g": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCcZrIatR9nyoL6A976XCjlQ": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC-7AiSeW2bMIR0OZpmw7OfQ": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCdzO09M4PqB5u6Gj0ed0Sjg": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCHJlBm_jgeUHbXpZI0ysvpg": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCI81SNKDsCu5b_2afYYE2Ow": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCg8nfgT3BjtT4I9GVErWzGg": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UClPkc1rM1rzE60wrQj_zpRQ": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCfx0Jgwoq36kWje3zrO0OHg": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCQ-VAZckqz4IsitWNAJVbbg": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCWDQ2Zztyc90pjR-ZdnJMUg": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC8DJ39JQ3L8EG0rx3ztIIRA": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCDb9zCKDok9JUJ7frNxAnVQ": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCaF5MAvw1RiaBs1bjq96lcQ": {
+      "nicheIds": [
+        "psikologi-stoikisme"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC0Us7gphKI1kxLDbu8ZNd_g": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCz_EiWGPvhwWPByngJG6eTg": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCw1nXL22g3P-ybN7OLMIPmQ": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCEim6QUi5sqKk5jtOFEomLg": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC8YN1Mri94IKRDWceZxnILw": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC1bLKhefujii6gjrtrtqKqA": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC-WRxF94yX00_F3bf9R7Wog": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCpwQgsJ3_497chgujSF05bA": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCebESGlJz8a21o4NyR402xg": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCgggrMtS8BySyz3UzZaFHTg": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC-hwrxhe_o1VekC6Sh8JTtQ": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCYWNaOW7UqpNS47MFxQy8lQ": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCWP0iO-fEPAh-9GB6hJwtvw": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCujbG5BHUJjVKCG7B1iM97g": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCaQ4OIh0hu8JMLsI0x-eefw": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCADs2ZzZPf8XvxBPf7-mb4A": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC1ZHCMEN-S5qiiHFmlQ_7iw": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCa07bYc5icEE6gVt1zLnVCw": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC4WM1yZIwA2jZBcM9tUkJxQ": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC9wIGnzkZdz0yn77t5TXdAQ": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCoywv1gdNSyRsFZjy_d47Xg": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCmR98tpNUNtUMGrJicgvIsg": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC8fqywMofHTV784XHyfWfag": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCoznRSvBeEVC-YNsJ_ciMmA": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCs4IkYMjoXafc0oJk7C_CUw": {
+      "nicheIds": [
+        "motivasi-produktivitas"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCZr6uNPwhL90Z-z4IqKW-nQ": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCqh_demqX2hdlpb7A6bJJDA": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCWN7V87qKejEcXarT14XXXg": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCPkZXHfCLOO7KJGa6DhGV-w": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC4qW3mVYBxVjRg9IeCsaF1g": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCtVmHw-amnrK--KF-71inDQ": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCAUHc2y8IIfGwOBwm4vyRAQ": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCzG4HSZbqT1CTTtoITSxgjA": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCSdw8zP2MRIkrmzipIgkJbw": {
+      "nicheIds": [
+        "animasi-stickman-story"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCNZsjFAbj57xcpBdYt7aT9Q": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCchutFeeuzKb6_Ctp6l5agw": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCrFr8eQpiX88uKAyGE1k9yA": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCbAuinNbCy-VFr0KJGdc_Tw": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCsYqPWGVEUUL7jVSbXTf4oQ": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCVRgNLaeUFRDO3SMuzJ0orQ": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCvtCmfz13kpA0tGtfXRYK-g": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCAwaV3yrkm5OTaTYOu2b8Pg": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC4KH1-SOY8AimYFv1a9MAvQ": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCJ8vCdLpuTAVvm5pxiANzVg": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCnVDcdDIf1AOz98u7VJ3Dfg": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCBFcx14f1-DoFIiHSLiYt7w": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCulzzNbi-iScTWxq6EhVqtg": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCoJtJ-m00tugLj7tHDS0NOg": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCRO5ZCLk6O1sUEZ62gEOZUw": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCzCAKEBrEqLTgKJ6PcKkZ8w": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCznSursL9f_yI_So_Z7oO9w": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCLXaAZsf2vZFCCn8t-B76Nw": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UClpfU6i8D5bynYjw4EsTiCw": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCEipRYtHYJGXN4htE7mMDWA": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCgfcf4VlaSkri9Ad7yjAQmQ": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC4vF1BqTxFWIZhUdRg7CFAQ": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCcg2MFwXjnL2Z8fmMyG-wnA": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCq9mpPg2VNXKfJohEcyxnsw": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCfZhK-p-zESbr7K3rnf8mvQ": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCCeDGq8QDVwvTuEYn47Pqpg": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCFZ1KIFBzA2so5SBvwUbiLg": {
+      "nicheIds": [
+        "top-10-fakta-unik"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCp-LNHKgmXC-FEsNF_xCCzQ": {
+      "nicheIds": [
+        "lofi-relaksasi-tidur"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCmNx7N3lKiXmGEfMC4jYffA": {
+      "nicheIds": [
+        "lofi-relaksasi-tidur"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCF5p8Rea5lWc-Zt0zxJlFAg": {
+      "nicheIds": [
+        "lofi-relaksasi-tidur"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCrtPXCqjm9c7nqgJL-vBSZg": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCbVkejJd65e-YU46BoHiE3g": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCctLh53sIKObVNmN0nzWU7w": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC_4WEJYUuvG-DwcJ69lXRrA": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCoArDZNYiSKVkT5vMkgZukA": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCIBJAc8zbpQfOWafVvW9wFA": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCDLgN4uI9Z8aG3BZyp_sHhw": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC5zZqSf2lrsvaChFyJvdp0A": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC4SVrs2XXUmzTU_cMuAHS1w": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCwSeODgn7xfRrO84XoWj4HQ": {
+      "nicheIds": [
+        "tips-karir-interview"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCbh5UdkUXqnEoSqrMQ-5CVQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC3tyf63_gFrzfQRFMPR_6Gg": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCaa5SQxfyIfNUsixuc89odw": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC3QdLB6SEJkeeDb4Lk3GFrQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UChWLzaDEgyde26XhsdRIlvQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCSZJwjtltLUFLSGmr6TGFPA": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCpxtDBScFnXzPWqxqKW3xIQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCP9WcR4SSCxzdxLmyZybQUg": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCIguhfS9klHWhB7Q3z0jcLQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCeT26X3NvTm5HIjM1yq9Kag": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UChDy-vnpQVDt-aK_hAFLqFw": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCjnrmg0G4Lf9m0Lbog2d1BQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCF8_HI_ja-TFDVBbx9-Efow": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCgJzI1frdqcpSlhRICIZ2WQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UChbRDuhTYaL2eZbPyagG0Bw": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCwrQdlfCtKCq3Ulo4Z8PkyQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCvUGD7NWjqeXGwsTiiwLavg": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCRLYUk6Faa7Y3Ea1NPpK4Nw": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCcoF5RGeJEzIr3DpYTgCqTw": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCuMk2RWTiq6w6qJ_2cJbpdQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCcNgj6zySS58gTBxPamww9A": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCi9S5Ze3Flt_IuGlcOyvoGw": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCmvohHDZHgqoMOJbpyWA0KQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC6IGd1bHiCIfW64OG2r4ocw": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCInOIX9WPVCkcn0QCSgPA0A": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCIE6EmdpZY53leUQUzzyBew": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCIGmyudqvIGtMBYW_wgblxQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC_9DRhQbo5bQVoJrgx__oEg": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCdwUawpLQiKCAtONZhtuwxg": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCwxj8guTkSlOTGdyvcfcw-A": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCDFAVXfCtk7iPnVqP6qCovQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCBHs69CCsktWP19xErggSIQ": {
+      "nicheIds": [
+        "wisata-surga-tersembunyi"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCm5YBwwmnwEkVk9MAXYmkpg": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC6fv5R_Oha-HzF2lDmQcvvw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCnUbcAL-b7w2nG4wbXOMU-A": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC3n6K_oQfe40HY8l6KYWwhw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCvRE64b1vpQAYT09E31FxGw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCmLsovjZFF-ob8Ys9GEnADw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCp0na3cnfrloAWMoUL-KoQg": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCSsP1PE4KreDzHQUGwLGApQ": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCPdUBzRFRQyvrVVZcPJBc5A": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCF_Z-2DAbpT9nEy_PEsxlsw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC9nmqD60U6ii_brrGx4szHA": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC2LHqgUTUJ18NOFr7Ro0CBw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCyvqx1CCEo7aFG_fnyGo_Kw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCENz_8ygCSCpmtgl2otKsSQ": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC8FbHeKrBA5He4jaD3ehLPw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC8aCz7FsKyKfNfnI9qCI3LQ": {
+      "nicheIds": [
+        "horor-misteri-nyata",
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCVy3R1ICOH6dSEovFbYH2Eg": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCiVSL566MfynMFhleJQSh6A": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCAQaWE4CAx4hjmFa2Xby2nw": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCi4UUNHWTEkHGp90tQraDyA": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCsxafRtENwKHD1tgUUMKoVg": {
+      "nicheIds": [
+        "horor-misteri-nyata"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCVAgG4z0o69czFm7KkTfPiQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCUDVGGtOZY5QOfa2agYGYZA": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCBtAqix1YrKy2AI-Pt_njCQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCAxwK59qvCPGpzsNV3zXtQw": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCWAdK0_kJ1HbOmCM5AJkYSQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCXT31POKj6mu410FXdoR9bw": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCDUnkN5pVON3ekajj4Irw4g": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCCqglv0fYXYAwD8N_Kh_M7g": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCjHEyHYHU6QgQf4Z749FCyw": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCrrFLxYcN9Rr9FwBtaQ4IXQ": {
+      "nicheIds": [
+        "true-crime-indonesia"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCTQ451cnwLovNouRsvcumow": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCCeEijVXKtJGq-Rai_r_Wdw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCmY6DbYjkfR7nwpeOUzmkdw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCmgjRNCd3Ovv5PDr_fYdokw": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCrrYnMNyh-6GnAQkj7Nv_NQ": {
+      "nicheIds": [
+        "sejarah-nusantara"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCP1AejCL4DA7jYkZAELRhHQ": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCudmDNxNNi8szckDF63LISg": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCjtxIo5VtamvmjlFge4VJmw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC_TTHxTJzPy8XAmGtoLRbmA": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCbRnuCZ3kcvV7p8pbCfR_uQ": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC6MhVlSnzl_IvhFqKLb4k7w": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCUiT6FlwXaV6IzBTf45cb5A": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCGA1t1uJJ_TvGaFRgvYD9qw": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC3ixTTqCXbqEFBFYl4n5pYQ": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCAYsUSC8IGSEW1kV2HQm-OQ": {
+      "nicheIds": [
+        "sejarah-dunia-perang"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UClgbjDBx2aw61cQW8VZsWig": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCPrEkVIEYIQLp0VjV2Y03Zw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCq3QSdAGQtLshkKVMt6thLg": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC6L9T5eH7Pfc6WUFGnJ5VVw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCJ3YNWklfeLWRELlw3aAEwg": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCw5DLioUXIT80PRWQ3q_WtA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCm6JurvE6hH2_0NdOZouDeQ": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCzI4T53IdgGGnnsomSliRFg": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCnwtzVHZPMbhgCM4NbhVFag": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCia95fzkUWYRFGWMUiAUPuw": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCKR-Ne3g_DBa53oPueVUsPA": {
+      "nicheIds": [
+        "geopolitik-analisis-peta"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC3jhnx_Bv4S8TJQtnvTkXjw": {
+      "nicheIds": [
+        "studi-kasus-bisnis"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC28Nsu2CmbXRD1eGqMVcpYg": {
+      "nicheIds": [
+        "studi-kasus-bisnis"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCjh7iCz-CYoBEFVDt3gPvNg": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCVXeN7JAhZvQ0Be6QT1DJwA": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCwHr30Ih_pTYE5_OhGDcdkQ": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC7-KPoLwpj2DlJgzfKmUBBQ": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCX7r3bSVvPZO_8CLek334Kw": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC1th-eMrYodlurM3HpZJZ8w": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCZ9Eqhz78Ys9LOCoQNY7mbg": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCQ8TWnmzJsY_T_Jly498jPg": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCu0WR-wkYbXcbziBIUG1kgw": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCnTABovHJJg731SxL7jynLg": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCWZeSVflMFtAX-vyXaeznsg": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC9ccyuLFH0m3rWi7RvyqI8g": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC3DjzaiRkSe1WgGorpOf2kQ": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCY0sAotWP4wdVzrxFyZ1_sw": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCz7KXzSpJZ4CPUxw6bRok0A": {
+      "nicheIds": [
+        "investasi-saham-reksadana"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCfhufQVRAdr0q_FdQSduH2A": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC_Fcy-biwMQ02USyFV1xSuQ": {
+      "nicheIds": [
+        "ide-bisnis-side-hustle"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCPfxHsESM1xXTWVX3w6EvEg": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCGArPy808Rg1L3y8WtlLWSw": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCUFq7t0AU-6ZBeK0j8GjrKA": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCK7Kf4NQJtH9HFMuP9Tb4YA": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC80Da2aJH7kDtZ1PDwP8-RA": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UC-pRfvlBU3mNnIapN_gF_bQ": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCyA6mvScuPuXWhzyhY8YiZA": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCBxpDpTQ04AZZc8o4VYc8dw": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCoBv8Kl0VE_vZ3m0qV7_Osw": {
+      "nicheIds": [
+        "properti-kpr-rumah"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCZqsiet93joKmZsTI67tVRg": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCpikvbsbLd6tMcuN7AEJ-1A": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCm08JUvOGy5rTjFVb9yClDQ": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UChsDHosOMQZVJfiywJ2xOCA": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCKAWM6JSBArCvGIwE7__3zg": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCeyzSDwnAzK3Hfza5hMcICw": {
+      "nicheIds": [
+        "berita-teknologi-gadget"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCs080s3G0ZuguIWghE0diGg": {
+      "nicheIds": [
+        "cyber-security-hacker"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCCktnahuRFYIBtNnKT5IYyg": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCoNVuk3Rvx4nG5yNJWCLiYw": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCsEM1GTcfh5GxNJdpORv8UA": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCwowoZP4fMUmYIOJLoT5trA": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCMZ5kMRz46IQ6N9xj4auVNA": {
+      "nicheIds": [
+        "coding-programming-pemula"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCB3-TlwSDgz3oU5Wq5bsXdg": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    },
+    "UCG-SIuGFsYFPYIj5oj4BNJg": {
+      "nicheIds": [
+        "sains-luar-angkasa"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "lastFetched": null
+    }
+  },
+  "formats": {
+    "lyn5EH0QHFM": "short",
+    "l9wsgutXw8s": "short",
+    "mVY2Bm2POjI": "short",
+    "C4B7IEG_p0U": "short",
+    "-pZmZJpCUZk": "short",
+    "4-7qBicdMVs": "short",
+    "qi2OuH4KfOQ": "short",
+    "bSzJQFivqto": "short",
+    "axnEGPxDpd0": "short",
+    "sQjlOxLOyec": "short",
+    "78kqe5FqaHA": "short",
+    "P0mxDyM7DZA": "short",
+    "jGmQxlDvNvk": "short",
+    "KCBEI4K7ECk": "short",
+    "gI_5XA7osqs": "short",
+    "hoJeFEkrFGI": "short",
+    "z-QxyRo_dSo": "short",
+    "Dp3hpQp5iOs": "short",
+    "KGym08VM_tE": "short",
+    "CJE2Rdrbf-A": "short",
+    "xcM-q_tC7Kg": "short",
+    "7mSlVGKxvfM": "short",
+    "Rr7R4U8q7UQ": "long",
+    "75nqGq3PS3c": "short",
+    "zlhJIXekm1o": "long",
+    "ns5FuzP9s6U": "short",
+    "fqxR5avA1rY": "long",
+    "VufsSGCN-no": "long",
+    "xU9ivnZ1sW0": "long",
+    "BWNsOGPZk08": "short",
+    "l2ZG2NQOTXo": "short",
+    "Bf8xg8JaIeg": "short",
+    "vukyIplH6-4": "short",
+    "HhEF2ByiVfA": "short",
+    "R3TjhS6WY08": "short",
+    "cvSMkk2Lpac": "short",
+    "qSaM1BjFb_E": "short",
+    "t_y8t6IN9xQ": "short",
+    "KZloC8u8NRc": "short",
+    "ZXyJ5gbGxvM": "short",
+    "u-TfVuDyJu4": "short",
+    "o6D_xJdqWH4": "short",
+    "Dw-pCyM3UUY": "short",
+    "QKnDtCc_f6c": "short",
+    "XetyecLwk-A": "short",
+    "mNNLDMBvL_0": "short",
+    "N_PSKdhtEwM": "short",
+    "QA-5b518vXQ": "short",
+    "qENRo_3-458": "short",
+    "oznZjDDjDTQ": "short",
+    "fbBeMxYFqxk": "short",
+    "IrCikeQ029w": "short",
+    "YSr4ufPwMls": "short",
+    "8UcS8gzM1lA": "short",
+    "go7mueyMF3Y": "short",
+    "gOBk5smtszQ": "short",
+    "DLCuERdK-Pw": "short",
+    "m1G9-xajLWU": "short",
+    "lDek0kepQcc": "short",
+    "H89StpE48-o": "short",
+    "-fM5eQEW8sY": "short",
+    "dyk--Sjtpls": "short",
+    "spMUEl4r0ZY": "short",
+    "D6LVc1BWTPs": "short",
+    "9yTA14dRDmE": "short",
+    "p5VAixfXjXM": "short",
+    "bXLsZm5rW-Q": "short",
+    "S1A6hPDjsTQ": "short",
+    "PFx5eZosDAo": "short",
+    "oq10fse0t8s": "short",
+    "xmLaZVOCv1U": "short",
+    "TI7YhASPGSg": "short",
+    "628kEu85nYk": "short",
+    "fXCl-SaAtbs": "short",
+    "onSM9cqDJMU": "short",
+    "EcxbJ7x82Xc": "short",
+    "mjB-sClmbtk": "short",
+    "l324PdxwLpg": "short",
+    "6NjKh-4Eggs": "short",
+    "PC2t3p8HeqA": "short",
+    "_jhxh9YFKzo": "short",
+    "iKnFKrOcEgQ": "short",
+    "LEOey6OIE30": "short",
+    "VazsKMmkzB0": "short",
+    "II5twfKQhmQ": "short",
+    "P12oUa85lgs": "short",
+    "SjRoWoZhqDA": "short",
+    "SGZ6EIjVPhM": "short",
+    "gTmpL6eh8Ec": "short",
+    "QxjhlYwCeR4": "short",
+    "_-wwOiRg-Dk": "short",
+    "wSNO6w9qInY": "short",
+    "Rd9NACfDNqg": "short",
+    "5ZSU_ahsD6c": "short",
+    "-gPV5FJs2S8": "short",
+    "uBNYQ1zvG1c": "short",
+    "RGcxeYDTV1g": "short",
+    "6swLSd3XCGs": "short",
+    "y4Kwj--PkyU": "short",
+    "s2938Ltz6rU": "short",
+    "gO22_FTX6hM": "long",
+    "1eL5qbAmiuU": "short",
+    "iQZ6Sh5z4lg": "short",
+    "4Lt7WBEaUhg": "short",
+    "2NqiEWKZf3k": "short",
+    "sywPednrgGk": "short",
+    "X4NX7GC9-PY": "short",
+    "ZFM2_RviJZY": "short",
+    "sXVmNEHWzSk": "short",
+    "fi0weIAI0X0": "short",
+    "oXK8gi_M35c": "long",
+    "FehIgs2ypxc": "short",
+    "VhdA2qxcSYM": "short",
+    "7mt3DkObib8": "short",
+    "O4rXwcEjgKo": "short",
+    "0gecaPhpBfs": "short",
+    "C4V9DR9OZbs": "short",
+    "7PkG-O4b8Hs": "short",
+    "Kcq0nHbjBWU": "short",
+    "iEK4xS3Jbto": "short",
+    "PY_tcBInXek": "short",
+    "rbPHeNC4DZE": "short",
+    "P9zPqcuTmJg": "short",
+    "V3zdBXqDRFM": "short",
+    "6E0MZVzuW70": "short",
+    "3hOQlUtsr-c": "short",
+    "W2Ggi5cbcqg": "short",
+    "y-ktOD2hGc4": "short",
+    "fNhkFWcfuv0": "short",
+    "MhMzXQ2loKY": "short",
+    "pTVZzPoH76g": "short",
+    "AwyaKaZDOXY": "short",
+    "S0qpRLQHFHY": "short",
+    "gwPSZNum4h8": "short",
+    "66v89BfEF3A": "short",
+    "hyaoDT5BTyw": "short",
+    "0zknZWzpTW4": "short",
+    "qQ1aTWqxbmA": "short",
+    "mByNml98u-k": "short",
+    "o77y_lIM-Wg": "short",
+    "2O2kM9LmNqM": "short",
+    "m3bSKZzlW50": "short",
+    "dCJbsA6p0w4": "short",
+    "pE7J_zo-kpo": "short",
+    "l57lWS-9BhY": "short",
+    "PwewkSd9_cQ": "short",
+    "8rBbkidbOtc": "short",
+    "9_-ImXPUHEM": "short",
+    "Ij9ZKJgR2Is": "long",
+    "xl8dudZBVeY": "long",
+    "yzmd_cNu2N8": "short",
+    "8d5LvkF3Rws": "short",
+    "WP-37e49J5k": "short",
+    "Z7snPwDtAaM": "short",
+    "ffuGESj1L3o": "short",
+    "Ms0585h5o_g": "short",
+    "Y1AINq8O7NY": "short",
+    "dB4lhC2Mb60": "short",
+    "c1-6rYZPyzU": "short",
+    "QuCh75Fz-Q0": "short",
+    "4z1rnwBolpc": "short",
+    "bPSp9IlxQVQ": "short",
+    "Sm46eHklgLg": "short",
+    "wqRBR3Ch08Q": "short",
+    "B7gOtq8Ku8o": "short",
+    "G1fBHjHdUlw": "short",
+    "PboaTnvRMzI": "short",
+    "oZE_QUgb1mE": "short",
+    "I-IV_UF_9F0": "short",
+    "uGJGv9ZS1Wk": "short",
+    "hCUpKwGoHVU": "short",
+    "aTvLZUoVjGY": "short",
+    "MOsgIhxn0e0": "short",
+    "Xl4eYjJAJ94": "short",
+    "iQsmTCP-8r0": "short",
+    "fXaGPws57OA": "short",
+    "LtwKF9iVPy0": "short",
+    "xTMKtqdE0_c": "short",
+    "CFdqz8-cKFs": "short",
+    "OvIEJmE6GhM": "short",
+    "O6tOWKCnXNw": "short",
+    "ru7TPWZT5-s": "short",
+    "3zXfWFjzgso": "short",
+    "RxylZjGbXu0": "short",
+    "T8evx6BQcHU": "short",
+    "LNEivGtFuvc": "short",
+    "HwCuTkmBGyQ": "short",
+    "Ov7qKGBbMf4": "short",
+    "r5cGSIgokwc": "short",
+    "ir07d5Vvddg": "short",
+    "GvH3u-BFvM8": "long",
+    "FQ9lOp0E_-M": "short",
+    "zbo-81KUbsI": "short",
+    "vvH1JDek5Xk": "long",
+    "zNc2I1WcFcI": "long",
+    "OhLBeDwA4MA": "short",
+    "oMowYPR6Eos": "short",
+    "5ePnuMcq_io": "long",
+    "3KyU3ZScGdE": "short",
+    "_JKEly3MPaM": "long",
+    "R_sKab4-a-Y": "short",
+    "zmX3uJBVvHY": "long",
+    "RYy-xg0HNNI": "short",
+    "r9E1PvxoOjE": "short",
+    "dc7LWig6vHc": "short",
+    "P9JbeVY8sQE": "long",
+    "wdYc1IoFego": "short",
+    "tF0NBc4vn9I": "short",
+    "w4_tNMP3sBs": "long",
+    "kMnV3vPAU7k": "long",
+    "ewVXFa1mwXM": "long",
+    "9gW3B8cHfgc": "short",
+    "xh4eoe1VwaY": "long",
+    "dcaEWjq2PiE": "long",
+    "u784cSo7P0A": "long",
+    "iL_vO-KIwVo": "short",
+    "0I1KlUwETJc": "long",
+    "d5FKlNVD8ig": "long",
+    "4DD8nb0wyT8": "long",
+    "c5bEzAaJnO0": "long",
+    "MQpNiv-VYMU": "long",
+    "JWKO_cevYhE": "long",
+    "Ud5v72ZmeWQ": "long",
+    "UsaflkQXTu8": "long",
+    "mOF9RuJJ7bg": "long",
+    "ExSt9jtRYyA": "long",
+    "oRa1Qy7CVBg": "long",
+    "G4pwl7Mtgeg": "short",
+    "VStCUDvNf1k": "long",
+    "cfFeSMxr_o4": "short",
+    "3mimIi9krxE": "long",
+    "v_XV1EASn8Y": "long",
+    "Zb8OyCrhbxc": "short",
+    "uSVHP6vYcTA": "long",
+    "Axwz2pznX8E": "long",
+    "fKD-46-aCls": "short",
+    "S1qT9s43CYI": "short",
+    "xK3kSS8j7z4": "short",
+    "qft2dM5IJ6A": "short",
+    "78vbXX6QRno": "short",
+    "63KPIklt7jo": "short",
+    "LKS36FON7Ec": "short",
+    "KSNcvPP373g": "short",
+    "aXb8PAj-J4I": "short",
+    "kUb2u1ql3no": "short",
+    "stA5O6ae24g": "short",
+    "LAXMXDl7wBY": "short",
+    "-Ps90obqRqk": "short",
+    "J0KRRcR9fRQ": "short",
+    "8uJmgQfwLoE": "short",
+    "iv6HA9_48T4": "short",
+    "qci6hI7-EL4": "short",
+    "VlIu01IWDxQ": "short",
+    "9G1KC52IXec": "short",
+    "uNATk5PvAF4": "short",
+    "AuyfI810qEo": "short",
+    "3q0x2KDnSfY": "short",
+    "U8Fc6DmRvX0": "short",
+    "PWuOwGy-jc8": "short",
+    "PAAdAM_n10M": "short",
+    "uWSSdb313as": "short",
+    "KC4361FfT0M": "short",
+    "g8SV1DHWa9k": "short",
+    "CnUKMgbBFUE": "short",
+    "G3QjqeBTqTs": "short",
+    "s8mI5eYv3Xk": "short",
+    "qdU_5yt5o9A": "short",
+    "CpwSK_imIEk": "short",
+    "FMz4sLRMoRs": "short",
+    "iUclcObUfdc": "short",
+    "KJOwyPJDNfw": "short",
+    "YuSNwN1gHaE": "short",
+    "vKblcWkiNY4": "short",
+    "I7OCGPAekwQ": "short",
+    "QUfCjYmDqpg": "short",
+    "V2MkmJjzqh4": "short",
+    "pY2PpCLV9OQ": "short",
+    "gZ3JrBIF5hs": "short",
+    "kGfHHqq9pBU": "short",
+    "cahxIUPk5u0": "short",
+    "9sTdLHyAw54": "short",
+    "JxkThAy4RLE": "short",
+    "GlIRW-9af9o": "short",
+    "hAiRy3V7sd0": "short",
+    "S57nYdHZ8HM": "short",
+    "EaIH9Xk1enM": "short",
+    "-ReVyn1tiQY": "short",
+    "QNrsJkGx3F4": "short",
+    "NGVwE50HFGw": "short",
+    "3X1uWa0RYrU": "short",
+    "B7HkyYEadkk": "short",
+    "CM4mFAwe0iU": "short",
+    "O39h1m2BtTg": "short",
+    "kDnkk8f2OJg": "short",
+    "4sRjlepUiaw": "short",
+    "OoBlS4K_URs": "short",
+    "a_G2cOeUye0": "short",
+    "4YiFLL10wHA": "short",
+    "vd4dFUzvD90": "short",
+    "Z0ezAzEX_GU": "short",
+    "xD1OgIdBuyg": "short",
+    "tzMVmsx64Gw": "short",
+    "yEcl4EuaEtE": "short",
+    "055ayIdaC0U": "short",
+    "MVDjunNdrmk": "short",
+    "v9LnCqYqS_4": "short",
+    "SDcTcVwDDOM": "short",
+    "m5RrmgLQr1s": "short",
+    "4QvtqkmgPU4": "short",
+    "MsUUXSyDxBg": "short",
+    "xESiIOq7szM": "short",
+    "vnn44DeME_s": "short",
+    "zJX4w2ftlJk": "short",
+    "sSw1x95nlXg": "short",
+    "CUkyiOCURQg": "short",
+    "Qg8_t_991u0": "short",
+    "H_qv6sAuAhw": "long",
+    "4x_KI1fUE-U": "long",
+    "TbIH3n01SU8": "long",
+    "Ca_kHkUHcVE": "long",
+    "b7vACdOMdNU": "long",
+    "HE_bCpZxhFo": "long",
+    "RHlU7IPUBHw": "long",
+    "mrTM8iz3x0M": "long",
+    "KGaAUayiAIk": "short",
+    "0AeUeZRfTLs": "long",
+    "KnODtxbq-3M": "long",
+    "8_MLIxmKi10": "long",
+    "mJn8zHyTbbM": "long",
+    "-8ipSEW3Srs": "short",
+    "nU3OPBfiL5Q": "short",
+    "5kUTFAN9ww8": "short",
+    "dZS50C6x2vc": "short",
+    "lmyapQlMPo0": "short",
+    "F5KEajqdccc": "short",
+    "FPLZg3AGd90": "short",
+    "bwZL8FiqQmg": "short",
+    "VohcjflMxPk": "short",
+    "T-9M_kCusd8": "short",
+    "FRUxJkogwvw": "short",
+    "0RMhYpYP1_w": "short",
+    "rP-6sRpn0Ug": "short",
+    "Krj-y3Sl_GE": "short",
+    "VOA2KX7SOiE": "short",
+    "-z9of1qkLRw": "short",
+    "xuAi4sdWWSk": "short",
+    "mNjP-rlZ9X4": "short",
+    "6NO06lNCiuk": "short",
+    "ghbBy3HMVrY": "short",
+    "Dr9UN8diy7s": "short",
+    "a7DfZyn4qjw": "short",
+    "OHOUxeYwhMA": "short",
+    "AE6k1Vr8Ef8": "short",
+    "qEUZktnG9co": "short",
+    "87_xQNAsNN0": "short",
+    "ayMlNdYnCPw": "short",
+    "2h-zOeNyV6g": "short",
+    "PyYjcuibBxM": "short",
+    "ppHr863yD6I": "short",
+    "unG4gNNiKbM": "long",
+    "Pahl8qGjSHk": "long",
+    "1E1wtYRWoC4": "short",
+    "pD54mHPsF9M": "short",
+    "tU7F3iJ_xGM": "long",
+    "gpf7zktdwkA": "long",
+    "_NwHBcTJs-4": "long",
+    "W_aALASEuME": "long",
+    "-t2Q-bVuWOc": "long",
+    "isjgzgyG6GU": "long",
+    "JB2T3D8XQhA": "long",
+    "BUZQg2nXLZ0": "short",
+    "W08VvY9mCZQ": "long",
+    "6vG1_g53naI": "long",
+    "0854yAwInGg": "long",
+    "9jThsemET-U": "long",
+    "6LwrxK-f3Zc": "long",
+    "OoEigGZvYeg": "long",
+    "elApg46gbZE": "long",
+    "lPvXXVa9Nus": "long",
+    "UqxVVEy2Wgo": "short",
+    "qS6h8lK59zQ": "short",
+    "TG8G5bJx-mU": "short",
+    "jyCks7En_jw": "short",
+    "IQW4Uvhw1AA": "short",
+    "N8bTDY-7u98": "short",
+    "gw54irKOcpg": "short",
+    "2o7lyjZ5P_Q": "short",
+    "0YoZZ0Bj3EM": "short",
+    "Za1cSG7NXpo": "long",
+    "TdGm_nFRR0U": "short",
+    "G3GxF7daTng": "long",
+    "WsXMbcvcmwQ": "long",
+    "dgxgPr5RCTg": "long",
+    "bQngDbtZkL0": "long",
+    "2F57jUu4cPE": "long",
+    "5rOhhFoI9vE": "long",
+    "xxDljNk-e-I": "long",
+    "Ym-lc-hRBLg": "long",
+    "XRwCAhtO0z4": "long",
+    "2iRZFiT0Tjs": "long",
+    "x3urzh9c77w": "long",
+    "SO1BqTf3trY": "long",
+    "yP1TeYY652k": "short",
+    "780OaUlslPc": "long",
+    "-dOBuA9Xow8": "short",
+    "CnAepFAEsyI": "short",
+    "0qoEL9dfPLI": "short",
+    "iPbi6H5IxXA": "short",
+    "Wpk4HOh7Q44": "short",
+    "8iDf3oxIOhQ": "short",
+    "bBBCcsaEtMs": "short",
+    "EmuHwXfWzjw": "short",
+    "sKdQVRfV7Nw": "short",
+    "3eVrhfblVV4": "short",
+    "By950161stQ": "short",
+    "utY9kj4Tboc": "short",
+    "q8d4UR5tinM": "short",
+    "K12AG4E0-Ig": "short",
+    "lqsnGBnCp-Q": "short",
+    "2xAdQ4jn-Uw": "short",
+    "EnGb29uvyr8": "short",
+    "CPYSrEft0MQ": "short",
+    "5xATxCutTdU": "short",
+    "ojHCtRQDd6o": "short",
+    "qrn-5KQhQLU": "short",
+    "XbnVPZrCz8k": "short",
+    "uMQe_3IwI1c": "short",
+    "2UsTji0Xxv8": "long",
+    "EagIehEGbuk": "short",
+    "4aLe4v0KdcY": "short",
+    "M8jfrczgYKI": "long",
+    "41NaVfXYDac": "long",
+    "HANCLZ5Mi2w": "long",
+    "kEI5Vx6714g": "short",
+    "8zpWmn55XEY": "short",
+    "HfuQLvsbGiQ": "long",
+    "_ywuTiQXJUg": "long",
+    "7peD5Lrmz2w": "long",
+    "75tdr7Uu3ZI": "long",
+    "1qx8TgQdX2M": "short",
+    "RK-VJawRLwY": "long",
+    "0C395KmwfTs": "long",
+    "okYBsvIwCJE": "long",
+    "_oQ_u6XteOQ": "long",
+    "21qiC7S8kTM": "long",
+    "J4sTND5CGxw": "long",
+    "vQeux0_FjYs": "long",
+    "zebmo6X9f3w": "long",
+    "w8afFav-f0U": "long",
+    "hjqJlqErdZ4": "long",
+    "0wAfeNbTs7M": "short",
+    "ZTSQgXiY7ro": "long",
+    "wL3PSARRPhQ": "long",
+    "hSmIBuISJyc": "short",
+    "PkC4MG5hlHo": "short",
+    "9woSVjT2x8s": "short",
+    "a97tPiucvmo": "short",
+    "_-gvUWbUkgw": "short",
+    "sPaUQ5ueQEI": "short",
+    "wo5LgOxL2Bk": "short",
+    "6LzXbMFCk24": "short",
+    "PpSG5v-BSwM": "short",
+    "GEZ6x4wdhC4": "short",
+    "xD88lfICjls": "short",
+    "satrEqffZqw": "short",
+    "k8j0tqjqYLY": "short",
+    "kkIcAqVBbzc": "long",
+    "JS2x3b2j1-Y": "short",
+    "aV2f_zwVBdY": "short",
+    "ngxSLUASpBE": "short",
+    "2TsnH4xcxR0": "short",
+    "xGTVysM51Rs": "short",
+    "Cq0MxRgPYwA": "short",
+    "EZjETqPctB0": "short",
+    "-lxr6zr9z2M": "short",
+    "34zHfb4lD8U": "short",
+    "2E5UVSoZqtM": "short",
+    "cqnyOwmEtz8": "short",
+    "EzNC0D2v5ig": "short",
+    "2tkRvcJcztY": "short",
+    "udLRyJTKRVg": "short",
+    "GyyqNLT6MBk": "short",
+    "mfyxdHGwhEo": "short",
+    "7T3_PXrV4ho": "short",
+    "zqZX1tvCMLE": "short",
+    "mUhLjj2RPDc": "short",
+    "HrDWljHNonA": "short",
+    "yxH6ZNBq22E": "short",
+    "4o0t674Px4U": "short",
+    "6eymEf_rrFY": "short",
+    "wD6oC0olvgg": "short",
+    "KNIKzgJyHIs": "short",
+    "zJt96stpPEc": "short",
+    "phEqSBBK9qA": "short",
+    "VHqB-WLOEy4": "short",
+    "yh5bRE8icbE": "short",
+    "n4rbF6ZHA0Q": "short",
+    "4dDbX2kIhUg": "short",
+    "YSI5zxCkB98": "short",
+    "CblR0hjWSzE": "short",
+    "-efxi-3yimI": "short",
+    "SIoWra4qIQE": "short",
+    "sjJiOhb5JcY": "short",
+    "n_8oubAwVf4": "short",
+    "wSZrUKevfn0": "short",
+    "PPhWZRVWKfI": "short",
+    "_d_y9n2Qh8k": "short",
+    "Any_wiimpZE": "short",
+    "3o9T2zx2FXU": "short",
+    "z7hyu1MbFYI": "short",
+    "QO305_oKLc4": "short",
+    "fZHeoMmGlWE": "short",
+    "sR4g6jjY9FI": "short",
+    "wx6naI7wPUk": "short",
+    "1ZfWAguKTtw": "short",
+    "1KWfw39u6XE": "short",
+    "1hXn2JKfaf0": "short",
+    "dzxaH3NiWog": "short",
+    "fRMsQ884nt0": "short",
+    "_DvLSlIXIKg": "short",
+    "36w0BHGQ56A": "short",
+    "Y0KomjtRsYU": "short",
+    "C4CB-okk1UQ": "short",
+    "DTq2mvaxtJ8": "short",
+    "7l4K206BNOE": "short",
+    "c4fFRHscSvI": "short",
+    "0uSxTQU8guM": "short",
+    "Vr-VQM2usw0": "short",
+    "vKZV1JG44X4": "short",
+    "mu4XrmGmm1g": "short",
+    "AS0rY8gvil0": "short",
+    "aj6GpYEIzy8": "short",
+    "kTEkf0pWjxc": "short",
+    "SW2Ny7KNTHk": "short",
+    "zswfz04PwLU": "short",
+    "3kC7ZZkXzIU": "short",
+    "u3atKvwrzVY": "short",
+    "hE-juj7LDqM": "short",
+    "x5PP8pF5QkE": "short",
+    "U_3gw9PEkcI": "short",
+    "-n-vB72pyv4": "short",
+    "EkvR4YjSTZg": "short",
+    "_hX2roqQB5E": "short",
+    "l62PG5TQVHg": "short",
+    "itrPIlF2nPQ": "short",
+    "grKJ1GXRNYc": "short",
+    "Ef8Yo_WzFCA": "short",
+    "KAP6D60VHno": "short",
+    "zePGyvXRXgE": "short",
+    "307lhvdZnWY": "short",
+    "MEjp0KwEdZY": "short",
+    "Hb0r3WMeI1A": "short",
+    "0cqCEwRbHQg": "short",
+    "ozp6HtqKGKQ": "short",
+    "--eYGbeVetg": "short",
+    "YgJcRNijcac": "short",
+    "JHwNTIV6wm8": "short",
+    "aYcP82Jo3JY": "short",
+    "bkwF_-tx_D4": "short",
+    "t07YH85iBvk": "short",
+    "3EnBtZzcDak": "short",
+    "qNZho9x-Pes": "short",
+    "lDkRmTJpkwU": "short",
+    "oNLSeYdf6P0": "short",
+    "kp3ylzryoy0": "short",
+    "0UyZjT3xioA": "short",
+    "Kqhymuyi84E": "short",
+    "eZI1LLhRXGQ": "short",
+    "pzgRVD4fehc": "short",
+    "KMRnevOf9vQ": "short",
+    "X0xlkxH2jXM": "short",
+    "t5zhqRgfkwU": "short",
+    "eTWB6Fi43uo": "short",
+    "yItWsvzv93M": "short",
+    "ihU-Jkb9VQc": "long",
+    "h0bVMorYSWY": "short",
+    "8LwRe8fS7sI": "short",
+    "crxuR_MojhE": "short",
+    "XOqYpACf5Dc": "short",
+    "1HzI2QbTKk8": "short",
+    "sMn99K42urk": "short",
+    "FVwXbrFdxKk": "short",
+    "AitfI--0TWE": "short",
+    "Qz1pFmDQigM": "short",
+    "Bg6gi3XePsM": "short",
+    "ikHAWzSo0KM": "short",
+    "rafJAXyy5sI": "short",
+    "ptkRKgZMyPU": "short",
+    "XEmUr6NklcM": "short",
+    "_Vx2Q5m-CrI": "short",
+    "Q3W3oabNVy0": "short",
+    "vas6JLUgSdU": "short",
+    "7-luvF7M8Fw": "short",
+    "AZFDmcAr2dQ": "short",
+    "wgiQuX9-iEQ": "short",
+    "KlZ_04Dd3Vw": "short",
+    "Am7CPBzIolM": "short",
+    "n_qRQr7H2zQ": "short",
+    "gB0SLkNT2fw": "short",
+    "q619mVi567k": "short",
+    "zI5IpjLPsCM": "short",
+    "ghBQIQzs5Do": "short",
+    "LKjITH63BUo": "short",
+    "7Hxe9MywcNc": "short",
+    "H9L7U1BN_CM": "short",
+    "q13yKXVegTU": "short",
+    "1peZDlC62aY": "short",
+    "IW6TPHv4oT4": "short",
+    "I1XIhChAfJE": "short",
+    "HNRMUNR7uYI": "short",
+    "tYgehQZHb0w": "short",
+    "8uy--PBKJu4": "short",
+    "fMH_CeU6MkY": "short",
+    "lfQZNNuefPs": "long",
+    "rAiw6rDHuzg": "short",
+    "taBnqm1wKzQ": "short",
+    "rJentuKSDMQ": "short",
+    "J3sOiySsALw": "long",
+    "lz_UBoW54QU": "long",
+    "qsRZjTHDsFs": "long",
+    "VPRQGUBmDwo": "short",
+    "BJ_v8-p-mZY": "short",
+    "NM8pU3jILhI": "short",
+    "8VQA9GCUzGk": "short",
+    "IcuCgVh8W54": "short",
+    "XP70rX0jLmQ": "short",
+    "PEki1Pk_sdU": "short",
+    "_TVW1Bo__RA": "short",
+    "W0rIqJHuP_U": "short",
+    "VOtqDxQuQd8": "short",
+    "_ZWw8t3TlEE": "short",
+    "pItJrfqe3pk": "short",
+    "L4gdHJiXXgA": "short",
+    "x_j6-654GGA": "short",
+    "iJjUJXQi5gc": "short",
+    "F8cgf93VNkc": "short",
+    "d4vuXUQ7YxA": "short",
+    "iHWdD4gY_ig": "short",
+    "0ivD2ibQemY": "short",
+    "CscX3FT6qQ4": "short",
+    "WGWr3zSJUKI": "short",
+    "8iw0kaVLCfU": "short",
+    "VRCumcQtYos": "short",
+    "72iJi_Cdcpg": "short",
+    "VAt-2gMKSs8": "short",
+    "iYLyI_mg8zY": "short",
+    "YkPpRbNEuiM": "short",
+    "wcIjpae7qpY": "short",
+    "LJwlfqn21s8": "short",
+    "REcZLbILGnk": "short",
+    "f9N4M6KZtuo": "short",
+    "_bp_Qp4pdnw": "short",
+    "qM2N_5inwOw": "short",
+    "Y3UiqEZMr2A": "short",
+    "ffeClbsIf-E": "short",
+    "I-t7HqHtBGg": "short",
+    "M_W5AFQLxTk": "short",
+    "IOpGF9MLJ2I": "short",
+    "h4eDkEP_iSw": "short",
+    "TMeRIFtXo9U": "short",
+    "2vnoP7UMMs0": "short",
+    "FCgQqZsN7mM": "short",
+    "7f9KZ38svcc": "short",
+    "ADv46QfC8z0": "short",
+    "EsP3yy52Nvg": "short",
+    "jUK2GkzIze0": "short",
+    "5QvRJ1_Hjk8": "short",
+    "tCnr7qSz3pQ": "short",
+    "keoEZidGyws": "short",
+    "A_b-oW3nP4E": "short",
+    "3GwRSYxGnJ8": "short",
+    "lzbCVTcxnH4": "short",
+    "enRHlQLksA8": "short",
+    "6HLTEnuq1KU": "short",
+    "sK5zdt0owX4": "short",
+    "wZX3HcNjUD0": "short",
+    "DH0poutQTgA": "short",
+    "ogZPDkCXHlU": "short",
+    "nM9j18CxU3Y": "short",
+    "g9h21weJ82g": "short",
+    "kDqwIRLb_mc": "short",
+    "GGqZzS3np7g": "short",
+    "xbY3gWwYQ7w": "short",
+    "y_PH5VEULNo": "short",
+    "S8zOL-dTLbM": "short",
+    "Nk0Qu1R7T0A": "short",
+    "MK9qIn5M7ms": "short",
+    "ZeVnSO-2unc": "short",
+    "2A3UWsWAPHw": "short",
+    "S3qJyoeRa8o": "short",
+    "BpHA2Rf5Slc": "short",
+    "cWCkHpB_IEs": "short",
+    "dHlwMUEMTq4": "short",
+    "B3GYFZmprAc": "short",
+    "BdWDwTn7KJc": "short",
+    "Exnz1cYHt0s": "short",
+    "crp8H_WrTe4": "short",
+    "oPf8VJXcjHg": "short",
+    "b4ymhSEC-uk": "short",
+    "lcC7jUE6yw4": "short",
+    "cZf6BtmD67k": "short",
+    "57Hjd9Rk7GM": "short",
+    "KBywPurWXV0": "short",
+    "CgtyFeEa5mM": "short",
+    "GKzlUor9m6A": "short",
+    "2SCKo1dOF-c": "short",
+    "2Y_nG-3TQg4": "short",
+    "fP0LBHouuU8": "short",
+    "fvq0F62fGmY": "short",
+    "NV0JDsPPeIU": "short",
+    "cVDM7GA1F7Y": "short",
+    "vnNcr2kCimM": "short",
+    "7KvdHtDozrA": "short",
+    "4daZIGQA8E0": "short",
+    "q92BlCzk-cg": "short",
+    "cUQ4SZ6jDXs": "short",
+    "Is-rBo_sm5I": "short",
+    "peywFdou6Sw": "short",
+    "cLskQtlxXnw": "short",
+    "i_jWQheJ4rQ": "short",
+    "F4w_5_Ng8zY": "short",
+    "g5aHhNDRM80": "short",
+    "iG6Zbx86KB4": "short",
+    "Uq31pX1_rLE": "short",
+    "3y9m9-du-kA": "short",
+    "Q_8kSSWOEyU": "short",
+    "42HbQynQ_lg": "short",
+    "44qzaPQruKI": "short",
+    "Znv5xdWJfto": "short",
+    "hDk2Dy97gnc": "short",
+    "8LzV9404tn8": "long",
+    "J2WhVZOMny0": "short",
+    "mEEFgXdI1M4": "short",
+    "6zwEEgjj3pQ": "short",
+    "OlsBk4rx580": "short",
+    "9-nr8E9rIyw": "short",
+    "XY5klRtYymY": "short",
+    "x2kKvDGLFBA": "short",
+    "ET3yF7RsFTA": "short",
+    "ijlBfriYyqg": "short",
+    "DhU-4uBfDwg": "short",
+    "jtdA_XTxDhc": "long",
+    "NBGlBAJq1HE": "short",
+    "1y4g7DGn9Hk": "short",
+    "LKoduZ4dpC4": "short",
+    "Ra7uTDBeBx4": "short",
+    "BK4OFUN9Wl0": "long",
+    "xKCz_0ebwrI": "short",
+    "nonZ_NTQF68": "short",
+    "gjlLGMfau_8": "short",
+    "yg6q91tKJGU": "short",
+    "ffSyceIu1OM": "short",
+    "t00way9J2Hw": "short",
+    "jZ6kPPP5_tE": "short",
+    "T58zXJ_EjTE": "short",
+    "EDT1rfJrw58": "short",
+    "LwKk4dkCFXM": "short",
+    "EeTDn8AKj7Q": "short",
+    "wNaqmSoXkm8": "short",
+    "OGFiA31E0Ws": "short",
+    "eC1KDgp4J0A": "short",
+    "g0RWjhoWIqU": "short",
+    "eyPq7ttF30k": "short",
+    "qHZ0kkS3rOY": "short",
+    "CXvdyGp0Jtw": "short",
+    "finXxZ57Fk4": "short",
+    "ZD47HAtYV6Q": "short",
+    "-dT7rx8ijBc": "short",
+    "2kJHwzSsNgc": "short",
+    "ad_2cIZO0jI": "short",
+    "onpFH_CRCjE": "short",
+    "Hu15IOyLzJQ": "short",
+    "S7jTAZtAnL0": "short",
+    "AY39jmUc4rc": "short",
+    "eFEYPr_n1So": "short",
+    "oqeernxDr8g": "short",
+    "anXbKZM9SPQ": "short",
+    "feozYdlU4gs": "short",
+    "3d_e5RgOw6U": "short",
+    "UMTb-wJI1D8": "short",
+    "cMBcBeTS4b8": "short",
+    "MZ5pruUjOZM": "short",
+    "ae0RDgTHFE0": "short",
+    "ARgxqGn7MZg": "short",
+    "sdzUjx1b3y0": "short",
+    "afcNSa2tDoU": "short",
+    "4Cpg6xRhUAI": "short",
+    "MsoPzPcXc4s": "short",
+    "VjYPjibMJRM": "short",
+    "aOiYnXnDuBU": "short",
+    "2wNj0lLPDmM": "short",
+    "yvF9enADm2w": "short",
+    "GvoV3r22ELs": "short",
+    "Egkw7uXuCuE": "short",
+    "WUzm2cyk_JU": "short",
+    "Thk2M4PjqRw": "short",
+    "AdnpgXaPvXo": "short",
+    "t13uExKN2Lc": "short",
+    "OYdaaxtTdQ0": "short",
+    "aySP-2Sda9U": "short",
+    "ICMjW-SfbeQ": "short",
+    "vXJPUgqAolo": "short",
+    "NPNN0BzkdLs": "short",
+    "AXRE5B6kS8s": "short",
+    "fBH6OQCJxO8": "short",
+    "3dzh_gc31rQ": "long",
+    "gtON0w7XMlY": "long",
+    "hKIYUoKI3XA": "short",
+    "oWVCDBKO4co": "short",
+    "LutDoa5NLD8": "short",
+    "_n3Mq_GazTo": "short",
+    "YfpQ_LrLang": "short",
+    "CoQaxoolORQ": "short",
+    "uzvViiv9gNk": "short",
+    "AC56kiPE6v0": "short",
+    "9d1c9Lxreek": "short",
+    "dTRtcbjlg4w": "short",
+    "G0CCgj-HaQI": "short",
+    "OgLocTkI-GY": "short",
+    "rpvTI80WPqQ": "short",
+    "xxnwGiLBbKo": "short",
+    "uj3Zn-_Cs2Y": "short",
+    "FCUjkMGuGqY": "short",
+    "ScflTX1CbjI": "short",
+    "Zq_kB0McOnw": "short",
+    "Ac1uFBw3MaI": "short",
+    "iT9KyFWlnnM": "short",
+    "5QM69Y0m-kQ": "short",
+    "VA805amzLIE": "short",
+    "0Jyggs6_VRs": "short",
+    "Kv8i2-1R_fI": "short",
+    "uPI9C973X8s": "short",
+    "eHPyr-MEVGM": "short",
+    "XQdw4pmn8Hw": "short",
+    "7vtM48pH77g": "short",
+    "Vu6OsubgVmE": "short",
+    "yVDxBAvFFVQ": "short",
+    "n1FBFmaBqes": "short",
+    "wpsBbbP3uC0": "short",
+    "AORbOVjlH7Y": "short",
+    "kbluQ2Xgrlc": "short",
+    "p1j9Z78Yku0": "short",
+    "eH3FFvCQxSg": "short",
+    "gon0LHFnVM0": "short",
+    "tHzB2LS8VKM": "short",
+    "sO9OpWqO6GE": "short",
+    "Hox2OL3Ysz0": "short",
+    "n_LW5U3sJpU": "short",
+    "NKteSmf3Yag": "short",
+    "gz8IEVx7bKQ": "short",
+    "cQGzEwka0rA": "short",
+    "mRG66goIo2A": "short",
+    "_ozZ-Pozm6Q": "short",
+    "C2YUuCfJMts": "short",
+    "pEDnXFj_5EU": "short",
+    "7ZCbgc9DIsM": "short",
+    "VCFU3xB_b6U": "short",
+    "wkqBOidQzIo": "short",
+    "4RbuoNF3tmw": "short",
+    "NgFF0zqqvdM": "short",
+    "C0VOGH4A7o8": "short",
+    "Nqi9cWWI_Bg": "short",
+    "TexDhK3v0hI": "short",
+    "4qHo3jP9iAA": "short",
+    "y-qVnC-l3JI": "short",
+    "SxopAUTjLlo": "short",
+    "x6_cXSH1U9c": "short",
+    "6QDEPG2zPGY": "short",
+    "Ryc4VxOfqFQ": "short",
+    "rLooPa17LIY": "short",
+    "OB43XRpQ_G8": "short",
+    "tP9ONTkdkkY": "short",
+    "CEFcq5SHzJo": "short",
+    "zI9c4s5vSbY": "short",
+    "zCU3mJCu-C4": "short",
+    "oBZJ6f409s8": "short",
+    "FuoSLUhN4os": "short",
+    "21K8B_GPH5Y": "short",
+    "bNZoWD9qBrM": "short",
+    "7yBDS6ya-u0": "short",
+    "YY3KdY6P5gg": "long",
+    "9BF5eaHtKRg": "long",
+    "U43VCIKrhgg": "long",
+    "6jeBFFvVeWk": "long",
+    "nu6-E8p-O5w": "long",
+    "7zC8PD-WO8A": "short",
+    "aHe0QXf5S5c": "long",
+    "XwPtBdt1eBQ": "short",
+    "WUjceJ209rA": "short",
+    "wBfb5A93dzM": "short",
+    "EvEqV3yyK-k": "short",
+    "Vnmp2FJpYv8": "short",
+    "nJIMF3O6htc": "short",
+    "AUDyDo3kLJU": "short",
+    "B_3rx94gTps": "short",
+    "hAqN6uqNkE8": "short",
+    "d4X4EycfYmA": "short",
+    "1FkNWcStpyY": "short",
+    "nCuAi3gdsMs": "short",
+    "Ce7pJol2ORc": "short",
+    "iKCOK-YDW_U": "short",
+    "Stm9mduFMfY": "short",
+    "eutPbXx5MP8": "short",
+    "2t_6MxJLUQ4": "short",
+    "PtsR9eO659c": "short",
+    "kMG3fyN75dA": "short",
+    "MEJLrdXjg34": "short",
+    "oHUxAw8Lq_Y": "short",
+    "4mKaZmTyU84": "short",
+    "4yCKVZjFCTY": "short",
+    "sWrJtpyyN-Q": "short",
+    "4qgpuXpON1E": "short",
+    "NbN20nxtqAU": "short",
+    "2oDRaudpKKM": "short",
+    "7bdnHGBeMgY": "short",
+    "W2mQd4mzLIo": "short",
+    "aNbNPJ8tm_U": "long",
+    "LsNE34gC-gw": "short",
+    "iOZpB-iz4ww": "short",
+    "X460-2VXt64": "short",
+    "BbXgHVkVMV8": "long",
+    "vjv0VoTXL94": "short",
+    "12fh7i03mxc": "short",
+    "PtelZ1MpBsE": "short",
+    "rDuBTVZ4c34": "short",
+    "38_BYhBOcMw": "short",
+    "KdXLX2i2Ces": "long",
+    "diz2y3_alYg": "short",
+    "l74lGHB-c3U": "short",
+    "nOmV_2M3FYw": "short",
+    "qWRUTBdlyfQ": "long",
+    "nJ7d4W_x4gY": "short",
+    "fLyEv_aytGA": "short",
+    "jy96HKt14V4": "short",
+    "aWEPmgNy6-c": "short",
+    "jfvB1F_soWI": "short",
+    "wqrfCY4H3yY": "short",
+    "Y1lrSYyV_y4": "short",
+    "eob_9rJYMno": "short",
+    "N9rIj9Pq6qE": "short",
+    "LPUj7NwA5-4": "short",
+    "FkwEAg50Kgc": "long",
+    "eDnAxptOsyI": "short",
+    "KPymT82IVz0": "short",
+    "49HcThKNjJQ": "short",
+    "XwnunKlZWZo": "short",
+    "_T2NPPpuaHI": "short",
+    "gq4MLxNxcww": "short",
+    "aAykffCbXcg": "short",
+    "ZmZ6X-4t9PQ": "short",
+    "rTC9ySo3YsM": "short",
+    "Qaz5t95s7sw": "short",
+    "BoBrej0HkLM": "short",
+    "6375pE-HRns": "short",
+    "tYx00z-2xPk": "short",
+    "nQQwDG4x_U0": "short",
+    "y7HkHLUz7g0": "short",
+    "QRZOGyhukvI": "short",
+    "jJEizWUyguY": "short",
+    "XDyDMy16k1k": "short",
+    "6H71DChSsJw": "short",
+    "Sa_1H4oud2Q": "short",
+    "Pj05_2xBTJ4": "short",
+    "JLq7_tfTdN0": "short",
+    "rPOmJmNZdG4": "short",
+    "U_DADMQuQrg": "short",
+    "M_IV6SsVilk": "short",
+    "neoAq60hgOk": "short",
+    "g9m5BfHFXv8": "short",
+    "l7yHhavVQ44": "short",
+    "bGWt4FgFl1k": "short",
+    "DERHIWo-LS0": "short",
+    "FPs3oIhb1zc": "short",
+    "aDNoSB5r68s": "short",
+    "B-yi2B6w4UY": "short",
+    "mMgbap129jA": "short",
+    "tNEkjLZiAQ4": "short",
+    "G6d4CFAypwI": "short",
+    "HQjltTRj9ck": "short",
+    "phpdkg0sW2w": "short",
+    "csmsRl8qjDo": "short",
+    "VhH67Fjf-Ps": "short",
+    "ZYW2JSyGoPc": "short",
+    "I8yu2ohLhUQ": "short",
+    "1FEceDXcegs": "short",
+    "wtwKA_99Jeg": "short",
+    "KLaUXCczuLg": "short",
+    "13tSYa-MMsE": "short",
+    "X9-oXGNkYXg": "short",
+    "uvaVFQ9ZAcM": "short",
+    "JMCoJSYZT2M": "short",
+    "4ZrFpU6_LMc": "short",
+    "BFQ8fJnu658": "short",
+    "sVGJOpNbP74": "short",
+    "IVfC4WGuVnM": "short",
+    "MJdqUIEWSfM": "short",
+    "Nb27btEaduQ": "short",
+    "xoNjHXa_yM0": "short",
+    "bR_HZz8jqbo": "short",
+    "yn-WzqOYvFQ": "short",
+    "MQwI3Z44_u8": "short",
+    "X4ceXPl4-HQ": "short",
+    "MzRvUogDNXg": "short",
+    "ZuKEQxJgLbc": "short",
+    "4bL6YxBvhcM": "short",
+    "2XErXnE_gc8": "short",
+    "lJLJ4BmBmA4": "short",
+    "j6togBvYC1Q": "short",
+    "9SUyyVdSDms": "short",
+    "6Z_OZcVoxXo": "short",
+    "3uL_QR_Bc54": "short",
+    "Z6hTmGYTNls": "short",
+    "A08nObiilgk": "short",
+    "CnYz2OZWQB0": "short",
+    "oUKWl_u3LBI": "short",
+    "1wL9Qwe_Q24": "short",
+    "YGvfm2wKQ_o": "short",
+    "6LS4rsLIYQM": "short",
+    "YHepEHB208w": "short",
+    "SlElucdmbuo": "short",
+    "qc40XgbvnOc": "short",
+    "CpNmWtus-Us": "short",
+    "l2xMQkcekTY": "short",
+    "U-Oqjl5I-ME": "short",
+    "QVCOCDY3sxA": "short",
+    "IDeMcmOsVJs": "short",
+    "iKXwUmEmYsY": "short",
+    "jtOljHRBk2c": "short",
+    "FZ3iFe8XGo8": "short",
+    "yBbIimDgasg": "short",
+    "9aPKcXuSdzg": "short",
+    "6SVHk5WN3fo": "short",
+    "vxQ68sPVxbA": "short",
+    "NKrYSUwRskk": "short",
+    "bpzffpU-TFI": "short",
+    "ERNgLlyYxS4": "short",
+    "N3Gi7Y6c_2Q": "short",
+    "imUxzjUFhps": "short",
+    "sBhNgvTvhlY": "short",
+    "J0fo5h_-1ek": "short",
+    "7SNFVI7NpOA": "short",
+    "XBllICURLs0": "short",
+    "GaM_CIekj20": "short",
+    "5pbPFNzujWQ": "short",
+    "9AhziSy7BiM": "short",
+    "jMHctd4Iipc": "short",
+    "XHNGR1CoDso": "short",
+    "SY-q3UXwqGE": "short",
+    "Ece-7r7MtyE": "short",
+    "qbs7DcSmqN4": "short",
+    "wkrLniN5O3Y": "short",
+    "qV7gd5UgO6g": "short",
+    "eMuh1b3j6uA": "short",
+    "NjEMTTYLNXU": "short",
+    "NrNnre7DIzU": "short",
+    "sF9Pc7HtgyU": "short",
+    "xzMxThvMTVU": "short",
+    "ynDPMp0Gh90": "short",
+    "G_1hl-o8jtk": "short",
+    "0QgLETH-has": "short",
+    "2gND2sKBV2g": "short",
+    "YlXKePG18Io": "short",
+    "Um2dhucou-4": "short",
+    "GfDWHz2ArAM": "short",
+    "TBsqQwB1iH0": "short",
+    "Is7oVfaNFS8": "short",
+    "-PNAdSCy0uI": "short",
+    "syBZPLD4MLM": "short",
+    "W4Kbmy29x2s": "short",
+    "398B9uQOo-w": "short",
+    "bQ4CcFa1vok": "short",
+    "qGBocU0HjNU": "short",
+    "wmVw2pkuXc4": "short",
+    "H1ziI5hfV4k": "short",
+    "25fncgKhIeY": "short",
+    "WGVUwpNmeLE": "short",
+    "i7gkIFY6sa0": "short",
+    "qRr8V735oe4": "short",
+    "M9qAfhKJoDw": "short",
+    "F25XrZ89boU": "short",
+    "dZjzj4ZwwME": "short",
+    "DghZfMwdPRM": "short",
+    "Yjzm-TcQ5b0": "short",
+    "J0OWgXyQ1Qg": "short",
+    "72AlwvDEjHs": "short",
+    "quR4D2lDrxg": "short",
+    "imSmp6KOFp0": "short",
+    "CzmNKHU-noY": "short",
+    "wyuaDOjr-F0": "short",
+    "eb6yPSQ8CdE": "short",
+    "AYhTAI41FRw": "short",
+    "JdD-iQ-iQoc": "short",
+    "L9N6n-3nbbE": "short",
+    "TH6rDBzuG9A": "short",
+    "0yR4TaopsUQ": "short",
+    "jS3L5LJMJpg": "short",
+    "h-7WeaeEvb0": "short",
+    "8yaznfAXzCg": "short",
+    "rby9j_YETYA": "short",
+    "r3IQyH8IViI": "short",
+    "ey9D_SS2CgE": "short",
+    "aVllZn560TM": "short",
+    "o-1-Gf5Dw_0": "short",
+    "WgJ9ZyGdc0c": "short",
+    "V8oj_pQYDoQ": "short",
+    "ciyyJA1wANQ": "short",
+    "zvG8WgT8PGM": "short",
+    "bKFEkE4e0eU": "short",
+    "dUkXEnulY5s": "short",
+    "4eEvuIQtrgA": "short",
+    "d6VB_dpQrbc": "short",
+    "SFaWcqIGEJg": "short",
+    "vuPASi2FnZQ": "short",
+    "WC2B0IX_9G0": "short",
+    "N3zmAb_sW9g": "short",
+    "wi1gUQ1W0iI": "short",
+    "EaJGnfUMZ3k": "short",
+    "p86zC8N_78A": "short",
+    "ThlTraPLQz4": "short",
+    "0_H4KrQWkoA": "short",
+    "C3ZQ13Ynuk0": "short",
+    "is_O7HOUeRE": "short",
+    "p7-xeWBYnmM": "short",
+    "UYG_7QZ8bVs": "short",
+    "J--zBmxw6gw": "short",
+    "29XIpu6sZu0": "short",
+    "OO2TVPTZHIM": "short",
+    "_XZopE5aR00": "short",
+    "sAV_4jO7ZC0": "short",
+    "7xgsy8AkBKw": "short",
+    "4RNIbY8s2Ns": "short",
+    "4V2_j77ygoc": "short",
+    "aG0lPeVrgIY": "short",
+    "OcJ_oUBa6h0": "short",
+    "f07Wg-Fwhpk": "short",
+    "O77xBNN-loY": "short",
+    "CDzdTDJEcUc": "short",
+    "6zZTibWB44k": "short",
+    "ExZEvcS7wMA": "short",
+    "kdWiFvz1sOs": "short",
+    "8AJ4BMgY1JU": "short",
+    "epNzpYUUeF8": "short",
+    "wrv7XTF5M_Q": "short",
+    "DhIJLNW6bm4": "short",
+    "T2e9kC8zCf8": "short",
+    "RSo-JiGy9zc": "short",
+    "uIztET5Wtbc": "short",
+    "ruigPIQHjd0": "short",
+    "ceIQ-tDpcvM": "short",
+    "Y481OQ3Jjtw": "short",
+    "dM50N6f0KuA": "short",
+    "Vgopm0k9KKk": "long",
+    "u_2R5tQaiak": "long",
+    "WI1xIsAkzog": "long",
+    "4UKOkv27tgQ": "short",
+    "Vr_jJS354u0": "long",
+    "jlf-5FTpx1o": "long",
+    "Adf6CoZWaeg": "long",
+    "zE8wnbvHqrI": "long",
+    "kzfz_PEebaE": "short",
+    "TMhogmAagpA": "long",
+    "WpG3SbYYH2w": "long",
+    "JUjca0Vu75U": "long",
+    "hzpRx9M2ZyA": "short",
+    "faeuGJ3CJQI": "short",
+    "Jaaq8zCSGeQ": "short",
+    "UJwUf14wi3c": "short",
+    "E_Aon15_28I": "short",
+    "huwoDwiQUTs": "short",
+    "zOTjD6d5nZ8": "short",
+    "7D7W2v4BDnE": "short",
+    "ODZl0YFupn0": "short",
+    "-L7mE00yJ9k": "short",
+    "oVhxG-TTtqU": "short",
+    "qTitPOM3hUs": "short",
+    "oXtZo6-InrY": "short",
+    "Rmhx69oZHEg": "short",
+    "hMjc0EtkStI": "short",
+    "a0xQxg8xAFI": "short",
+    "Ty0Cs25bLEI": "short",
+    "vK6r0GJVn0k": "short",
+    "yW4Tou7gpyE": "short",
+    "0GAAu0X_758": "short",
+    "nmjtPPxoLvI": "short",
+    "vJkf66ZDFs8": "short",
+    "EjeUuMpwFnw": "short",
+    "htLI0K7DvU0": "short",
+    "HKXw9Ltj6ZU": "short",
+    "9dJdg7WKO2w": "short",
+    "fTUTOwYmQ2g": "short",
+    "9eHjwYCRHGw": "short",
+    "oxhsYyajO-c": "short",
+    "6dEMvZqU_5M": "short",
+    "jy83w2tG45M": "short",
+    "6jHYNZHWUcI": "short",
+    "XZm7-UCHefU": "short",
+    "EanhpkegmVI": "short",
+    "G7F0qi1ea5c": "short",
+    "7cNuSsK1BHY": "short",
+    "VZY8Y-iYut8": "short",
+    "E7hv-rcgbdw": "short",
+    "5eWx91-t6as": "short",
+    "FkkqakcEYRE": "short",
+    "zSuRVT3LBvM": "short",
+    "-2ta2OirJtU": "short",
+    "6G-kGdHOBy8": "short",
+    "ZLPKRqjnbB0": "long",
+    "WpcypVpq67Q": "long",
+    "aIf2_IeAM00": "long",
+    "9zQuS8P6YNg": "long",
+    "c1GNxbipiXM": "short",
+    "PNBl_c-_Oyg": "long",
+    "cO3mkYpI-2A": "long",
+    "NPbsrwNvW5w": "long",
+    "a1K-AfftgIM": "long",
+    "7N1WgEn48gU": "long",
+    "3x3WCf3O14g": "short",
+    "vK6mKzjlDjU": "short",
+    "0HyrWlr3cls": "short",
+    "EFpviayPBY4": "short",
+    "eJZqQJIGUEY": "short",
+    "5UN08P09Nm8": "short",
+    "qfmGMMJs078": "short",
+    "V0UmuFhLMJk": "short",
+    "fPdluR4weps": "short",
+    "zZkRJ7UMRms": "short",
+    "BiPNnuDgS-w": "short",
+    "Wx0S_n9OVBc": "short",
+    "KLVuZFe6NMg": "short",
+    "OziJwSKpYT8": "short",
+    "cf3EQWTcEVA": "short",
+    "zFrKbHOGn1w": "short",
+    "Yv7JlglQ9P8": "short",
+    "J9WZfLpT1Dg": "short",
+    "Er1QNYWsCVk": "short",
+    "LSTPECJOaBg": "short",
+    "UcVLv3L-_3U": "short",
+    "K_aIG4LFqag": "short",
+    "dK5-HAyo36M": "short",
+    "XBgy3zF4_0s": "short",
+    "Gia7o95CiFU": "short",
+    "IHUJ9DU4pPw": "short",
+    "1vX7wmiH5aY": "short",
+    "KECh36i58PE": "short",
+    "jsUdq_EfCcA": "short",
+    "drKarMv4kwQ": "short",
+    "_OTJ23BdQQ0": "short",
+    "XhA_CW4owyE": "short",
+    "YLQb6jR8l44": "short",
+    "nyDqz4xz14w": "short",
+    "GEm4bCtqgKs": "short",
+    "h_yDDhT-5oQ": "short",
+    "y0JgOm1FDfg": "short",
+    "qC9MyG5OSjo": "short",
+    "T53N4Q-zXcQ": "short",
+    "LftWE_BSWgs": "short",
+    "MeZjNCHIDgM": "short",
+    "POv7Ak1QqyI": "short",
+    "w4OBm0UDCJQ": "short",
+    "_t6UynRg1vI": "short",
+    "bR-bD6JFulc": "short",
+    "PYuBzNBZKsQ": "short",
+    "SA5bEOdrKqs": "short",
+    "ONN4PijWFBc": "short",
+    "3PK1QVD3Z6Q": "short",
+    "fwdnwKSDuJY": "short",
+    "Z4hDnRcqFlw": "short",
+    "uCg032nVWOE": "short",
+    "uZdULZXbZMw": "short",
+    "Eb04fzV_-qk": "short",
+    "tgT5l5ztE60": "short",
+    "Q5hxKOlE_F4": "short",
+    "BEbDSzhlMFY": "long",
+    "GaZDM4hr5GQ": "short",
+    "WVJ1a_8uzBA": "long",
+    "MDKBOpqoOHo": "long",
+    "Xplu4V6fB4A": "short",
+    "bsUYQsv7AbM": "short",
+    "FwsPP_P6pNU": "long",
+    "v_My9qbquSc": "short",
+    "t-zpxVMmilQ": "short",
+    "iduKdBzdLRc": "short",
+    "OSI8_Gdk8PI": "long",
+    "LRTYAf78_ZI": "short",
+    "XEd8xSsrZ6g": "short",
+    "Q8-FA2PgR90": "short",
+    "yci_QEoo-Y0": "short",
+    "ldZ9mzCA9Zg": "short",
+    "4dETiElOthg": "short",
+    "LyXW5xaaTSg": "short",
+    "H6DdSqy6kVI": "short",
+    "6pjF7xrlF98": "short",
+    "4BNstVGTyhk": "short",
+    "QB826hxkNy4": "short",
+    "BRfW7LyW14M": "short",
+    "xnfTCcqzEkQ": "long",
+    "qAQ72uiPgaI": "short",
+    "ixKAtIp8NuA": "short",
+    "1_m4BOXPRJ0": "long",
+    "j8LIXoD26h0": "short",
+    "IrTYyKJnKQY": "long",
+    "8RQvf1dT7GM": "long",
+    "-QY0vRA31zA": "long",
+    "KqugQGlesX0": "short",
+    "3-KyNpoXy9Y": "short",
+    "U1jQTKIngfI": "short",
+    "pQWvdQWwBDM": "short",
+    "98-q72yirlM": "short",
+    "IOvd98gbvcw": "short",
+    "i-3kl3OjjE8": "short",
+    "MBVCy1NM5Yg": "short",
+    "jwJFOP9GATM": "short",
+    "Yjt8Y7_OpHo": "short",
+    "po7Ma_RACy8": "short",
+    "ozcvR6a-GSE": "short",
+    "mZNjjxsY3cQ": "short",
+    "v4gWKOeVFz0": "short",
+    "o8jn42-_NJg": "short",
+    "QRXK3QTMoYQ": "short",
+    "bPwoYmBAZ-Y": "short",
+    "X_Pa2Xl40ZE": "short",
+    "8fYmWO9ZuW0": "short",
+    "Um7mRc2teBU": "short",
+    "6NYldJsXPyM": "short",
+    "AH8FHiaSJHQ": "short",
+    "zJtAz3Mto9I": "short",
+    "DaxGTo-mn8E": "short",
+    "mH-sXFTZsDU": "short",
+    "JsDqQ84w3D8": "short",
+    "mKvvtjCrbQ0": "short",
+    "w22y9WaFyOs": "long",
+    "EnqAhrYxW0k": "short",
+    "O4h7D-ed1aQ": "short",
+    "R3Xr_cj7szQ": "short",
+    "SgufjqssDUY": "short",
+    "dmpzhSzAtrw": "short",
+    "DLGhUJlGRTM": "short",
+    "F8FtX9Pjoro": "short",
+    "RHQ2lDV0cTQ": "short",
+    "sne30-AWFvk": "short",
+    "NAcsktJKLEE": "short",
+    "Gtt5VnYDyqc": "short",
+    "7K0eIScqOTE": "short",
+    "LNuqRRxzjtY": "short",
+    "aPbEkNsOZqc": "short",
+    "3cNPsCNHbbI": "short",
+    "DElN7geDy-w": "short",
+    "qxUIgjso1yE": "short",
+    "IwJ8FxDPkbk": "short",
+    "ck8n8NU67oY": "short",
+    "pL7Z8ofxnlo": "short",
+    "naYJb9Bo0C0": "short",
+    "noAV-KdfME4": "short",
+    "kn4OJGU2ZLo": "short",
+    "ub6E77mr8QU": "short",
+    "2XFCUKUmqFM": "short",
+    "pN-7Tf3QZ-Q": "short",
+    "qdW1wEIWhkE": "short",
+    "lcfvj5QZK0M": "long",
+    "DJG2SvgFmBo": "short",
+    "938TX4yz-UI": "short",
+    "iLY5w2w4mbY": "short",
+    "-PKnas4Q3bE": "short",
+    "Gk2vK5tCuQs": "short",
+    "KStkUpcIma0": "short",
+    "sziF4jZ8woE": "short",
+    "u1f9MbKC7gQ": "short",
+    "7bwGFU9U5Cg": "short",
+    "ae3xwrDRc6w": "short",
+    "hxJ9zQbI2EU": "short",
+    "TBDv6EO3spU": "short",
+    "A5qLwMuF3aI": "short",
+    "Lk_ZW01DeLE": "short",
+    "K46QCS5UKQM": "short",
+    "dpk2F5THhIA": "short",
+    "eCMZ9qHLI6U": "short",
+    "zOWLOI1JdSs": "short",
+    "MRrJKizvVTk": "short",
+    "CgpbbClkrEs": "short",
+    "8JnaswZQJIQ": "short",
+    "NW19UyARp5M": "short",
+    "eXdIy8Hs144": "short",
+    "JblhyDoyJ8s": "short",
+    "Jc7NYP18eLA": "short",
+    "s7CvurzuFIQ": "short",
+    "AK94kq9rPjY": "short",
+    "Nnm3p9dWdO8": "short",
+    "Da-cox7R1MY": "short",
+    "NrSjaFAIVCg": "short",
+    "VKz3si6uTZc": "short",
+    "2vULvdeQ4Og": "short",
+    "vAnSishc7h4": "short",
+    "rdNgRIi-SaI": "short",
+    "tEXgJbTFoIw": "short",
+    "WkkLvDjNB5A": "short",
+    "daz1aLN_bVE": "short",
+    "SuN_EGw9caQ": "short",
+    "8FqVfWlHmdM": "short",
+    "3eyacStTe8c": "short",
+    "hnJJjHHFRgc": "long",
+    "7Eph2UIxK50": "long",
+    "IDKtLX12NpQ": "short",
+    "slZQOZ-OTb4": "long",
+    "IInjkKtxv_c": "long",
+    "S5HIpbOkS6M": "short",
+    "d-p054SkbCs": "short",
+    "r_Od1Su9Brc": "long",
+    "XW9N-UdKzXA": "short",
+    "fKEf69rrWOo": "short",
+    "XZBG4k0Tkas": "short",
+    "CwqEoP1XTnQ": "short",
+    "84N1JkvQIVw": "short",
+    "H4RBuQNR6uY": "short",
+    "rbSK8S53bps": "long",
+    "YFbasgcm5Ps": "short",
+    "EbXq2U0wVjQ": "short",
+    "R-cUDtux7MY": "long",
+    "yFcqZGkva6M": "short",
+    "Q_lCIE1hFio": "short",
+    "ktSunp4Vee4": "short",
+    "gKOwSTKCuJI": "short",
+    "wgnSU-oZ2Xg": "short",
+    "Ix7YE2_N2J0": "short",
+    "EEN7bs4BKVg": "short",
+    "nQQ5ZJt3wUw": "short",
+    "DAqVmfWijPo": "short",
+    "ioK5hJAT0hE": "short",
+    "x6DQ1CfpRxg": "short",
+    "MssqUTnwvcA": "short",
+    "6mwU1DUHTFw": "short",
+    "D7buSU8uurk": "short",
+    "_TrGCGMcysE": "short",
+    "5p-eegr4QJE": "short",
+    "InA113KTvjI": "short",
+    "MtRwloa-L4A": "short",
+    "OLUQXiLyRvA": "short",
+    "qhY5xbajjPc": "short",
+    "uXI6Txhb44I": "short",
+    "rQlp9kvEIyk": "short",
+    "1ryjQ-lsqMw": "short",
+    "CCteGXMICCE": "short",
+    "eW9zrPQAnRQ": "short",
+    "HqzCqquXXgE": "short",
+    "YNF_h20NCQM": "short",
+    "I5sQ0RGmKwM": "short",
+    "ICUvyaoq_hw": "short",
+    "LFKGM5j3pdM": "short",
+    "h8ztWsL7ao0": "short",
+    "S3Em-7nvrz8": "short",
+    "TIeoTw0c5dQ": "short",
+    "-tg6dKiPueo": "short",
+    "t-vJqMOYA5M": "short",
+    "aryhXMnnPhs": "short",
+    "uVlBiL2fQ7U": "short",
+    "6oC3MmdtR-c": "short",
+    "-vd_RcM1MnM": "short",
+    "dtx0tIPj7d4": "short",
+    "GiSfbAvE7IA": "short",
+    "caOMNf-WqqA": "short",
+    "cjaEsVDxOt8": "short",
+    "7-3zXJVFkDA": "short",
+    "8yxzP-ku7qA": "short",
+    "ZPdmSkjT8O8": "short",
+    "eMX-fa_wwdw": "short",
+    "gK2Fto-MU4s": "short",
+    "iWCVhiSTbao": "short",
+    "OFNSy0teuO4": "short",
+    "m7_knX0cATo": "short",
+    "5MUTDRICeSo": "short",
+    "j6LWKOmRDjo": "short",
+    "n35xGf064aM": "short",
+    "aLhXx0OsWZs": "short",
+    "Ga7LRmAvj7A": "short",
+    "iMGV9ISUyP4": "short",
+    "J30kT42G9sE": "short",
+    "PQTe1V9hYsc": "long",
+    "MrS9WeXtGjg": "short",
+    "D78qk_T44ZA": "short",
+    "oRW9RGKr0Is": "short",
+    "cZ9Kicke3OI": "short",
+    "A00N92nU9xg": "short",
+    "53nGo99WQoI": "short",
+    "RMoG_dl_EMA": "short",
+    "uT4mVwTEq44": "short",
+    "Zy1OmvIHras": "short",
+    "sK7tswsEQL0": "short",
+    "qmZXhf7W93o": "short",
+    "xhWHZvtloww": "short",
+    "V7bGrM0Tkwc": "short",
+    "gwbNxVZIVBU": "short",
+    "l1b8WOHatJQ": "short",
+    "0-UWGaBp2O8": "short",
+    "b4wo2n0JbK0": "short",
+    "EJLh-T65uCg": "short",
+    "nxEZ-CHSTYU": "short",
+    "euemwaCwupo": "short",
+    "6btEtfI1YYg": "short",
+    "--rae48RWRc": "short",
+    "RVAtN503O1s": "short",
+    "bg0l01r_FDA": "short",
+    "Lrrw6DbHugo": "short",
+    "U7P6cTBbnU8": "short",
+    "gXHehKdAHp0": "short",
+    "lUtjnQSS-C8": "short",
+    "YdrKV0KEYjI": "short",
+    "PlR0yu-g2ko": "short",
+    "8fshX-1-bXU": "short",
+    "dTAO3N78HP8": "short",
+    "_xmTQnTrHzI": "short",
+    "qA3ggArxB2c": "short",
+    "D6Hha-jja2E": "short",
+    "FoRHaYrU2D8": "short",
+    "W2nOPZLoNBQ": "short",
+    "jzyv_a1NCkQ": "short",
+    "bMIV9yws_xY": "short",
+    "I6r1BOVa2qk": "short",
+    "YVeOHh_3hFA": "short",
+    "nsep5EwRLnU": "short",
+    "Bw9ZlBaGeWI": "short",
+    "feif_jwr_eo": "short",
+    "8zOGwmkGG2M": "short",
+    "SZF6TMymn9E": "short",
+    "__A5vUIUGDg": "short",
+    "X098Bkd0d-o": "short",
+    "lFQ-zs5-Nc8": "short",
+    "klrkd3F_Qek": "short",
+    "GrxLZcHMeSo": "short",
+    "N6NUSJkvvYE": "short",
+    "KXVrGZYnNI8": "short",
+    "GEuEO6CZpm4": "short",
+    "JrIXEYedzaE": "short",
+    "-5HLHh6efLo": "short",
+    "vzbJjpy9arQ": "short",
+    "VTR9tIMH-bc": "short",
+    "Pb6b3I1p7NE": "short",
+    "d250CulPXxU": "short",
+    "o4Y1i3iYsVU": "short",
+    "-YW-wz67btA": "short",
+    "AOb3O49jePU": "short",
+    "M2YzkfHJ8jw": "short",
+    "moEl-w_aPMY": "short",
+    "i0GobgdLgn0": "short",
+    "XIPafX8Wa2I": "short",
+    "rP9nrZ_Bihw": "short",
+    "t3xppiF5ZPg": "short",
+    "m_1cKkmx-7Q": "short",
+    "EFNM5s4r7ag": "short",
+    "gDfUAUnXeO8": "short",
+    "FWIVflWqGS0": "short",
+    "tvaMb2f2iHM": "short",
+    "wB9Pe0aYreI": "short",
+    "buCxLXpHt0k": "short",
+    "U9XgDGKWIrU": "short",
+    "IStsR9L-LlU": "short",
+    "ltnqvsG0b8g": "short",
+    "khmJMMberko": "short",
+    "NxCs_mLjO9U": "short",
+    "WlY5Y2jGuoc": "short",
+    "EGMfGlVvpQk": "short",
+    "_DtdoOm8e7g": "short",
+    "QSpxEi_m0Ok": "short",
+    "tB-5T7swMTg": "short",
+    "oxhwqjMJW48": "short",
+    "FbPSIeUkn_E": "short",
+    "IafVORmn6sA": "short",
+    "md9Q3oXYhZ8": "short",
+    "8x_qX8z8tQA": "short",
+    "Ji7a_rKW4D8": "short",
+    "lAP0UBML21A": "short",
+    "FcFEha3zI5A": "short",
+    "A9l3kr8BWLQ": "short",
+    "cGw7M6UreTo": "short",
+    "0UVQ9lOTWY0": "short",
+    "xZjVjop1AfM": "short",
+    "uUoIcNfd0xA": "short",
+    "xFgVxMs-yUs": "short",
+    "UKo1RwwV7F4": "short",
+    "iQsHQEPkxgA": "short",
+    "kU1mONjSn4I": "short",
+    "s36JvekU060": "short",
+    "onirBL6qcKY": "short",
+    "liEOkSIPZvY": "short",
+    "kh-P9NlApCk": "short",
+    "-o_SeLYEVzI": "short",
+    "fmC4i6y3UYc": "short",
+    "7Pp6nfO9g4E": "short",
+    "Ht0TAqWbC38": "short",
+    "TAI4Qdz2dtw": "short",
+    "dOn3cPbVyC8": "short",
+    "SYs1dtyDtLQ": "short",
+    "Zuk6C-nihnU": "short",
+    "mBDOlxvCUtk": "short",
+    "rB546WNpAw0": "short",
+    "q9StHpQAZ0k": "short",
+    "CpKn-XFA-40": "short",
+    "eVd71NVKaHg": "short",
+    "2Bp-dWkCLk0": "short",
+    "ThZiPDw-47A": "short",
+    "GWA9BhTerKU": "short",
+    "mzo8WQRJpWo": "short",
+    "Rn8_y8Ro7sU": "short",
+    "7oac9vwLvPQ": "short",
+    "3NECQ24ho_E": "short",
+    "pQJpjk9Nn0w": "short",
+    "qsdW8KacF-U": "short",
+    "WyWm3hW4MXw": "short",
+    "AuQv5F2WIHQ": "short",
+    "40dEoaTaz1k": "short",
+    "y-o9_Z0vvIs": "short",
+    "_Uyo3sXBKXc": "short",
+    "G1MlyNkuPJM": "short",
+    "admzOx0-ljQ": "short",
+    "BDZ8kHBnJII": "short",
+    "tCXkVDBv5NQ": "short",
+    "bwYVu5j5HEk": "short",
+    "T_yfnttOMN8": "short",
+    "ML4Uj7Ex_FE": "short",
+    "FH19oMtDkis": "short",
+    "X9r0ZBw4wvs": "short",
+    "351rHQ_yDTA": "short",
+    "nM6_oBPhftM": "short",
+    "6zoSkOuqor8": "short",
+    "9FnTj2WoA0I": "short",
+    "ePnAI1L_NYc": "short",
+    "NpkD4Aiqp1Q": "short",
+    "DSvxi0Adsno": "short",
+    "3xGsz2F6swQ": "short",
+    "xd5u_gRBy9E": "short",
+    "KiD8sX3LySs": "short",
+    "ezBxq0EUcp4": "short",
+    "0Yvh-khVIy4": "short",
+    "bSZZSbptDOE": "short",
+    "qff8byRstLg": "short",
+    "VKsLk5j0ke4": "short",
+    "6f4wgscvYMg": "short",
+    "S6wwvFJc2g0": "short",
+    "MKv4PZ9_7sY": "short",
+    "lk8EnYAlhR0": "short",
+    "UJEwiQ1G-1o": "short",
+    "WtrHXG9dDsU": "short",
+    "YqTwJbkjTmk": "short",
+    "WLgOrT12PzM": "short",
+    "0GUDfMcQxzY": "short",
+    "AwMmZkr4mZ8": "short",
+    "YvAj1LG2eQk": "short",
+    "ORPeiEgzMpk": "short",
+    "DZcQW2Pbsp4": "short",
+    "8ZyTYKT5SFk": "short",
+    "JwWXVdQQNsc": "short",
+    "cted8qwFJaY": "short",
+    "weCYzg99Dcc": "short",
+    "5IdUqlzUQaE": "short",
+    "5ZB7qqDZJI4": "short",
+    "fkCdX2iK93U": "short",
+    "eo5HbxfylXI": "short",
+    "D9yiZX7VEmk": "short",
+    "Q35qfKmdQFw": "short",
+    "b18tVvH6Ke0": "short",
+    "MKrLYLh4Otg": "short",
+    "Ysso9s2UsRk": "short",
+    "toVbKyEowU8": "short",
+    "-zL-hXIYRFQ": "short",
+    "SN1pPQg-5PU": "short",
+    "QPf6N61kGIU": "short",
+    "5bFS4wIl4W0": "short",
+    "6cukj26JBsg": "short",
+    "vX7FK2h56J4": "short",
+    "5HPfF6mCq2I": "short",
+    "g_hADQCgv2g": "short",
+    "G0gZHkT-DCg": "short",
+    "mzwYz2Zd7RA": "short",
+    "5_Irs2I41GA": "long",
+    "EQBLRjWmNBk": "short",
+    "GBdFXu2FAwY": "short",
+    "RePzZ_ZNIBM": "short",
+    "gtTd9XskTTs": "short",
+    "BZ7Dfr9iEWQ": "short",
+    "x7-3WohLhW8": "short",
+    "RGoTiEpB-JI": "short",
+    "NdcrG9NOo9c": "short",
+    "07UEbniWRN0": "short",
+    "9bQqthFRPe4": "short",
+    "SQ6tdDEfK98": "short",
+    "5lUg0Hx5d1c": "short",
+    "3JuaNeHhz9E": "short",
+    "lGQ7YEDtuOs": "short",
+    "m_va8RQL6As": "short",
+    "7U_HGWQ57Eo": "short",
+    "sdnpc9QGOws": "short",
+    "kspo3SB6E6Q": "short",
+    "gSotZbZdCTM": "short",
+    "SNHnrZzVXKE": "short",
+    "5uXkCsr106Y": "short",
+    "5q9PLAOqOT4": "short",
+    "7crQoUKBWgE": "short",
+    "hQhGkDrCUWs": "short",
+    "G_4d3WylO2k": "short",
+    "Z0NCbUEDyQU": "short",
+    "09t16pup9P4": "short",
+    "WHjMcT3Brjo": "short",
+    "nFXhAqJnOmg": "short",
+    "S9JC3pzZfwA": "short",
+    "SNTZgpEhBzA": "short",
+    "aJLas1j6HWY": "short",
+    "Oce1QCyO8qI": "short",
+    "y8fcT97FSFE": "short",
+    "ZhjuP_-m1zQ": "short",
+    "zXuGsTUl5FM": "short",
+    "63_q7_KjTP8": "short",
+    "uoZIEuvaBg4": "short",
+    "LhLbWZIL-2c": "short",
+    "dglcfJkb3bo": "short",
+    "2kXjI9nsSsI": "short",
+    "KSRiO_MjPnM": "short",
+    "f5NTXhJ90u0": "short",
+    "pm0LHz8kMgM": "short",
+    "Ha3CjoMr4eA": "short",
+    "I36mlCjJksA": "short",
+    "H98apzTjz9U": "short",
+    "5moOnXuR6Vg": "short",
+    "x1z8S77uERU": "short",
+    "tSqsZmMtADI": "short",
+    "xhxlBs-MQp8": "short",
+    "0phrAAtpfiY": "short",
+    "djxsLm03f0I": "short",
+    "_qFYWolvcKU": "short",
+    "EuJlYG29lAw": "short",
+    "XVRXeYadcpM": "short",
+    "p1WIvQR6ajo": "short",
+    "vKbU8aaA6Os": "short",
+    "dzU2rgF9iew": "short",
+    "f6BcQwgQlzg": "short",
+    "gjs6ioGzB5Q": "short",
+    "O5gauvKePM0": "short",
+    "VMSrr20M194": "short",
+    "RFncuRkV3rQ": "short",
+    "em40pDZx9Ug": "short",
+    "_xOgc4q440g": "short",
+    "Fz093hCWZnc": "short",
+    "Mm28bxikxIE": "short",
+    "l_IbJGjt1C4": "short",
+    "Xg7z5ZpjfUY": "short",
+    "xWKFKhSr3og": "short",
+    "8Jo_JJImFFc": "short",
+    "Hchl18nRyoo": "short",
+    "pIEN-JTb2FI": "short",
+    "I--dPvJzQSQ": "short",
+    "BItjPv0-SyU": "short",
+    "pXncUUxmqL8": "short",
+    "MUboyAr3OtU": "short",
+    "iIIzWuab7SE": "short",
+    "FuwgM7n1LRw": "short",
+    "WFwU-s2EXxQ": "short",
+    "9I7XT7a8RVA": "short",
+    "HuWPJLVk7D4": "short",
+    "xEvRIvNP1yY": "short",
+    "E6WJie8Ra7E": "short",
+    "5NpecO2LKhk": "short",
+    "SQu4975_cgw": "short",
+    "CAGQjsfLAAw": "short",
+    "lEnlpXglIDs": "short",
+    "v9bKP-5wx58": "short",
+    "1pokdl16ztU": "short",
+    "9bqgWoWcK8Q": "short",
+    "6s-Tw6fC_Jo": "short",
+    "uh7UX-Tw61Q": "short",
+    "nqy1cKfjAkk": "short",
+    "Dj5685Hm840": "short",
+    "UAwuVrrd4Xo": "short",
+    "kWiL-rGekoc": "short",
+    "jJhfBevWZdE": "short",
+    "08RrfcoLKsg": "short",
+    "ZcAgCL79D9c": "short",
+    "6TZn1dSR3dg": "short",
+    "JLEZSpDj4rA": "short",
+    "iPZlaTa4UWo": "short",
+    "o9zVslma8zg": "short",
+    "6e7ly85bZB8": "short",
+    "7cJc-WLXV2w": "short",
+    "fFYIn6rG3GM": "short",
+    "G3Blhpev-Q0": "short",
+    "ECS0rouFyqg": "short",
+    "vFXWLI5Ks7g": "short",
+    "fHxNbhwN41M": "short",
+    "xP8GNKtML0s": "short",
+    "cTHeTWQJ0tg": "short",
+    "LWmKMXykHaU": "short",
+    "qPmmsXbuIxA": "short",
+    "JCXlhlXmKwI": "short",
+    "u2fX1lNsPq8": "short",
+    "sBF7NexsLyA": "short",
+    "2TmLKktyxU8": "short",
+    "nZ1dLKAzf-Y": "short",
+    "N9oYJrz95-k": "short",
+    "yDKMTlD17bE": "short",
+    "SQw1K5s_KmM": "short",
+    "vh8C0TnoQu0": "short",
+    "x6vJWlthDhE": "short",
+    "xo2CipMU_yU": "short",
+    "kchEeEHPKWc": "short",
+    "xaqrlPjjir0": "short",
+    "EEg-9Ic4-AE": "short",
+    "AWUBofQ2EDk": "short",
+    "H6x2sooRVOQ": "short",
+    "VXuN2iMwzqI": "short",
+    "sEYbctQiycI": "short",
+    "oBINTHha8Wc": "short",
+    "p1ak5NfWuEA": "short",
+    "jxHIw_OA8_I": "short",
+    "gbI7THwqEjk": "short",
+    "6PZCZWvNVHc": "short",
+    "KS-p0e-KwBA": "short",
+    "kCxlQcKsoZg": "short",
+    "Nfe5OCLeD38": "short",
+    "sfwax2dVPvI": "short",
+    "9S7YITFzAj8": "short",
+    "0tYYPLTMHrs": "short",
+    "wHmizRfA8mk": "short",
+    "teKMHrUrwRw": "short",
+    "cGKLx5FPaUE": "short",
+    "ak4yNog8h8M": "short",
+    "yYU-yBfYDsA": "short",
+    "bTp-hP6-IcE": "short",
+    "mriYTtZHhZY": "short",
+    "vWIl_aShZjg": "short",
+    "hWecR1C4m3A": "short",
+    "Z3TR8tkp3Ho": "short",
+    "FgLccIH_bA8": "short",
+    "OGPB2GKz48s": "short",
+    "ukI0GhiAZaU": "short",
+    "vq6NG_n6mQQ": "short",
+    "GajZ57nS8oA": "short",
+    "_uqsr9M2TWM": "short",
+    "49OCCSZBsU8": "short",
+    "Ta_P6JJhReI": "short",
+    "2Ppg6Rf4mVU": "short",
+    "2sCMxlxeDoE": "short",
+    "nR-F_8io3VY": "short",
+    "82UXv1UmCvk": "short",
+    "W82M69APXYU": "short",
+    "KthBRYU7lrs": "short",
+    "OxYq0cT58Ok": "short",
+    "Kf8UAQ2qhhg": "short",
+    "NCStE6ozJUI": "short",
+    "yf78WakWXbg": "short",
+    "wyl1upiQFgc": "short",
+    "pE8BOwdB8Vc": "short",
+    "zU2ZXkJ2q7o": "short",
+    "Zj3Fie3IrY8": "short",
+    "VBitf36FLfY": "short",
+    "-KVV4IHLUuU": "short",
+    "u_76On68VOg": "short",
+    "XCL1g3osxLY": "short",
+    "cXyUgaa-AvU": "short",
+    "HKq1AvbIVGI": "short",
+    "JClIkxGXzCE": "short",
+    "xRpCmjXhpM0": "short",
+    "W5KLZbKmRLQ": "short",
+    "vUCeJV2zoWE": "short",
+    "ZgR5CP6qGY4": "short",
+    "4mHDHRAWnJw": "short",
+    "WNsTcDQOMsI": "short",
+    "Kah27SagZU0": "short",
+    "9jTnUeWhoq4": "short",
+    "m2nvmNPNjhc": "short",
+    "puqQru3dJwY": "short",
+    "usV-MOzpOJQ": "short",
+    "kgT4Me540sw": "short",
+    "L_1f56tCGbM": "short",
+    "3B1TdON4FCE": "short",
+    "sn0IoBJgxGE": "short",
+    "JtgyvsCRUwE": "short",
+    "3XxS7s-TJfo": "short",
+    "dQKY8pf9vaw": "short",
+    "HCE10BoHbEM": "short",
+    "HAg3YwHnNdE": "short",
+    "TpBLwADAtU0": "short",
+    "aUKwlDA15AE": "short",
+    "ztEIGXkrlaM": "short",
+    "gF_h1Z3_PeQ": "short",
+    "OcQ8d3jvais": "short",
+    "d0Y__9I1Xtg": "short",
+    "scrnNolfxtc": "short",
+    "Ks8g4j6-Xec": "short",
+    "oXt2zn5L3KM": "short",
+    "NEIVHMNJD-w": "short",
+    "A5ylCGjYcm0": "short",
+    "EddXpZslXW4": "short",
+    "TfILkcyUq6g": "short",
+    "AdyLyY1bmaw": "short",
+    "GMkSh0vSWOU": "short",
+    "L81khcaGNN4": "short",
+    "-OKO0S3WSBU": "short",
+    "pEPsHQKYDTg": "short",
+    "CgdvgsRj_uk": "short",
+    "aFIqFjXOTEY": "short",
+    "I6l_MQwXmtU": "short",
+    "RpBl1TvqbDA": "short",
+    "q9GNhl3kv50": "short",
+    "LtOosX8MyBU": "short",
+    "VwXfCHJZTZ8": "short",
+    "0hSGveER4NM": "short",
+    "uXwUxWnH5oQ": "short",
+    "dJ9EpaWt6Lc": "short",
+    "NHJSrjqyCvU": "short",
+    "yVOvUC1gvOE": "short",
+    "YxrUIb66g6A": "short",
+    "qPyTP6g99-E": "short",
+    "wWd4FtyfjWM": "short",
+    "qv97vQDNqvM": "short",
+    "vj6KCS9ytU0": "short",
+    "NCNOiferVso": "short",
+    "JnR6UxW-udc": "short",
+    "xC4cn0qa6U8": "short",
+    "mEMuepph6qk": "short",
+    "AlapvFEjI1c": "short",
+    "-6LQGnAekMI": "short",
+    "g_Q2krhJGto": "short",
+    "ncVx2YXyREY": "short",
+    "bRVg8l5P7zU": "short",
+    "1p0qeBpxtuw": "short",
+    "PEvKi6n7QVk": "short",
+    "olEzOWD0Mxo": "short",
+    "HDYu8mvmG6U": "short",
+    "q88w0g0Cjlg": "short",
+    "DaE7QinPnc0": "short",
+    "9FV_J2fJ8oo": "short",
+    "_kYQBRM7AxY": "short",
+    "5YRNBew7ris": "short",
+    "S_BdB9L7xPk": "short",
+    "4lDRYC5ynXI": "short",
+    "99pIVeC2eds": "short",
+    "BZ8R9eJKrqw": "short",
+    "svZWnyA_rYc": "short",
+    "4REGIFWaDMI": "short",
+    "7zKf5wEN9UM": "short",
+    "fragC0Pw4Do": "short",
+    "jwkXOc3GqwE": "short",
+    "ASgfLPMCINo": "short",
+    "htesCCGvpFY": "short",
+    "zaXbpRZz2Qk": "short",
+    "K-e3S31Ta68": "short",
+    "MOluhonulvM": "short",
+    "EQ8CM30OTaU": "short",
+    "-l1GNPq9ovE": "short",
+    "jS3G4-0cOyY": "short",
+    "Ho08V0HTQ6A": "short",
+    "FHQ8Bf0eG0I": "short",
+    "qqy838ZyjhA": "short",
+    "N9SBLLx5Mi0": "short",
+    "96Rguv9AEoY": "short",
+    "P4qFYG5s9xg": "short",
+    "LWXvy9FYSb8": "short",
+    "1_wyzd8xxQk": "short",
+    "KRyLahhhe4I": "short",
+    "rabIlT85aUU": "short",
+    "d5kKSKzWBZI": "short",
+    "AMVDHzHCBfk": "short",
+    "9BT4eMju4rY": "short",
+    "jJhdanVWtJ8": "short",
+    "5VWtkmRM6eo": "short",
+    "ilYnrY8NGx4": "short",
+    "u0BZFWVdWQ8": "short",
+    "uWcQ2WjO5r4": "short",
+    "jWWSAetwJho": "short",
+    "ohlZZzXszto": "short",
+    "UwXEIDq6XA0": "short",
+    "RaGn-CAHCPo": "short",
+    "YWsq436oTZk": "short",
+    "ODGv5_cPz-E": "short",
+    "NBk__NlwWlY": "short",
+    "lxgrI2j5DpI": "short",
+    "5Ra1VOjWY1w": "short",
+    "Kdb3ibNL8XM": "short",
+    "eshTJ7fUXxs": "short",
+    "N_8LBBJIrcA": "short",
+    "0spN6MW0lRI": "short",
+    "JAap3XpgJ8E": "short",
+    "XHdvHIv0dzw": "short",
+    "HiJgXpLew_s": "short",
+    "8SV_Dj9Kebo": "long",
+    "sOAuobEquTU": "short",
+    "izHd3WX3amA": "short",
+    "z39LenapY-g": "short",
+    "frXyEsq-qao": "short",
+    "A9cPcmc70Xg": "short",
+    "XMhU-9e9ylY": "short",
+    "2Ly7Q6H4bWg": "short",
+    "2kzuCJ5KLn4": "short",
+    "3HQNVSbcllI": "short",
+    "6FB08U6IsPs": "short",
+    "lOuxTMis_QY": "short",
+    "AUmGUlIIr80": "short",
+    "NBXoGt7ZhhE": "short",
+    "hCJY60txgls": "short",
+    "u4c7upK3SDQ": "short",
+    "wwyU3tu-HYI": "long",
+    "fM7VpXfBmto": "short",
+    "ROHNQIwHcFU": "long",
+    "CR1-JvrDPa8": "long",
+    "04ro9Dn4gkQ": "long",
+    "smWBlVknYls": "short",
+    "fz0R2O4RZOE": "short",
+    "-TeZOIVkfd8": "short",
+    "yMoKhcu5x3Y": "short",
+    "0w5kIpCcBSk": "short",
+    "8lyk-0ym7sI": "short",
+    "4QStXEtLQzg": "short",
+    "XOUPicAYwPg": "short",
+    "lvBokSbNG50": "short",
+    "5L8JH9Xk5V8": "short",
+    "rA1IcD6HFY4": "short",
+    "x9puNMW7kpQ": "short",
+    "ul21k3Lbbpc": "short",
+    "BiKN7IYd5ks": "short",
+    "iDH940uenN4": "short",
+    "o6dKBb8dNxA": "short",
+    "WIEZldl_Cg0": "short",
+    "KsmGN11m9pg": "short",
+    "ZPYD4h2uH0U": "short",
+    "lqeY0cVQPzw": "short",
+    "t2vORdYV2Ek": "short",
+    "3_mpXkA0BeE": "short",
+    "CGyyzroW7TA": "short",
+    "5J2f4_1YHDk": "short",
+    "QI6M_mEYIbY": "short",
+    "683-sh6jLTA": "short",
+    "kdq_0-5V8Ng": "short",
+    "33Gx4ETN4nc": "short",
+    "dEZM90sEtSQ": "short",
+    "9cCViiPTgrA": "short",
+    "2KU7sStWLD4": "long",
+    "GGTmnjOfnv4": "short",
+    "c9Ki58DVYLM": "short",
+    "XgIJZXqhIdU": "short",
+    "8UslqdzQs9s": "short",
+    "q3ezHEdbhjs": "short",
+    "eenj2HF6J8w": "short",
+    "D0oLYcokfn4": "short",
+    "mBhk-p5kKII": "short",
+    "wMej-JnQn90": "short",
+    "s-322O8VHAs": "short",
+    "TjnT-PSk2MQ": "short",
+    "_E0WCwk_Giw": "short",
+    "K8DlIfzN6aM": "short",
+    "k7gnrGxzXKw": "short",
+    "oof1x8HAfPI": "short",
+    "adt6nK2abCk": "short",
+    "XaHew5vvSyk": "short",
+    "DzZWUZRRypI": "short",
+    "Q0ZYU_ipvlQ": "short",
+    "96j_qtjRc0E": "short",
+    "K0Bw5ZKDFEQ": "short",
+    "4T3Fy-IlY2o": "short",
+    "zOdQxXZcmi4": "short",
+    "yUWQti66CDc": "short",
+    "NW2CHtoQ5tc": "short",
+    "ImT902GtpUY": "short",
+    "hl2QYat81A4": "short",
+    "Pf8lwhokfp0": "short",
+    "4F7mH7WB9_8": "short",
+    "SZG_7dSYnoY": "short",
+    "2V0GoU9e3fo": "short",
+    "P_I98bc9uHg": "short",
+    "-wxmK-0GrRU": "short",
+    "JMrZEdQrHP8": "short",
+    "qVEuTps-wyw": "short",
+    "6w9PtRnSP50": "short",
+    "3VTn_1SNktA": "short",
+    "BMsezHlEVW4": "short",
+    "zl2APMcV-mk": "short",
+    "WLJC4s8Nh1M": "short",
+    "isalixh-V0c": "short",
+    "KgYS_jaHdYo": "short",
+    "RsidPYy61Fg": "short",
+    "eMFpzUYNv3o": "short",
+    "xr024WjmJUY": "short",
+    "KZRUdQYU4dI": "short",
+    "2gVfS19Hudk": "short",
+    "qXlgk8VExhI": "short",
+    "Ar8yKK2liUw": "short",
+    "pur1QwIA0qg": "short",
+    "6RDL094JKGo": "short",
+    "IG7WdwAJpro": "short",
+    "0IPuk63FwU0": "short",
+    "cMPisrqH1eQ": "short",
+    "_76y5N_5KsU": "short",
+    "FwWuO8ZUzV8": "short",
+    "hc34VXRoX7s": "short",
+    "ddRTZOai7NU": "short",
+    "3iylmS2k3Is": "short",
+    "_qfxa2tCAeI": "short",
+    "lJXEzzYaktY": "short",
+    "16lpGeMZlzY": "short",
+    "9qvqlSxgzgk": "short",
+    "EN9IcNncjxE": "short",
+    "UD_F6EJ86PY": "short",
+    "P-zrKj-odIE": "short",
+    "bH9jjQL9DB0": "short",
+    "eJqHvjD4060": "short",
+    "8btq3VLIJlU": "long",
+    "XdYtZYLkmME": "short",
+    "6NEYN04JFXQ": "long",
+    "3OVYJxei5mo": "short",
+    "Ja_ew-tenfg": "short",
+    "WJMW6-CpQHY": "short",
+    "9mbJteV8HYw": "short",
+    "iJUJMEALkFA": "short",
+    "JsMAqNn5JvU": "short",
+    "9Qkppo2eRDc": "short",
+    "VdE4slQjahM": "short",
+    "RgPEYOgAmYM": "short",
+    "s96XsHhBwZM": "short",
+    "qUktDukM9a8": "short",
+    "btqsmkjy7tE": "short",
+    "S1wPI1rku0c": "short",
+    "g0vd62dtT6Y": "short",
+    "QDkDheFKHhk": "short",
+    "7SReiNz8RL0": "short",
+    "JvauZ-RmB3E": "short",
+    "5V7uMLl373w": "short",
+    "S-6fkh4slQI": "short",
+    "wPkcOjSCGVs": "short",
+    "lISvfpLPphY": "short",
+    "oXDAi2-wtUg": "short",
+    "KRhxEhQYm1o": "short",
+    "ETSs40iMbkU": "short",
+    "P_RxAbr_Uwk": "short",
+    "G8eXXtfH4yk": "short",
+    "VB5T6jpJAlI": "short",
+    "XNfhTY0rFzc": "short",
+    "GiOT0zWTpOM": "short",
+    "WEjaS3ke4sk": "short",
+    "fZRIKewsago": "short",
+    "TAPwSBflKOY": "short",
+    "6FClIkU3ijE": "short",
+    "yCjT4PYcJ9A": "short",
+    "MCbIxDDF0Nk": "short",
+    "NhExlFhufvA": "short",
+    "By2uqBKaOoI": "short",
+    "jJi0vhBSlTg": "short",
+    "iUPqKe7HNjU": "short",
+    "Iv6sPnF8oCA": "short",
+    "M0gpPK4mv8w": "short",
+    "H5XAL8K0v6s": "short",
+    "9TAq7Ergflw": "short",
+    "buqFGTyXQxo": "short",
+    "aQd9dvngDFc": "short",
+    "osRf53yFetA": "short",
+    "aWEeeIvxNDA": "short",
+    "96MLBMv5b5E": "short",
+    "S_t9CqfrFck": "short",
+    "15ZvrXtPv2Q": "short",
+    "9M99N5G-GiE": "short",
+    "29zx5u_LiSY": "short",
+    "wip2rm0OKgA": "short",
+    "JRElvAlrD8c": "short",
+    "y60pXk66tOw": "short",
+    "DGAHJLbbLjo": "short",
+    "3BdbkEoAe_4": "short",
+    "-zp6UJXiUaY": "long",
+    "LvsLHPDlssk": "short",
+    "4oiLOORSQlM": "short",
+    "YUMSA3wAvb8": "long",
+    "kjJ6WmTIGe0": "short",
+    "_ZTNLwDMUsE": "short",
+    "stnN2naDLfU": "short",
+    "u0pq6f0zcgY": "short",
+    "b0QusqOmkQE": "short",
+    "xe-YhJA6LB0": "short",
+    "PF3FsV-7U9k": "short",
+    "z4kMnX0dmnI": "short",
+    "n7-vaCznw4g": "short",
+    "DJK1XFufi2A": "short",
+    "9UdEwRhpLoE": "short",
+    "gSmemfzFnbI": "short",
+    "E3iIhjXtncY": "long",
+    "0vcKNgcR3pY": "short",
+    "GTR2QJ7RVpc": "short",
+    "eGxt6DOjhWk": "short",
+    "wz59NDjn1W8": "short",
+    "FvOelYYc8XA": "short",
+    "WfZpMen0xWA": "short",
+    "Pnog7zZuFHs": "short",
+    "TuXXZNhiOEI": "long",
+    "JR2kcaiTaEY": "long",
+    "HvFGxjv1rko": "long",
+    "EuUnIv84iqE": "long",
+    "VnRbY25NAsE": "long",
+    "3CkL0dq0X9M": "long",
+    "MpbE4Jr9JmE": "long",
+    "aeRJ2fptNBQ": "long",
+    "8CbhsKWEW9k": "long",
+    "IdHBYTpFOxs": "long",
+    "_MrTLsawXAU": "long",
+    "yfc4Xlmv-fY": "short",
+    "ULZD2GK3mYY": "short",
+    "kkyKenW5nvI": "short",
+    "raQA-JgQ1D0": "short",
+    "5c3OdEdyRVA": "short",
+    "FeM5jL7N5BU": "long",
+    "08cbB6fREpk": "long",
+    "wprK9UUXzlQ": "short",
+    "B45mq4w4UDw": "short",
+    "Y6-X-7yrQe8": "short",
+    "gG1oituMat4": "short",
+    "HOivLfXGmwM": "short",
+    "F8VVSXZMzfc": "short",
+    "JO_RScbSSdw": "short",
+    "ntTdMvddiNw": "short",
+    "6Qyc-USr6cM": "short",
+    "mIKNBvKktlo": "short",
+    "X3zXxhq65v0": "short",
+    "bcoQPfAH53U": "short",
+    "zTKhYwzFCxo": "short",
+    "dQR6cSUwhrI": "short",
+    "ov6UtlKGWMc": "short",
+    "OBGhh5bfZVk": "short",
+    "88LB3uLA4j4": "short",
+    "l5NgvmJjTAQ": "short",
+    "UhrbwiUIF9Q": "short",
+    "_Dx1DlrcA68": "short",
+    "RLgSdF6L2s0": "short",
+    "N8Ywz4_NA4Y": "short",
+    "okG9TbLeqxc": "short",
+    "LHrz8toBs5Q": "short",
+    "EqWiKvZlRmQ": "short",
+    "E-lCvfZG9as": "short",
+    "uFUEOPsEgeU": "short",
+    "VMFsy_vhy2I": "short",
+    "pmgZUSkHv7E": "short",
+    "cPBEsZk7KVE": "short",
+    "oQjaUuon13o": "short",
+    "z3ZUBYFR_7Y": "short",
+    "_JqBXSs6tCs": "short",
+    "KoW-cTm6YwI": "short",
+    "q8LldoHuV5I": "short",
+    "pYNyplo4Qc0": "short",
+    "l-eRrxFcEEg": "short",
+    "FO_1HkPQddQ": "short",
+    "sSMtX9V5HW4": "short",
+    "vE_xsBqVDd8": "short",
+    "V8ZoAVqo_ZA": "short",
+    "QTQcWGlIFq0": "short",
+    "V8XjfRczCQU": "short",
+    "bwv6IlksvuY": "short",
+    "24I5LbUlpuI": "short",
+    "KJ9LLu-hQDE": "short",
+    "kv7CxYwOI8o": "short",
+    "L3B99dIezf8": "short",
+    "WqCMwTltmYE": "short",
+    "6ajN5k261_Y": "short",
+    "NIDa4CiMZOw": "short",
+    "DnNbZPLZ0sU": "short",
+    "ETZ97OgolnM": "short",
+    "3xBYw7gkbOI": "short",
+    "4giA4UPWVPE": "short",
+    "n62CGjXyzfg": "short",
+    "6XxAMwXiwG4": "short",
+    "kFQ24Ymq5xM": "short",
+    "zUjBw2SCHRE": "short",
+    "beavMBUME5M": "short",
+    "-mVmhJnpqfU": "short",
+    "OHUd2fOQynM": "long",
+    "VkBWOeBVrTo": "long",
+    "7bq-IfbPxak": "short",
+    "QBUwtPi3Hao": "short",
+    "fFC_yMIH9As": "short",
+    "az8RzQ6-xrI": "short",
+    "50s3KvjOlB0": "short",
+    "uG_6nGP6-C4": "short",
+    "wXLGqk6ZL34": "short",
+    "nvyapqH24fk": "short",
+    "d8qMJzi1_nY": "short",
+    "9ko1PetiKt8": "short",
+    "xR5PLSbvCNs": "short",
+    "xF_rDNu6OvE": "short",
+    "l2J8RqaJk48": "short",
+    "mVIDvG6aJhI": "short",
+    "x5jB-ZKoh_M": "short",
+    "XCnPj60M2Jg": "short",
+    "1avI34lbki4": "short",
+    "tEyL8hUhkbM": "short",
+    "zxRDX_HtI8s": "long",
+    "1K4iRMnhCX4": "short",
+    "Bttzted2ZGo": "short",
+    "cJHyLpJ7sEY": "short",
+    "qRa0o5hK3d4": "short",
+    "-Op2aSxgbPE": "short",
+    "nEPMFPORh-M": "short",
+    "VE6-hDQRf94": "short",
+    "Lzhqgw_42XQ": "short",
+    "DcOzLcohfvY": "short"
+  }
 }
