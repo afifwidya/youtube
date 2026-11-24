@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-24",
+  "niches": {
+    "horor-misteri-nyata": {
+      "opportunity": 75,
+      "breakoutRate": 0.7,
+      "channels": 40,
+      "medianTopOutlier": 9.2
+    },
+    "true-crime-indonesia": {
+      "opportunity": 70,
+      "breakoutRate": 0.53,
+      "channels": 40,
+      "medianTopOutlier": 8.8
+    },
+    "sejarah-nusantara": {
+      "opportunity": 76,
+      "breakoutRate": 0.57,
+      "channels": 40,
+      "medianTopOutlier": 6.9
+    },
+    "sejarah-dunia-perang": {
+      "opportunity": 79,
+      "breakoutRate": 0.76,
+      "channels": 40,
+      "medianTopOutlier": 14.9
+    },
+    "geopolitik-analisis-peta": {
+      "opportunity": 52,
+      "breakoutRate": 0.67,
+      "channels": 40,
+      "medianTopOutlier": 10.6
+    },
+    "studi-kasus-bisnis": {
+      "opportunity": 80,
+      "breakoutRate": 0.68,
+      "channels": 35,
+      "medianTopOutlier": 13.2
+    },
+    "finansial-tips-hemat": {
+      "opportunity": 52,
+      "breakoutRate": 0.4,
+      "channels": 40,
+      "medianTopOutlier": 2.3
+    },
+    "investasi-saham-reksadana": {
+      "opportunity": 44,
+      "breakoutRate": 0.31,
+      "channels": 40,
+      "medianTopOutlier": 0
+    },
+    "ide-bisnis-side-hustle": {
+      "opportunity": 78,
+      "breakoutRate": 0.77,
+      "channels": 40,
+      "medianTopOutlier": 18.3
+    },
+    "properti-kpr-rumah": {
+      "opportunity": 63,
+      "breakoutRate": 0.44,
+      "channels": 40,
+      "medianTopOutlier": 0.3
+    },
+    "ai-tools-otomasi": {
+      "opportunity": 77,
+      "breakoutRate": 0.85,
+      "channels": 40,
+      "medianTopOutlier": 12.8
+    },
+    "berita-teknologi-gadget": {
+      "opportunity": 65,
+      "breakoutRate": 0.53,
+      "channels": 40,
+      "medianTopOutlier": 5.8
+    },
+    "cyber-security-hacker": {
+      "opportunity": 75,
+      "breakoutRate": 0.58,
+      "channels": 37,
+      "medianTopOutlier": 11
+    },
+    "coding-programming-pemula": {
+      "opportunity": 26,
+      "breakoutRate": 0.15,
+      "channels": 40,
+      "medianTopOutlier": 0
+    },
+    "sains-luar-angkasa": {
+      "opportunity": 66,
+      "breakoutRate": 0.75,
+      "channels": 40,
+      "medianTopOutlier": 21.7
+    },
+    "sains-fenomena-alam": {
+      "opportunity": 78,
+      "breakoutRate": 0.86,
+      "channels": 40,
+      "medianTopOutlier": 30.2
+    },
+    "fakta-hewan-prasejarah": {
+      "opportunity": 78,
+      "breakoutRate": 0.61,
+      "channels": 40,
+      "medianTopOutlier": 9.1
+    },
+    "psikologi-stoikisme": {
+      "opportunity": 75,
+      "breakoutRate": 0.67,
+      "channels": 40,
+      "medianTopOutlier": 10.5
+    },
+    "motivasi-produktivitas": {
+      "opportunity": 72,
+      "breakoutRate": 0.56,
+      "channels": 40,
+      "medianTopOutlier": 6.3
+    },
+    "animasi-stickman-story": {
+      "opportunity": 71,
+      "breakoutRate": 0.47,
+      "channels": 40,
+      "medianTopOutlier": 3.9
+    },
+    "top-10-fakta-unik": {
+      "opportunity": 75,
+      "breakoutRate": 0.48,
+      "channels": 40,
+      "medianTopOutlier": 3.3
+    },
+    "lofi-relaksasi-tidur": {
+      "opportunity": 26,
+      "breakoutRate": 0.14,
+      "channels": 40,
+      "medianTopOutlier": 0
+    },
+    "tips-karir-interview": {
+      "opportunity": 42,
+      "breakoutRate": 0.29,
+      "channels": 30,
+      "medianTopOutlier": 0
+    },
+    "wisata-surga-tersembunyi": {
+      "opportunity": 70,
+      "breakoutRate": 0.38,
+      "channels": 40,
+      "medianTopOutlier": 3.1
+    },
+    "resep-masak-pov": {
+      "opportunity": 69,
+      "breakoutRate": 0.83,
+      "channels": 40,
+      "medianTopOutlier": 20.7
+    }
+  }
+}
