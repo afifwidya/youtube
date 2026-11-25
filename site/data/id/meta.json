@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "siteName": "Faceless Radar Indonesia",
-  "updatedAt": "2026-11-24T20:08:14.488Z",
+  "updatedAt": "2026-11-25T19:12:41.701Z",
   "breakoutThreshold": 5,
   "breakoutMinViews": 3000,
   "windowDays": 90,
   "quota": {
-    "used": 4756,
+    "used": 4736,
     "budget": 9000,
     "calls": {
       "search": 40,
       "channels": 8,
       "playlistItems": 400,
-      "videos": 348
+      "videos": 328
     }
   },
   "counts": {
     "niches": 25,
-    "channels": 940,
+    "channels": 945,
     "videos": 960,
     "reviewedChannels": 0
   }

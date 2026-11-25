@@ -20,13 +20,13 @@
     "metrics": {
       "channels": 40,
       "opportunity": 75,
-      "breakoutRate": 0.7,
-      "medianTopOutlier": 9.2,
+      "breakoutRate": 0.68,
+      "medianTopOutlier": 8.8,
       "smallChannelShare": 0.53,
       "bigChannelShare": 0.35,
       "newcomerRate": 0.8,
       "uploadsPerWeek": 7.8,
-      "shortsShare": 0.64,
+      "shortsShare": 0.66,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -34,14 +34,14 @@
       "QsjycPoVVwg",
       "sxdMv8a0tF0",
       "p4DuSx4l2-g",
-      "N72azXjPP1E",
+      "46JB1tgWMio",
       "180k6aaNpQ0",
       "A6Uo6XWyPAI",
-      "46JB1tgWMio",
       "KL_jEkqa-qE",
       "BkWw56kTSzs",
       "VqqHp_-d2wo",
-      "w1L2i38wB4w"
+      "kqb3apUD--w",
+      "yoXaZe2nNaw"
     ]
   },
   {
@@ -64,13 +64,13 @@
     "metrics": {
       "channels": 40,
       "opportunity": 70,
-      "breakoutRate": 0.53,
-      "medianTopOutlier": 8.8,
+      "breakoutRate": 0.55,
+      "medianTopOutlier": 8.7,
       "smallChannelShare": 0.6,
       "bigChannelShare": 0.25,
       "newcomerRate": 0.38,
-      "uploadsPerWeek": 6.9,
-      "shortsShare": 0.42,
+      "uploadsPerWeek": 6.8,
+      "shortsShare": 0.41,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -81,10 +81,10 @@
       "TQsfa5hyoqE",
       "G4eRcmc4-QQ",
       "liEZdsS6Cx8",
-      "Ln87llMIW58",
-      "WzDkNAaRZYw",
       "MC02VWUzu3Y",
-      "kwvHLI-CAqQ",
+      "Ln87llMIW58",
+      "6qbll6tVato",
+      "WzDkNAaRZYw",
       "3ywI1BAKQfI"
     ]
   },
@@ -108,13 +108,13 @@
     "metrics": {
       "channels": 40,
       "opportunity": 76,
-      "breakoutRate": 0.57,
-      "medianTopOutlier": 6.9,
+      "breakoutRate": 0.51,
+      "medianTopOutlier": 6.2,
       "smallChannelShare": 0.9,
       "bigChannelShare": 0.03,
       "newcomerRate": 0.42,
-      "uploadsPerWeek": 3.2,
-      "shortsShare": 0.43,
+      "uploadsPerWeek": 3.1,
+      "shortsShare": 0.42,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -124,8 +124,8 @@
       "S94M1AeRTd8",
       "6UpPV-S3Umw",
       "a2F3UJX0Oas",
-      "42HbQynQ_lg",
       "wgiQuX9-iEQ",
+      "42HbQynQ_lg",
       "cAIONG7OqZg",
       "Vw4cv-7uhp8",
       "Gulkw3trywQ",
@@ -153,7 +153,7 @@
       "channels": 40,
       "opportunity": 79,
       "breakoutRate": 0.76,
-      "medianTopOutlier": 14.9,
+      "medianTopOutlier": 19.5,
       "smallChannelShare": 0.73,
       "bigChannelShare": 0.1,
       "newcomerRate": 0.92,
@@ -196,28 +196,28 @@
     "metrics": {
       "channels": 40,
       "opportunity": 52,
-      "breakoutRate": 0.67,
-      "medianTopOutlier": 10.6,
+      "breakoutRate": 0.66,
+      "medianTopOutlier": 13.8,
       "smallChannelShare": 0.68,
       "bigChannelShare": 0.18,
       "newcomerRate": 0,
-      "uploadsPerWeek": 8.3,
-      "shortsShare": 0.28,
+      "uploadsPerWeek": 8,
+      "shortsShare": 0.24,
       "confidence": "high"
     },
     "topVideoIds": [
-      "DOx-hT7nWwE",
       "jFbqtGkXv9o",
       "zidjxwvKA9I",
       "LFr6KfrDp2E",
-      "aKyx3T6ZNsI",
+      "OWBulrmNKNM",
       "F25XrZ89boU",
       "uPZ58erI5xA",
       "dUTOdO-4nYc",
       "C7Vk5ufuzVc",
       "_NXqPSaMZkY",
+      "POnmSFk-J18",
       "Sac7I9shgEg",
-      "79Xd88lV7LM"
+      "a320HwFHbQ0"
     ]
   },
   {
@@ -239,15 +239,15 @@
     },
     "firstSeen": "2026-11-01",
     "metrics": {
-      "channels": 35,
+      "channels": 40,
       "opportunity": 80,
-      "breakoutRate": 0.68,
-      "medianTopOutlier": 13.2,
-      "smallChannelShare": 0.77,
+      "breakoutRate": 0.72,
+      "medianTopOutlier": 10.9,
+      "smallChannelShare": 0.75,
       "bigChannelShare": 0,
-      "newcomerRate": 0.54,
-      "uploadsPerWeek": 4.3,
-      "shortsShare": 0.33,
+      "newcomerRate": 0.6,
+      "uploadsPerWeek": 4.8,
+      "shortsShare": 0.4,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -284,29 +284,29 @@
     "firstSeen": "2026-11-01",
     "metrics": {
       "channels": 40,
-      "opportunity": 52,
+      "opportunity": 55,
       "breakoutRate": 0.4,
       "medianTopOutlier": 2.3,
       "smallChannelShare": 0.98,
       "bigChannelShare": 0,
-      "newcomerRate": 0.1,
-      "uploadsPerWeek": 2.6,
-      "shortsShare": 0.31,
+      "newcomerRate": 0.15,
+      "uploadsPerWeek": 2.7,
+      "shortsShare": 0.32,
       "confidence": "high"
     },
     "topVideoIds": [
-      "QNqDE9yZrq4",
       "akP4jQPKKhM",
       "7_4xCN90su8",
       "cf0whSf-ODA",
       "wq3pJMXl7tI",
-      "MCcZR1ElN2k",
       "iO6unVQjAFk",
       "beefZaRobXA",
+      "Cug3ceFoi9I",
       "Q7_xqITuqMg",
       "EjKU3VxdsGg",
-      "6tdNvXL0054",
-      "Osm2J-U5sXA"
+      "Osm2J-U5sXA",
+      "1ryqYNhU3Lk",
+      "AY3q4HZNE84"
     ]
   },
   {
@@ -328,14 +328,14 @@
     "firstSeen": "2026-11-01",
     "metrics": {
       "channels": 40,
-      "opportunity": 44,
-      "breakoutRate": 0.31,
+      "opportunity": 46,
+      "breakoutRate": 0.34,
       "medianTopOutlier": 0,
       "smallChannelShare": 0.85,
       "bigChannelShare": 0.03,
       "newcomerRate": 0.07,
-      "uploadsPerWeek": 4.8,
-      "shortsShare": 0.3,
+      "uploadsPerWeek": 4.5,
+      "shortsShare": 0.31,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -350,7 +350,7 @@
       "hCgqkh7y53Y",
       "H-60vkxDgxI",
       "rZqZ034cLTM",
-      "iRAvVyxBLzo"
+      "PxnSTDwaAcw"
     ]
   },
   {
@@ -373,28 +373,28 @@
     "metrics": {
       "channels": 40,
       "opportunity": 78,
-      "breakoutRate": 0.77,
-      "medianTopOutlier": 18.3,
+      "breakoutRate": 0.79,
+      "medianTopOutlier": 19.2,
       "smallChannelShare": 0.43,
       "bigChannelShare": 0.15,
       "newcomerRate": 1,
       "uploadsPerWeek": 2.9,
-      "shortsShare": 0.25,
+      "shortsShare": 0.27,
       "confidence": "high"
     },
     "topVideoIds": [
       "zhqfJsB8wts",
       "qWRguSOY8nk",
       "fHZr8Nhr8jQ",
-      "QznhLI9lO10",
+      "5HBZWUO4Rtg",
       "cgK53Vx-RjY",
       "fVjPQuaFijY",
       "DZcQW2Pbsp4",
       "LNwUsfEbZMI",
       "b1AYKJifTYw",
-      "XsvDzv-N6I4",
-      "5HBZWUO4Rtg",
-      "7ZAWvMwU4xQ"
+      "3xp6RUpPRcU",
+      "7ZAWvMwU4xQ",
+      "XsvDzv-N6I4"
     ]
   },
   {
@@ -422,7 +422,7 @@
       "smallChannelShare": 0.98,
       "bigChannelShare": 0,
       "newcomerRate": 0.27,
-      "uploadsPerWeek": 2.2,
+      "uploadsPerWeek": 2,
       "shortsShare": 0.41,
       "confidence": "high"
     },
@@ -466,23 +466,23 @@
       "smallChannelShare": 0.35,
       "bigChannelShare": 0.2,
       "newcomerRate": 1,
-      "uploadsPerWeek": 2.6,
-      "shortsShare": 0.29,
+      "uploadsPerWeek": 2.7,
+      "shortsShare": 0.28,
       "confidence": "high"
     },
     "topVideoIds": [
       "6Tth927NQWc",
       "buNO0FkOcCc",
-      "Ge1B-Ok1Pfk",
       "kDcxEIDC5NA",
+      "Ge1B-Ok1Pfk",
       "n50KkoucMpU",
-      "FnB9tHKBJXQ",
-      "4z2i6UsQG1k",
-      "prNgebOBzRY",
-      "4wBVuj2an8E",
       "ZxaMmG71g8c",
       "V_1Vn2WfpEY",
-      "2kzuCJ5KLn4"
+      "EQBLRjWmNBk",
+      "q1IwR88mhaA",
+      "FnB9tHKBJXQ",
+      "2kzuCJ5KLn4",
+      "prNgebOBzRY"
     ]
   },
   {
@@ -505,13 +505,13 @@
     "metrics": {
       "channels": 40,
       "opportunity": 65,
-      "breakoutRate": 0.53,
-      "medianTopOutlier": 5.8,
+      "breakoutRate": 0.51,
+      "medianTopOutlier": 5.6,
       "smallChannelShare": 0.83,
       "bigChannelShare": 0.05,
       "newcomerRate": 0.21,
-      "uploadsPerWeek": 4.8,
-      "shortsShare": 0.22,
+      "uploadsPerWeek": 4.7,
+      "shortsShare": 0.21,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -547,15 +547,15 @@
     },
     "firstSeen": "2026-11-01",
     "metrics": {
-      "channels": 37,
-      "opportunity": 75,
+      "channels": 39,
+      "opportunity": 74,
       "breakoutRate": 0.58,
       "medianTopOutlier": 11,
-      "smallChannelShare": 0.62,
-      "bigChannelShare": 0.03,
+      "smallChannelShare": 0.59,
+      "bigChannelShare": 0.08,
       "newcomerRate": 0.4,
       "uploadsPerWeek": 4,
-      "shortsShare": 0.2,
+      "shortsShare": 0.19,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -643,7 +643,7 @@
       "bigChannelShare": 0.08,
       "newcomerRate": 0.24,
       "uploadsPerWeek": 3.7,
-      "shortsShare": 0.3,
+      "shortsShare": 0.29,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -770,12 +770,12 @@
       "channels": 40,
       "opportunity": 75,
       "breakoutRate": 0.67,
-      "medianTopOutlier": 10.5,
+      "medianTopOutlier": 9.9,
       "smallChannelShare": 0.98,
       "bigChannelShare": 0,
       "newcomerRate": 0.41,
       "uploadsPerWeek": 3.5,
-      "shortsShare": 0.44,
+      "shortsShare": 0.48,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -811,30 +811,30 @@
     },
     "firstSeen": "2026-11-01",
     "metrics": {
-      "channels": 40,
+      "channels": 39,
       "opportunity": 72,
-      "breakoutRate": 0.56,
+      "breakoutRate": 0.57,
       "medianTopOutlier": 6.3,
       "smallChannelShare": 0.95,
       "bigChannelShare": 0,
       "newcomerRate": 0.33,
-      "uploadsPerWeek": 4.9,
-      "shortsShare": 0.19,
+      "uploadsPerWeek": 4.3,
+      "shortsShare": 0.24,
       "confidence": "high"
     },
     "topVideoIds": [
-      "Jjzo5FUjns4",
       "DwfEj1VVPGg",
-      "NJ6jbz1ozSE",
+      "Jjzo5FUjns4",
       "kXLG8E1oD2s",
       "31jaJx1V-bQ",
       "SNLQU_dIQK0",
       "lqG6gTG8N1c",
-      "eqC482PyMf8",
+      "NJ6jbz1ozSE",
       "stIhioFAwe0",
       "icnOkcEBl5U",
       "1-esN5ClbXc",
-      "5LsSe5RRUqA"
+      "5LsSe5RRUqA",
+      "GQ8v5Zl5yiw"
     ]
   },
   {
@@ -856,29 +856,29 @@
     "firstSeen": "2026-11-01",
     "metrics": {
       "channels": 40,
-      "opportunity": 71,
-      "breakoutRate": 0.47,
-      "medianTopOutlier": 3.9,
+      "opportunity": 69,
+      "breakoutRate": 0.45,
+      "medianTopOutlier": 4,
       "smallChannelShare": 0.8,
       "bigChannelShare": 0.1,
       "newcomerRate": 0.4,
       "uploadsPerWeek": 3.2,
-      "shortsShare": 0.59,
+      "shortsShare": 0.64,
       "confidence": "high"
     },
     "topVideoIds": [
       "a6c6THiKIoo",
       "HD3MHcUJErE",
       "V3ms4VNP2S8",
+      "_CYZ-4HXRD4",
       "fASVin8SmYo",
       "8iuSwlaguV4",
-      "jkiykLLbzoU",
       "KKoxu4KHtMQ",
-      "xUfJ16q46_8",
-      "6L_gvP2VYyM",
-      "V80rGfrDNPU",
       "gKPIiT1gD50",
-      "t2vgdybzfPk"
+      "t2vgdybzfPk",
+      "wkkoH7LEDPI",
+      "DL6izFHZ9tE",
+      "0USnnxY6GU4"
     ]
   },
   {
@@ -900,14 +900,14 @@
     "firstSeen": "2026-11-01",
     "metrics": {
       "channels": 40,
-      "opportunity": 75,
-      "breakoutRate": 0.48,
-      "medianTopOutlier": 3.3,
+      "opportunity": 76,
+      "breakoutRate": 0.49,
+      "medianTopOutlier": 4,
       "smallChannelShare": 0.75,
       "bigChannelShare": 0.05,
       "newcomerRate": 0.46,
       "uploadsPerWeek": 5.9,
-      "shortsShare": 0.55,
+      "shortsShare": 0.56,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -944,29 +944,29 @@
     "firstSeen": "2026-11-01",
     "metrics": {
       "channels": 40,
-      "opportunity": 26,
-      "breakoutRate": 0.14,
+      "opportunity": 25,
+      "breakoutRate": 0.12,
       "medianTopOutlier": 0,
       "smallChannelShare": 0.98,
       "bigChannelShare": 0,
       "newcomerRate": 0,
       "uploadsPerWeek": 1.2,
-      "shortsShare": 0.41,
+      "shortsShare": 0.4,
       "confidence": "high"
     },
     "topVideoIds": [
-      "IvhJyIXvqZs",
       "NsCQ1Q3p9Fk",
+      "IvhJyIXvqZs",
       "M46x3L74Qtc",
       "Ptf5GKjRzvs",
       "lS70LzwLAWM",
       "smM308lO9ZA",
       "62GjHzydQpI",
       "iSTLBN9xzQU",
-      "vhp8J2b9jpE",
-      "dltJ5V29Eps",
       "yLR-ieSPoNI",
-      "5BGvBsDkAR4"
+      "dltJ5V29Eps",
+      "ycGgSe9irFM",
+      "6Xe2ZS7BuYQ"
     ]
   },
   {
@@ -987,15 +987,15 @@
     },
     "firstSeen": "2026-11-01",
     "metrics": {
-      "channels": 30,
-      "opportunity": 42,
-      "breakoutRate": 0.29,
+      "channels": 31,
+      "opportunity": 44,
+      "breakoutRate": 0.31,
       "medianTopOutlier": 0,
-      "smallChannelShare": 0.93,
+      "smallChannelShare": 0.94,
       "bigChannelShare": 0.03,
       "newcomerRate": 0.09,
-      "uploadsPerWeek": 3.7,
-      "shortsShare": 0.42,
+      "uploadsPerWeek": 3.3,
+      "shortsShare": 0.46,
       "confidence": "high"
     },
     "topVideoIds": [
@@ -1004,13 +1004,13 @@
       "nW-EB6PAQrc",
       "t6-hY4pS5Dw",
       "Kyvt3JKLPgI",
+      "sDrXZeFuIM0",
       "irF-tVeNzZk",
+      "U85Bzf6JAHo",
       "GK28RVR7vuo",
       "nMM59YT_f2U",
       "REFv3W7DsEY",
-      "hUMZzoyQbUY",
-      "K5-Euv9Gyd4",
-      "K3Vqrd1uB0M"
+      "hUMZzoyQbUY"
     ]
   },
   {
@@ -1032,29 +1032,29 @@
     "firstSeen": "2026-11-01",
     "metrics": {
       "channels": 40,
-      "opportunity": 70,
-      "breakoutRate": 0.38,
+      "opportunity": 73,
+      "breakoutRate": 0.41,
       "medianTopOutlier": 3.1,
       "smallChannelShare": 0.83,
       "bigChannelShare": 0.03,
       "newcomerRate": 0.57,
       "uploadsPerWeek": 1.5,
-      "shortsShare": 0.49,
+      "shortsShare": 0.57,
       "confidence": "high"
     },
     "topVideoIds": [
       "ZiVkgh9gye8",
       "z_4aMbNMrIw",
-      "VCC7gpbvG1Q",
-      "NKt7EkyYnQE",
-      "ltUvjjSHoiI",
       "XyCmZdcxDe8",
-      "V2BCoQ_Pun0",
-      "nhfoE05qcTo",
-      "I_H-XE5rrzE",
       "EfZwWort7po",
+      "nhfoE05qcTo",
+      "VCC7gpbvG1Q",
+      "V2BCoQ_Pun0",
+      "I_H-XE5rrzE",
+      "EKi_9ogA2BM",
       "5A8pJ9aC5VY",
-      "EKi_9ogA2BM"
+      "hrVykV-aQ0M",
+      "l2MTXbV2iRI"
     ]
   },
   {
@@ -1077,12 +1077,12 @@
     "metrics": {
       "channels": 40,
       "opportunity": 69,
-      "breakoutRate": 0.83,
-      "medianTopOutlier": 20.7,
+      "breakoutRate": 0.85,
+      "medianTopOutlier": 23,
       "smallChannelShare": 0.43,
       "bigChannelShare": 0.18,
       "newcomerRate": 0.33,
-      "uploadsPerWeek": 4.4,
+      "uploadsPerWeek": 4.6,
       "shortsShare": 0.39,
       "confidence": "high"
     },
@@ -1093,8 +1093,8 @@
       "fHZr8Nhr8jQ",
       "Q_1NxKlfhPY",
       "cgK53Vx-RjY",
-      "TLT1xlBxBQU",
       "fVjPQuaFijY",
+      "TLT1xlBxBQU",
       "DZcQW2Pbsp4",
       "EHsVtS-qwMA",
       "LNwUsfEbZMI",
